@@ -1,25 +1,10 @@
 + 前端工程化
   + [webpack 使用与原理理解](https://github.com/liuyuanyangscript/deep-webpack)
 + JavaScript
-  + underscore
-    + [underscore 源码了解](https://github.com/liuyuanyangscript/blog/issues/5)
-  + jQuery
-    + [jQuery-1.7.1 源码阅读笔记](https://github.com/liuyuanyangscript/blog/issues/9)
-  + 高性能 JavaScript
-    + [高性能 JavaScript](https://github.com/liuyuanyangscript/blog/issues/12)
-    + [高性能 JavaScript 读书笔记](https://github.com/liuyuanyangscript/blog/issues/26)
-  + JavaScript 设计模式
-    + [设计模式——中介者模式](https://github.com/liuyuanyangscript/blog/issues/29)
-    + [设计模式——享元模式](https://github.com/liuyuanyangscript/blog/issues/30)
-    + [设计模式——代理模式](https://github.com/liuyuanyangscript/blog/issues/31)
-    + [设计模式——单例模式](https://github.com/liuyuanyangscript/blog/issues/32)
-    + [设计模式——发布-订阅模式](https://github.com/liuyuanyangscript/blog/issues/33)
-    + [设计模式——模板方法模式](https://github.com/liuyuanyangscript/blog/issues/34)
-    + [设计模式——状态模式](https://github.com/liuyuanyangscript/blog/issues/35)
-    + [设计模式——策略模式](https://github.com/liuyuanyangscript/blog/issues/36)
-    + [设计模式——职责链模式](https://github.com/liuyuanyangscript/blog/issues/37)
-    + [设计模式——装饰者模式](https://github.com/liuyuanyangscript/blog/issues/38)
-    + [设计模式——适配器模式](https://github.com/liuyuanyangscript/blog/issues/39)
+  + [underscore 源码了解](https://github.com/liuyuanyangscript/blog/issues/5)
+  + [jQuery-1.7.1 源码阅读笔记](https://github.com/liuyuanyangscript/blog/issues/9)
+  + [《高性能 JavaScript》笔记](https://github.com/liuyuanyangscript/blog/issues/54)
+  + [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)
   + [正则表达式语法规则](https://github.com/liuyuanyangscript/blog/issues/7)
   + [数组的几个方法](https://github.com/liuyuanyangscript/blog/issues/23)
   + [跨域那点事](https://github.com/liuyuanyangscript/blog/issues/25)
