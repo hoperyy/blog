@@ -30,6 +30,7 @@
   + [chrome 开发者工具使用](https://github.com/liuyuanyangscript/blog/issues/11)
   + [Git 速查手册](https://github.com/liuyuanyangscript/blog/issues/51)
 + 思考
+  + [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)
   + [远程同步文件的几种技术方案](https://github.com/liuyuanyangscript/blog/issues/4)
   + [工作中的方法论](https://github.com/liuyuanyangscript/blog/issues/45)
   + [一次大促活动总结](https://github.com/liuyuanyangscript/blog/issues/46)
