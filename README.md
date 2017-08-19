@@ -52,7 +52,7 @@
 +   [何为优秀的前端？](https://github.com/liuyuanyangscript/blog/issues/49)(2015)
 +   [工作中的方法论](https://github.com/liuyuanyangscript/blog/issues/45)(2015)
 +   [2014 年工作总结](https://github.com/liuyuanyangscript/blog/issues/44)(2014)
-+   [一次大促活动总结](https://github.com/liuyuanyangscript/blog/issues/46)(2016)
++   [一次大促活动总结](https://github.com/liuyuanyangscript/blog/issues/46)(2014)
 
 ## 碎语
 
