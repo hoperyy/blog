@@ -57,3 +57,4 @@
 ## 碎语
 
 +   [#2017/08/19#掌握一个新技能需要的时间其实挺短](https://github.com/hoperyy/blog/issues/56)
++   [#2017/08/22#在做事的时候多考虑“方法论”](https://github.com/hoperyy/blog/issues/57)
