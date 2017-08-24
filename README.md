@@ -1,5 +1,10 @@
 
-## （一）前端
+## （一）我的开源项目
+
++   [vuebook：可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)
++   [同步文件目录的工具包](https://github.com/hoperyy/sync-directory)
+
+## （二）前端
 
 ### [webpack](https://github.com/hoperyy/deep-webpack)
 
@@ -55,7 +60,7 @@
 +   [2014 年工作总结](https://github.com/liuyuanyangscript/blog/issues/44)(2014)
 +   [一次大促活动总结](https://github.com/liuyuanyangscript/blog/issues/46)(2014)
 
-## （二）碎语
+## （三）碎语
 
 +   [#2017/08/22#在做事的时候多考虑“方法论”](https://github.com/hoperyy/blog/issues/57)
 +   [#2017/08/19#掌握一个新技能需要的时间其实挺短](https://github.com/hoperyy/blog/issues/56)
