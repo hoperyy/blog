@@ -1,14 +1,14 @@
 
-## 前端
+## （一）前端
 
 ### [webpack](https://github.com/hoperyy/deep-webpack)
 
-+   [启动一个基本的 vue 项目](https://github.com/hoperyy/deep-webpack/issues/1)(2017)
-+   [webpack 进阶使用与性能优化](https://github.com/hoperyy/deep-webpack/issues/2)(2017)
-+   [webpack 使用过程中的坑](https://github.com/hoperyy/deep-webpack/issues/3)(2017)
++	[脚手架与业务目录的目录结构浅析](https://github.com/liuyuanyangscript/deep-webpack/issues/8)(2017/08/23)
 +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/deep-webpack/issues/4)(2017)
 +   [如何添加 eslint](https://github.com/hoperyy/deep-webpack/issues/7)(2017)
-+	[脚手架与业务目录的目录结构探究](https://github.com/liuyuanyangscript/deep-webpack/issues/8)(2017/08/23)
++   [webpack 进阶使用与性能优化](https://github.com/hoperyy/deep-webpack/issues/2)(2017)
++   [webpack 使用过程中的坑](https://github.com/hoperyy/deep-webpack/issues/3)(2017)
++   [启动一个基本的 vue 项目](https://github.com/hoperyy/deep-webpack/issues/1)(2017)
 
 ### JavaScript
 +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
@@ -55,7 +55,7 @@
 +   [2014 年工作总结](https://github.com/liuyuanyangscript/blog/issues/44)(2014)
 +   [一次大促活动总结](https://github.com/liuyuanyangscript/blog/issues/46)(2014)
 
-## 碎语
+## （二）碎语
 
-+   [#2017/08/19#掌握一个新技能需要的时间其实挺短](https://github.com/hoperyy/blog/issues/56)
 +   [#2017/08/22#在做事的时候多考虑“方法论”](https://github.com/hoperyy/blog/issues/57)
++   [#2017/08/19#掌握一个新技能需要的时间其实挺短](https://github.com/hoperyy/blog/issues/56)
