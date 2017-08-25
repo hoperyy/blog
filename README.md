@@ -3,6 +3,7 @@
 
 +   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)
 +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)
++   [视觉还原度对比工具 visual-compare](https://github.com/hoperyy/visual-compare)
 
 ## （二）前端
 
