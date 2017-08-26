@@ -18,20 +18,16 @@
 
 ### JavaScript
 +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
-+   [数组的几个方法](https://github.com/liuyuanyangscript/blog/issues/23)(2016)
 +   [跨域那点事](https://github.com/liuyuanyangscript/blog/issues/25)(2016)
 +   [JavaScript 算法](https://github.com/liuyuanyangscript/blog/issues/27)(2016)
 +   [underscore 源码了解](https://github.com/liuyuanyangscript/blog/issues/5)(2015)
 +   [jQuery-1.7.1 源码阅读笔记](https://github.com/liuyuanyangscript/blog/issues/9)(2015)
 +   [《高性能 JavaScript》笔记](https://github.com/liuyuanyangscript/blog/issues/54)(2015)
 +   [正则表达式语法规则](https://github.com/liuyuanyangscript/blog/issues/7)(2015)
-+   [事件冒泡](https://github.com/liuyuanyangscript/blog/issues/40)(2015)
-+   [JS 基础](https://github.com/liuyuanyangscript/blog/issues/28)(2014)
 
 ### CSS
 +   [什么是 BFC](https://github.com/liuyuanyangscript/blog/issues/16)(2016)
 +   [css 样式的百分比都相对于谁？](https://github.com/liuyuanyangscript/blog/issues/18)(2016)
-+   [flex 属性快速记忆](https://github.com/liuyuanyangscript/blog/issues/41)(2016)
 +   [CSS清除浮动的3个方法](https://github.com/liuyuanyangscript/blog/issues/17)(2014)
 
 ### React
