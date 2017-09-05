@@ -35,6 +35,7 @@
 +   [React 渲染性能提升](https://github.com/liuyuanyangscript/blog/issues/21)(2016)
 
 ### 基础
++   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)
 +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/liuyuanyangscript/blog/issues/19)(2016)
 +   [HTTP/HTTP/2.0/SPDY/HTTPS](https://github.com/liuyuanyangscript/blog/issues/20)(2016)
 +   [聊聊 websocket](https://github.com/liuyuanyangscript/blog/issues/24)(2016)
