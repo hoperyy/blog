@@ -60,6 +60,7 @@
 
 ## （三）碎语
 
++   [#2017/09/27#技术储备相当重要](https://github.com/hoperyy/blog/issues/60)
 +   [#2017/09/26#“需求池”这个概念不错](https://github.com/hoperyy/blog/issues/59)
 +   [#2017/08/22#在做事的时候多考虑“方法论”](https://github.com/hoperyy/blog/issues/57)
 +   [#2017/08/19#掌握一个新技能需要的时间其实挺短](https://github.com/hoperyy/blog/issues/56)
