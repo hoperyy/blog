@@ -60,6 +60,7 @@
 
 ## （三）碎语
 
++   #2017/10/07#多领域专家
 +   #2017/10/06#牢记目标和节点
 +   [#2017/09/27#技术储备相当重要](https://github.com/hoperyy/blog/issues/60)
 +   [#2017/09/26#“需求池”这个概念不错](https://github.com/hoperyy/blog/issues/59)
