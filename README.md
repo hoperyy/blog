@@ -72,7 +72,31 @@
 +   [2014 年工作总结](https://github.com/liuyuanyangscript/blog/issues/44)(2014)
 +   [一次大促活动总结](https://github.com/liuyuanyangscript/blog/issues/46)(2014)
 
-## （三）碎语
+## （三）Linux
+
++	[day 1 - linux 命令 : ls](https://github.com/hoperyy/blog/issues/70)
++	[day 2 - linux 命令 : cd](https://github.com/hoperyy/blog/issues/71)
++	[day 3 - linux 命令 : pwd](https://github.com/hoperyy/blog/issues/72)
++	[day 4 - linux 命令 : mkdir](https://github.com/hoperyy/blog/issues/73)
++	[day 5 - linux 命令 : rm](https://github.com/hoperyy/blog/issues/74)
++	[day 6 - linux 命令 : mv](https://github.com/hoperyy/blog/issues/75)
++	[day 7 - linux 命令 : cp](https://github.com/hoperyy/blog/issues/76)
++	[day 8 - linux 命令 : touch](https://github.com/hoperyy/blog/issues/77)
++	[day 9 - linux 命令 : cat](https://github.com/hoperyy/blog/issues/78)
++	[day 10 - linux 命令 : nl](https://github.com/hoperyy/blog/issues/79)
++	[day 11 - linux 命令 : more](https://github.com/hoperyy/blog/issues/80)
++	[day 12 - linux 命令 : less](https://github.com/hoperyy/blog/issues/81)
++	[day 13 - linux 命令 : head](https://github.com/hoperyy/blog/issues/82)
++	[day 14 - linux 命令 : tail](https://github.com/hoperyy/blog/issues/83)
++	[day 15 - linux 命令 : which](https://github.com/hoperyy/blog/issues/84)
++	[day 16 - linux 命令 : whereis](https://github.com/hoperyy/blog/issues/85)
++	[day 17 - linux 命令 : find](https://github.com/hoperyy/blog/issues/86)
++	[day 18 - linux 命令 : diff](https://github.com/hoperyy/blog/issues/87)
++	[day 19 - linux 命令 : vim](https://github.com/hoperyy/blog/issues/88)
++	[day 20 - linux 命令 : grep](https://github.com/hoperyy/blog/issues/89)
++	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)
+
+## （四）碎语
 
 +   #2017/10/09#用方法论辅助自己
 +   #2017/10/08#用规划和计划消除紧急事务
