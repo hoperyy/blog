@@ -18,14 +18,14 @@
 
 ### Node.js
 
-+	[gzip 和 ungizp](https://github.com/hoperyy/blog/issues/62)
-+	[connect](https://github.com/hoperyy/blog/issues/63)
-+	[关于 request 的一些基础知识点](https://github.com/hoperyy/blog/issues/64)
-+	[读取文件并返回到页面](https://github.com/hoperyy/blog/issues/65)
-+	[客户端发送请求](https://github.com/hoperyy/blog/issues/66)
-+	[可交互的输入输出](https://github.com/hoperyy/blog/issues/67)
-+	[基于 Telnet 的聊天室](https://github.com/hoperyy/blog/issues/68)
-+	[benchmark](https://github.com/hoperyy/blog/issues/69)
++	[gzip 和 ungizp](https://github.com/hoperyy/blog/issues/62)(2017)
++	[connect](https://github.com/hoperyy/blog/issues/63)(2017)
++	[关于 request 的一些基础知识点](https://github.com/hoperyy/blog/issues/64)(2017)
++	[读取文件并返回到页面](https://github.com/hoperyy/blog/issues/65)(2017)
++	[客户端发送请求](https://github.com/hoperyy/blog/issues/66)(2017)
++	[可交互的输入输出](https://github.com/hoperyy/blog/issues/67)(2017)
++	[基于 Telnet 的聊天室](https://github.com/hoperyy/blog/issues/68)(2017)
++	[benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
 
 ### JavaScript
 +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
@@ -50,7 +50,7 @@
 
 ### underscore
 
-+	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)
++	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
 
 ### Others
 +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
@@ -68,39 +68,39 @@
 
 ## （四）Linux
 
-+	[day 1 - linux 命令 : ls](https://github.com/hoperyy/blog/issues/70)
-+	[day 2 - linux 命令 : cd](https://github.com/hoperyy/blog/issues/71)
-+	[day 3 - linux 命令 : pwd](https://github.com/hoperyy/blog/issues/72)
-+	[day 4 - linux 命令 : mkdir](https://github.com/hoperyy/blog/issues/73)
-+	[day 5 - linux 命令 : rm](https://github.com/hoperyy/blog/issues/74)
-+	[day 6 - linux 命令 : mv](https://github.com/hoperyy/blog/issues/75)
-+	[day 7 - linux 命令 : cp](https://github.com/hoperyy/blog/issues/76)
-+	[day 8 - linux 命令 : touch](https://github.com/hoperyy/blog/issues/77)
-+	[day 9 - linux 命令 : cat](https://github.com/hoperyy/blog/issues/78)
-+	[day 10 - linux 命令 : nl](https://github.com/hoperyy/blog/issues/79)
-+	[day 11 - linux 命令 : more](https://github.com/hoperyy/blog/issues/80)
-+	[day 12 - linux 命令 : less](https://github.com/hoperyy/blog/issues/81)
-+	[day 13 - linux 命令 : head](https://github.com/hoperyy/blog/issues/82)
-+	[day 14 - linux 命令 : tail](https://github.com/hoperyy/blog/issues/83)
-+	[day 15 - linux 命令 : which](https://github.com/hoperyy/blog/issues/84)
-+	[day 16 - linux 命令 : whereis](https://github.com/hoperyy/blog/issues/85)
-+	[day 17 - linux 命令 : find](https://github.com/hoperyy/blog/issues/86)
-+	[day 18 - linux 命令 : diff](https://github.com/hoperyy/blog/issues/87)
-+	[day 19 - linux 命令 : vim](https://github.com/hoperyy/blog/issues/88)
-+	[day 20 - linux 命令 : grep](https://github.com/hoperyy/blog/issues/89)
-+	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)
++	[day 1 - linux 命令 : ls](https://github.com/hoperyy/blog/issues/70)(2017)
++	[day 2 - linux 命令 : cd](https://github.com/hoperyy/blog/issues/71)(2017)
++	[day 3 - linux 命令 : pwd](https://github.com/hoperyy/blog/issues/72)(2017)
++	[day 4 - linux 命令 : mkdir](https://github.com/hoperyy/blog/issues/73)(2017)
++	[day 5 - linux 命令 : rm](https://github.com/hoperyy/blog/issues/74)(2017)
++	[day 6 - linux 命令 : mv](https://github.com/hoperyy/blog/issues/75)(2017)
++	[day 7 - linux 命令 : cp](https://github.com/hoperyy/blog/issues/76)(2017)
++	[day 8 - linux 命令 : touch](https://github.com/hoperyy/blog/issues/77)(2017)
++	[day 9 - linux 命令 : cat](https://github.com/hoperyy/blog/issues/78)(2017)
++	[day 10 - linux 命令 : nl](https://github.com/hoperyy/blog/issues/79)(2017)
++	[day 11 - linux 命令 : more](https://github.com/hoperyy/blog/issues/80)(2017)
++	[day 12 - linux 命令 : less](https://github.com/hoperyy/blog/issues/81)(2017)
++	[day 13 - linux 命令 : head](https://github.com/hoperyy/blog/issues/82)(2017)
++	[day 14 - linux 命令 : tail](https://github.com/hoperyy/blog/issues/83)(2017)
++	[day 15 - linux 命令 : which](https://github.com/hoperyy/blog/issues/84)(2017)
++	[day 16 - linux 命令 : whereis](https://github.com/hoperyy/blog/issues/85)(2017)
++	[day 17 - linux 命令 : find](https://github.com/hoperyy/blog/issues/86)(2017)
++	[day 18 - linux 命令 : diff](https://github.com/hoperyy/blog/issues/87)(2017)
++	[day 19 - linux 命令 : vim](https://github.com/hoperyy/blog/issues/88)(2017)
++	[day 20 - linux 命令 : grep](https://github.com/hoperyy/blog/issues/89)(2017)
++	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
 
 ## （五）思考
 
-+   #2017/10/09#用方法论辅助自己
-+   #2017/10/08#用规划和计划消除紧急事务
-+   #2017/10/08#用方法论帮助自己
-+   #2017/10/07#多领域专家
-+   #2017/10/06#牢记目标和节点
-+   [#2017/09/27#技术储备相当重要](https://github.com/hoperyy/blog/issues/60)
-+   [#2017/09/26#“需求池”这个概念不错](https://github.com/hoperyy/blog/issues/59)
-+   [#2017/08/22#在做事的时候多考虑“方法论”](https://github.com/hoperyy/blog/issues/57)
-+   [#2017/08/19#掌握一个新技能需要的时间其实挺短](https://github.com/hoperyy/blog/issues/56)
++   #2017/10/09#用方法论辅助自己(2017)
++   #2017/10/08#用规划和计划消除紧急事务(2017)
++   #2017/10/08#用方法论帮助自己(2017)
++   #2017/10/07#多领域专家(2017)
++   #2017/10/06#牢记目标和节点(2017)
++   [#2017/09/27#技术储备相当重要](https://github.com/hoperyy/blog/issues/60)(2017)
++   [#2017/09/26#“需求池”这个概念不错](https://github.com/hoperyy/blog/issues/59)(2017)
++   [#2017/08/22#在做事的时候多考虑“方法论”](https://github.com/hoperyy/blog/issues/57)(2017)
++   [#2017/08/19#掌握一个新技能需要的时间其实挺短](https://github.com/hoperyy/blog/issues/56)(2017)
 +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017/07)
 +   [远程同步文件的几种技术方案](https://github.com/liuyuanyangscript/blog/issues/4)(2017/06)
 +   [优秀的前端要注意的素养](https://github.com/liuyuanyangscript/blog/issues/48)(2016)
