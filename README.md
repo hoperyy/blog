@@ -59,13 +59,14 @@
 +   [聊聊 websocket](https://github.com/liuyuanyangscript/blog/issues/24)(2016)
 +   [gif/jpg/png/WebP 的区别](https://github.com/liuyuanyangscript/blog/issues/42)(2016)
 
-### Tools
+## （三）Tools
+
 +   [配置你的 github pages](https://github.com/liuyuanyangscript/blog/issues/10)(2016)
 +   [chrome 开发者工具使用](https://github.com/liuyuanyangscript/blog/issues/11)(2014)
 +   [用油猴子定制你的个性化插件](https://github.com/liuyuanyangscript/blog/issues/8)(2014)
 +   [Git 速查手册](https://github.com/liuyuanyangscript/blog/issues/51)(2014)
 
-## （三）Linux
+## （四）Linux
 
 +	[day 1 - linux 命令 : ls](https://github.com/hoperyy/blog/issues/70)
 +	[day 2 - linux 命令 : cd](https://github.com/hoperyy/blog/issues/71)
@@ -89,7 +90,7 @@
 +	[day 20 - linux 命令 : grep](https://github.com/hoperyy/blog/issues/89)
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)
 
-## （四）Thoughts
+## （五）Thoughts
 
 +   #2017/10/09#用方法论辅助自己
 +   #2017/10/08#用规划和计划消除紧急事务
