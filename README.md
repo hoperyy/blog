@@ -89,7 +89,7 @@
 +	[day 20 - linux 命令 : grep](https://github.com/hoperyy/blog/issues/89)
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)
 
-## （四）思考
+## （四）Thoughts
 
 +   #2017/10/09#用方法论辅助自己
 +   #2017/10/08#用规划和计划消除紧急事务
