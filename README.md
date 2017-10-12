@@ -5,7 +5,7 @@
 +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
 
-## （二）前端
+## （二）Front End
 
 ### [webpack](https://github.com/hoperyy/deep-webpack)
 
@@ -59,7 +59,7 @@
 +   [聊聊 websocket](https://github.com/liuyuanyangscript/blog/issues/24)(2016)
 +   [gif/jpg/png/WebP 的区别](https://github.com/liuyuanyangscript/blog/issues/42)(2016)
 
-## （三）工具
+## （三）Tools
 
 +   [配置你的 github pages](https://github.com/liuyuanyangscript/blog/issues/10)(2016)
 +   [chrome 开发者工具使用](https://github.com/liuyuanyangscript/blog/issues/11)(2014)
@@ -90,7 +90,7 @@
 +	[day 20 - linux 命令 : grep](https://github.com/hoperyy/blog/issues/89)(2017)
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
 
-## （五）思考
+## （五）Thoughts
 
 +   #2017/10/09#用方法论辅助自己(2017)
 +   #2017/10/08#用规划和计划消除紧急事务(2017)
