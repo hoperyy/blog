@@ -48,7 +48,7 @@
 +   [用 React 实现移动端单页应用](https://github.com/liuyuanyangscript/blog/issues/43)(2016)
 +   [React 渲染性能提升](https://github.com/liuyuanyangscript/blog/issues/21)(2016)
 
-### underscore 阅读
+### underscore
 
 +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)
 
