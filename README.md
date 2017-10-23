@@ -1,9 +1,3 @@
-## 如果您觉得我写的文章还不错，欢迎支持一下
-
-<img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874417-c1a6a338-b78e-11e7-929b-a13ca6c82dd1.png">
-<img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874477-0f3d3116-b78f-11e7-826a-7741639d6808.png">
-
-
 ## （一）开源项目
 
 +   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)(2017)
@@ -121,4 +115,7 @@
 +   [2014 年工作总结](https://github.com/liuyuanyangscript/blog/issues/44)(2014)
 +   [一次大促活动总结](https://github.com/liuyuanyangscript/blog/issues/46)(2014)
 
+## 如果您觉得我写的文章还不错，欢迎支持一下
 
+<img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874417-c1a6a338-b78e-11e7-929b-a13ca6c82dd1.png">
+<img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874477-0f3d3116-b78f-11e7-826a-7741639d6808.png">
