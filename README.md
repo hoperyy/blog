@@ -91,6 +91,7 @@
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
 
 ## （五）Thoughts
++   #2017/10/25# 技术选型时要特别注意重要的技术节点
 +   [#2017/10/19# 推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)（2017）
 +   [#2017/10/19# #得到# 如何提升自知力](https://github.com/hoperyy/blog/issues/91)（2017）
 +   #2017/10/18# Node 真是博大精深啊(2017)
