@@ -91,6 +91,7 @@
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
 
 ## （五）Thoughts
++   #2017/10/27# 好好学习如何写 PPT
 +   #2017/10/26# 用技巧解决非技术问题
 +   #2017/10/25# 技术选型时要特别注意重要的技术节点
 +   [#2017/10/19# 推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)（2017）
