@@ -10,6 +10,7 @@
 ### [webpack](https://github.com/hoperyy/deep-webpack)
 
 +   埋坑：项目个性化配置策略
++   埋坑：plugin/loader/preset 编写
 +	[脚手架与业务目录的目录结构浅析](https://github.com/liuyuanyangscript/deep-webpack/issues/8)(2017/08/23)
 +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/deep-webpack/issues/4)(2017)
 +   [如何添加 eslint](https://github.com/hoperyy/deep-webpack/issues/7)(2017)
