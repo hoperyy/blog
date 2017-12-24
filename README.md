@@ -94,6 +94,7 @@
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
 
 ## （五）Thoughts
++   #2017/12/24# 要做技术扛把子
 +   #2017/12/07#[团队管理方式探索](https://github.com/hoperyy/blog/issues/94)
 +   #2017/11/22# 新起点，新机会
 +   #2017/11/20# 优雅的代码，让人有查看的欲望；杂乱无章的代码，让人没有食欲
