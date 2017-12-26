@@ -31,6 +31,7 @@
 +	[benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
 
 ### JavaScript
++   [《你不知道的 JavaScript》笔记](https://github.com/hoperyy/blog/issues/95)(2017)
 +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
 +   [跨域那点事](https://github.com/liuyuanyangscript/blog/issues/25)(2016)
 +   [JavaScript 算法](https://github.com/liuyuanyangscript/blog/issues/27)(2016)
