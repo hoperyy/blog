@@ -1,3 +1,14 @@
+## 短期成长方向（至 2018/04/01）
+
++   前端技能
+    +   es6
+    +   vue
+    +   react
+    +   webpack
+
++   团队管理
++   开源项目
+
 ## （一）开源项目
 
 +   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)(2017)
