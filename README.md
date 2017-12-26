@@ -5,7 +5,11 @@
 +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
 +   [ensure-module-latest：确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
 
-## （二）Front End
+## （二）团队管理
+
++   [团队管理方式探索](https://github.com/hoperyy/blog/issues/94)(2017/12/07)
+
+## （三）前端
 
 ### [webpack](https://github.com/hoperyy/deep-webpack)
 
@@ -56,22 +60,19 @@
 
 +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
 
-### Others
+### 其他
 +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
 +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/liuyuanyangscript/blog/issues/19)(2016)
 +   [HTTP/HTTP/2.0/SPDY/HTTPS](https://github.com/liuyuanyangscript/blog/issues/20)(2016)
 +   [聊聊 websocket](https://github.com/liuyuanyangscript/blog/issues/24)(2016)
 +   [gif/jpg/png/WebP 的区别](https://github.com/liuyuanyangscript/blog/issues/42)(2016)
 
-## （三）Tools
+## （四）工具
 
 +   [配置你的 github pages](https://github.com/liuyuanyangscript/blog/issues/10)(2016)
 +   [chrome 开发者工具使用](https://github.com/liuyuanyangscript/blog/issues/11)(2014)
 +   [用油猴子定制你的个性化插件](https://github.com/liuyuanyangscript/blog/issues/8)(2014)
 +   [Git 速查手册](https://github.com/liuyuanyangscript/blog/issues/51)(2014)
-
-## （四）Linux
-
 +	[day 1 - linux 命令 : ls](https://github.com/hoperyy/blog/issues/70)(2017)
 +	[day 2 - linux 命令 : cd](https://github.com/hoperyy/blog/issues/71)(2017)
 +	[day 3 - linux 命令 : pwd](https://github.com/hoperyy/blog/issues/72)(2017)
@@ -94,10 +95,9 @@
 +	[day 20 - linux 命令 : grep](https://github.com/hoperyy/blog/issues/89)(2017)
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
 
-## （五）Thoughts
+## （五）思考
 +   #2017/12/26# 《你不知道的 JavaScript 上卷》开始
 +   #2017/12/24# 要做技术扛把子
-+   #2017/12/07#[团队管理方式探索](https://github.com/hoperyy/blog/issues/94)
 +   #2017/11/22# 新起点，新机会
 +   #2017/11/20# 优雅的代码，让人有查看的欲望；杂乱无章的代码，让人没有食欲
 +   #2017/11/17# 如果把事情的完成度用百分比衡量的话，60% 可能是初步合格，90% 是优秀，100% 是很优秀，120% 是非常好。用百分比衡量一件事做的好的程度，是不错的角度。
