@@ -110,6 +110,7 @@
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
 
 ## （五）思考
++   #2018/01/02# Parcel 的命运可能和 yarn 一样
 +   #2017/12/26# 《你不知道的 JavaScript 上卷》开始
 +   #2017/12/24# 要做技术扛把子
 +   #2017/11/22# 新起点，新机会
