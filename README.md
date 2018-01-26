@@ -19,6 +19,7 @@
 
 ## （二）团队管理
 
++   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)
 +   [团队管理方式探索](https://github.com/hoperyy/blog/issues/94)(2017/12/07)
 +   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017/12/28)
 
