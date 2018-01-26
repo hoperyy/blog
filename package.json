@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "+   前端技能     +   Node     +   es6     +   vue     +   react     +   webpack",
+  "main": "index.js",
+  "scripts": {
+    "push": "git add . && git commit -m 'update' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyuanyangscript/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyuanyangscript/blog/issues"
+  },
+  "homepage": "https://github.com/liuyuanyangscript/blog#readme"
+}
