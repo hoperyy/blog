@@ -4,7 +4,7 @@
   "description": "+   前端技能     +   Node     +   es6     +   vue     +   react     +   webpack",
   "main": "index.js",
   "scripts": {
-    "push": "git add . && git commit -m 'update' && exit 0"
+    "push": "git add . && git commit -m 'update' && git push origin master && exit 0"
   },
   "repository": {
     "type": "git",
