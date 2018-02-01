@@ -34,16 +34,17 @@
 
 ### 工程化
 
-+   [webpack 集合](https://github.com/hoperyy/deep-webpack)
-    +   plugin/loader/preset 编写：TODO
-    +   [项目个性化配置策略](https://github.com/hoperyy/deep-webpack/issues/11)
-    +   [用纯 [webpack 结构] 替代 [gulp + webpack 结构] 开发脚手架](https://github.com/hoperyy/deep-webpack/issues/10)
-    +	[脚手架与业务目录的目录结构浅析](https://github.com/liuyuanyangscript/deep-webpack/issues/8)(2017/08/23)
-    +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/deep-webpack/issues/4)(2017)
-    +   [如何添加 eslint](https://github.com/hoperyy/deep-webpack/issues/7)(2017)
-    +   [webpack 进阶使用与性能优化](https://github.com/hoperyy/deep-webpack/issues/2)(2017)
-    +   [webpack 使用过程中的坑](https://github.com/hoperyy/deep-webpack/issues/3)(2017)
-    +   [启动一个基本的 vue 项目](https://github.com/hoperyy/deep-webpack/issues/1)(2017)
+[webpack 集合](https://github.com/hoperyy/deep-webpack)
+
++   plugin/loader/preset 编写：TODO
++   [项目个性化配置策略](https://github.com/hoperyy/deep-webpack/issues/11)
++   [用纯 [webpack 结构] 替代 [gulp + webpack 结构] 开发脚手架](https://github.com/hoperyy/deep-webpack/issues/10)
++	[脚手架与业务目录的目录结构浅析](https://github.com/liuyuanyangscript/deep-webpack/issues/8)(2017/08/23)
++   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/deep-webpack/issues/4)(2017)
++   [如何添加 eslint](https://github.com/hoperyy/deep-webpack/issues/7)(2017)
++   [webpack 进阶使用与性能优化](https://github.com/hoperyy/deep-webpack/issues/2)(2017)
++   [webpack 使用过程中的坑](https://github.com/hoperyy/deep-webpack/issues/3)(2017)
++   [启动一个基本的 vue 项目](https://github.com/hoperyy/deep-webpack/issues/1)(2017)
 
 ### Node.js
 
@@ -60,6 +61,7 @@
 +	[benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
 
 ### JavaScript
++	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
 +   [《你不知道的 JavaScript》笔记](https://github.com/hoperyy/blog/issues/95)(2017)
 +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
 +   [跨域那点事](https://github.com/liuyuanyangscript/blog/issues/25)(2016)
@@ -80,10 +82,6 @@
 ### React
 +   [用 React 实现移动端单页应用](https://github.com/liuyuanyangscript/blog/issues/43)(2016)
 +   [React 渲染性能提升](https://github.com/liuyuanyangscript/blog/issues/21)(2016)
-
-### underscore
-
-+	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
 
 ### 其他
 +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
