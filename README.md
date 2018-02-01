@@ -1,5 +1,4 @@
-
-> 短期成长方向（至 2018/04/01）
+## 短期成长方向（至 2018/04/01）
 
 +   前端技能
     +   Node
@@ -18,26 +17,22 @@
 +   团队管理
 +   开源项目
 
-
-> （一）开源项目
+## 开源项目
 
 +   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)(2017)
 +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
 +   [ensure-module-latest：确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
 
-
-> （二）团队管理
+## 团队管理
 
 +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018/01/26)
 +   [团队管理方式探索](https://github.com/hoperyy/blog/issues/94)(2017/12/07)
 +   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017/12/28)
 
+## 前端
 
-> （三）前端
-
-
-+    工程化
++   工程化
 
     [webpack 集合](https://github.com/hoperyy/deep-webpack)
 
@@ -51,7 +46,7 @@
     +   [webpack 使用过程中的坑](https://github.com/hoperyy/deep-webpack/issues/3)(2017)
     +   [启动一个基本的 vue 项目](https://github.com/hoperyy/deep-webpack/issues/1)(2017)
 
-+    Node.js
++   Node.js
 
     +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)
     +   [node 进程](https://github.com/hoperyy/blog/issues/98)
@@ -65,8 +60,7 @@
     +	[基于 Telnet 的聊天室](https://github.com/hoperyy/blog/issues/68)(2017)
     +	[benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
 
-
-+    JavaScript
++   JavaScript
     +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
     +   [《你不知道的 JavaScript》笔记](https://github.com/hoperyy/blog/issues/95)(2017)
     +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
@@ -77,31 +71,26 @@
     +   [《高性能 JavaScript》笔记](https://github.com/liuyuanyangscript/blog/issues/54)(2015)
     +   [正则表达式语法规则](https://github.com/liuyuanyangscript/blog/issues/7)(2015)
 
-
 +    CSS
     +   [什么是 BFC](https://github.com/liuyuanyangscript/blog/issues/16)(2016)
     +   [css 样式的百分比都相对于谁？](https://github.com/liuyuanyangscript/blog/issues/18)(2016)
     +   [CSS清除浮动的3个方法](https://github.com/liuyuanyangscript/blog/issues/17)(2014)
 
-
 +    Vue
     +	[vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
-
 
 +    React
     +   [用 React 实现移动端单页应用](https://github.com/liuyuanyangscript/blog/issues/43)(2016)
     +   [React 渲染性能提升](https://github.com/liuyuanyangscript/blog/issues/21)(2016)
 
-
-+    其他
++   其他
     +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
     +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/liuyuanyangscript/blog/issues/19)(2016)
     +   [HTTP/HTTP/2.0/SPDY/HTTPS](https://github.com/liuyuanyangscript/blog/issues/20)(2016)
     +   [聊聊 websocket](https://github.com/liuyuanyangscript/blog/issues/24)(2016)
     +   [gif/jpg/png/WebP 的区别](https://github.com/liuyuanyangscript/blog/issues/42)(2016)
 
-
-> （四）工具
+## 工具
 
 +   [配置你的 github pages](https://github.com/liuyuanyangscript/blog/issues/10)(2016)
 +   [chrome 开发者工具使用](https://github.com/liuyuanyangscript/blog/issues/11)(2014)
@@ -129,8 +118,7 @@
 +	[day 20 - linux 命令 : grep](https://github.com/hoperyy/blog/issues/89)(2017)
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
 
-
-> （五）思考
+## 思考
 +   #2018/02/01# 系统化学习
 +   #2018/01/25# 分析问题的套路：拆解
 +   #2018/01/18# 评价在平时
@@ -176,8 +164,7 @@
 +   [2014 年工作总结](https://github.com/liuyuanyangscript/blog/issues/44)(2014)
 +   [一次大促活动总结](https://github.com/liuyuanyangscript/blog/issues/46)(2014)
 
-
-> 如果您觉得我写的文章还不错，欢迎支持一下
+## 如果您觉得我写的文章还不错，欢迎支持一下
 
 <img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874417-c1a6a338-b78e-11e7-929b-a13ca6c82dd1.png">
 <img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874477-0f3d3116-b78f-11e7-826a-7741639d6808.png">
