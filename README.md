@@ -46,22 +46,21 @@
     +   [webpack 使用过程中的坑](https://github.com/hoperyy/deep-webpack/issues/3)(2017)
     +   [启动一个基本的 vue 项目](https://github.com/hoperyy/deep-webpack/issues/1)(2017)
 
-+   Node.js
++   Node.js（V8.9.3）
     +   API
     +   源码
-    +   性能监控
-    +   错误捕获 
-    +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)
-    +   [node 进程](https://github.com/hoperyy/blog/issues/98)
-    +   [node 的内存控制](https://github.com/hoperyy/blog/issues/96)
-    +	[gzip 和 ungizp](https://github.com/hoperyy/blog/issues/62)(2017)
-    +	[connect](https://github.com/hoperyy/blog/issues/63)(2017)
-    +	[关于 request 的一些基础知识点](https://github.com/hoperyy/blog/issues/64)(2017)
-    +	[读取文件并返回到页面](https://github.com/hoperyy/blog/issues/65)(2017)
-    +	[客户端发送请求](https://github.com/hoperyy/blog/issues/66)(2017)
-    +	[可交互的输入输出](https://github.com/hoperyy/blog/issues/67)(2017)
-    +	[基于 Telnet 的聊天室](https://github.com/hoperyy/blog/issues/68)(2017)
-    +	[benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
+    +   待分配
+        +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)
+        +   [node 进程](https://github.com/hoperyy/blog/issues/98)
+        +   [node 的内存控制](https://github.com/hoperyy/blog/issues/96)
+        +	[gzip 和 ungizp](https://github.com/hoperyy/blog/issues/62)(2017)
+        +	[connect](https://github.com/hoperyy/blog/issues/63)(2017)
+        +	[关于 request 的一些基础知识点](https://github.com/hoperyy/blog/issues/64)(2017)
+        +	[读取文件并返回到页面](https://github.com/hoperyy/blog/issues/65)(2017)
+        +	[客户端发送请求](https://github.com/hoperyy/blog/issues/66)(2017)
+        +	[可交互的输入输出](https://github.com/hoperyy/blog/issues/67)(2017)
+        +	[基于 Telnet 的聊天室](https://github.com/hoperyy/blog/issues/68)(2017)
+        +	[benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
 
 +   JavaScript
     +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
