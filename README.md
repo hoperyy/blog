@@ -48,6 +48,7 @@
 
     +   埋点
 
+        +   TODO: 首屏自动打点原理（终极版）
         +   [首屏自动打点原理](https://github.com/hoperyy/blog/issues/101)
 
 +   Node.js（V8.9.3）
