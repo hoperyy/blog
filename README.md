@@ -181,5 +181,6 @@
 
 ## 如果您觉得我写的文章还不错，欢迎支持一下
 
-<img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874417-c1a6a338-b78e-11e7-929b-a13ca6c82dd1.png">
-<img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874477-0f3d3116-b78f-11e7-826a-7741639d6808.png">
+支付宝 | 微信
+------|------
+![](https://user-images.githubusercontent.com/5757051/31874417-c1a6a338-b78e-11e7-929b-a13ca6c82dd1.png) | ![](https://user-images.githubusercontent.com/5757051/31874477-0f3d3116-b78f-11e7-826a-7741639d6808.png)
