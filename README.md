@@ -19,7 +19,8 @@
 
 ## 开源项目
 
-+   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/blog/issues/102)
++   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/blog/issues/102)(2018)
++   [bio: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)
 +   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)(2017)
 +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
