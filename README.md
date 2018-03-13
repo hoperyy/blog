@@ -70,6 +70,7 @@
         +	[benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
 
 +   JavaScript
+    +   [promise 认知](https://github.com/hoperyy/blog/issues/104)
     +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
     +   [《你不知道的 JavaScript》笔记](https://github.com/hoperyy/blog/issues/95)(2017)
     +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
