@@ -1,12 +1,5 @@
 ## 短期成长方向（至 2018/04/01）
 
-+   前端技能
-    +   Node
-    +   es6
-    +   vue
-    +   react
-    +   webpack
-
 +   Node
     +   API
     +   源码
