@@ -1,7 +1,7 @@
 ## 个人链接汇总
 
-+   [代码片段仓库](http://hoperyy.github.io/#/docs/snippets/README)
-+   [前端实验室](http://hoperyy.github.io/#/docs/%E5%89%8D%E7%AB%AF%E5%AE%9E%E9%AA%8C%E5%AE%A4/README)
++   [代码片段仓库](https://hoperyy.github.io/snippets/#/)
++   [前端实验室](https://hoperyy.github.io/fe-labs/#/)
 
 ## 开源项目
 
