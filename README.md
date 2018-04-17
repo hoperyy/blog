@@ -1,17 +1,11 @@
-## 短期成长方向（至 2018/04/01）
+## 个人链接汇总
 
-+   Node
-    +   API
-    +   源码
-    +   生产环境部署
-    +   性能监控
-    +   错误捕获
-
-+   团队管理
-+   开源项目
++   [代码片段仓库](http://hoperyy.github.io/#/docs/snippets/README)
++   [前端实验室](http://hoperyy.github.io/#/docs/%E5%89%8D%E7%AB%AF%E5%AE%9E%E9%AA%8C%E5%AE%A4/README)
 
 ## 开源项目
 
++   [Node 相关知识汇总](https://github.com/hoperyy/node-knowledge)
 +   [bio: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
 +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/blog/issues/102)(2018)
 +   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)(2017)
