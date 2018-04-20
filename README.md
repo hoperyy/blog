@@ -1,10 +1,7 @@
-## 个人链接汇总
+## 开源项目
 
 +   [代码片段仓库](https://hoperyy.github.io/snippets/#/)
 +   [前端实验室](https://hoperyy.github.io/fe-labs/#/)
-
-## 开源项目
-
 +   [Node 相关知识汇总](https://github.com/hoperyy/node-knowledge)(2018)
 +   [bio: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
 +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/blog/issues/102)(2018)
