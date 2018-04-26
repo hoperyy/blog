@@ -19,24 +19,11 @@
 ## 前端
 
 +   [前端性能优化](https://github.com/hoperyy/home/issues/108)
+
 +   工程化
-
-    +   [webpack 集合](https://github.com/hoperyy/deep-webpack)
-
-        +   plugin/loader/preset 编写：TODO
-        +   [项目个性化配置策略](https://github.com/hoperyy/deep-webpack/issues/11)
-        +   [用纯 [webpack 结构] 替代 [gulp + webpack 结构] 开发脚手架](https://github.com/hoperyy/deep-webpack/issues/10)
-        +	[脚手架与业务目录的目录结构浅析](https://github.com/liuyuanyangscript/deep-webpack/issues/8)(2017/08/23)
-        +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/deep-webpack/issues/4)(2017)
-        +   [如何添加 eslint](https://github.com/hoperyy/deep-webpack/issues/7)(2017)
-        +   [webpack 进阶使用与性能优化](https://github.com/hoperyy/deep-webpack/issues/2)(2017)
-        +   [webpack 使用过程中的坑](https://github.com/hoperyy/deep-webpack/issues/3)(2017)
-        +   [启动一个基本的 vue 项目](https://github.com/hoperyy/deep-webpack/issues/1)(2017)
-
-    +   埋点
-
-        +   [首屏自动打点原理（终极版）](https://github.com/hoperyy/blog/issues/102)
-        +   [首屏自动打点原理](https://github.com/hoperyy/blog/issues/101)
+    +   [项目：webpack 使用与理解](https://github.com/hoperyy/deep-webpack)
+    +   [首屏自动打点原理（终极版）](https://github.com/hoperyy/blog/issues/102)
+    +   [首屏自动打点原理](https://github.com/hoperyy/blog/issues/101)
 
 +   JavaScript
     +   [promise 认知](https://github.com/hoperyy/blog/issues/104)
