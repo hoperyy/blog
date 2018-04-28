@@ -85,6 +85,7 @@
 +	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
 
 ## 思考
++   #2018/04/28# 简单是稳定的前提
 +   [#2018/04/21# 有赞前端技术开放日](https://github.com/hoperyy/home/issues/107)
 +   #2018/04/06# 新开始~
 +   #2018/03/31# 菜一次不要做太多...
