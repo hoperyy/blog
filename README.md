@@ -42,7 +42,7 @@
     +   [JavaScript 算法](./docs/JavaScript算法.md)(2016)
     +   [underscore 源码了解](./docs/underscore源码了解.md)(2015)
     +   [jQuery-1.7.1 源码阅读笔记](./docs/jQuery-1.7.1源码阅读笔记.md)(2015)
-    +   [《高性能 JavaScript》笔记](./docs/《高性能 JavaScript》笔记.md)(2015)
+    +   [《高性能 JavaScript》笔记](./docs/《高性能JavaScript》笔记.md)(2015)
     +   [正则表达式语法规则](./docs/正则表达式语法规则.md)(2015)
 
 +   [前端性能优化](./docs/前端性能优化.md)
