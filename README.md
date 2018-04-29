@@ -16,77 +16,85 @@
 +   [团队管理方式探索](https://github.com/hoperyy/blog/issues/94)(2017/12/07)
 +   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017/12/28)
 
-## 前端
+## 技术图谱
 
-+   [前端性能优化](https://github.com/hoperyy/home/issues/108)
++   CSS
+    +   [什么是 BFC](./docs/什么是BFC.md)(2016)
+    +   [css 样式的百分比都相对于谁？](./docs/css样式的百分比都相对于谁.md)(2016)
+    +   [CSS清除浮动的3个方法](./docs/CSS清除浮动的3个方法.md)(2014)
+
++   JavaScript
+    +   [Promise 认知](./docs/Promise认知.md)
+    +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
+    +   《JavaScript 设计模式》(2016)
+        +   [中介者模式](./docs/《JavaScript设计模式》-中介者模式.md)
+        +   [享元模式](./docs/《JavaScript设计模式》-享元模式.md)
+        +   [代理模式](./docs/《JavaScript设计模式》-代理模式.md)
+        +   [单例模式](./docs/《JavaScript设计模式》-单例模式.md)
+        +   [发布-订阅模式](./docs/《JavaScript设计模式》-发布-订阅模式.md)
+        +   [模板方法模式](./docs/《JavaScript设计模式》-模板方法模式.md)
+        +   [状态模式](./docs/《JavaScript设计模式》-状态模式.md)
+        +   [策略模式](./docs/《JavaScript设计模式》-策略模式.md)
+        +   [职责链模式](./docs/《JavaScript设计模式》-职责链模式.md)
+        +   [装饰者模式](./docs/《JavaScript设计模式》-装饰者模式.md)
+        +   [适配器模式](./docs/《JavaScript设计模式》-适配器模式.md)
+    +   [跨域那点事](./docs/跨域那点事.md)(2016)
+    +   [JavaScript 算法](./docs/JavaScript算法.md)(2016)
+    +   [underscore 源码了解](./docs/underscore源码了解.md)(2015)
+    +   [jQuery-1.7.1 源码阅读笔记](./docs/jQuery-1.7.1源码阅读笔记.md)(2015)
+    +   [《高性能 JavaScript》笔记](./docs/《高性能 JavaScript》笔记.md)(2015)
+    +   [正则表达式语法规则](./docs/正则表达式语法规则.md)(2015)
+
++   [前端性能优化](./docs/前端性能优化.md)
 
 +   工程化
     +   [项目：webpack 使用与理解](https://github.com/hoperyy/deep-webpack)
-    +   [首屏自动打点原理（终极版）](https://github.com/hoperyy/blog/issues/102)
-    +   [首屏自动打点原理](https://github.com/hoperyy/blog/issues/101)
-
-+   JavaScript
-    +   [promise 认知](https://github.com/hoperyy/blog/issues/104)
-    +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
-    +   [《你不知道的 JavaScript》笔记](https://github.com/hoperyy/blog/issues/95)(2017)
-    +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
-    +   [跨域那点事](https://github.com/liuyuanyangscript/blog/issues/25)(2016)
-    +   [JavaScript 算法](https://github.com/liuyuanyangscript/blog/issues/27)(2016)
-    +   [underscore 源码了解](https://github.com/liuyuanyangscript/blog/issues/5)(2015)
-    +   [jQuery-1.7.1 源码阅读笔记](https://github.com/liuyuanyangscript/blog/issues/9)(2015)
-    +   [《高性能 JavaScript》笔记](https://github.com/liuyuanyangscript/blog/issues/54)(2015)
-    +   [正则表达式语法规则](https://github.com/liuyuanyangscript/blog/issues/7)(2015)
-
-+   CSS
-    +   [什么是 BFC](https://github.com/liuyuanyangscript/blog/issues/16)(2016)
-    +   [css 样式的百分比都相对于谁？](https://github.com/liuyuanyangscript/blog/issues/18)(2016)
-    +   [CSS清除浮动的3个方法](https://github.com/liuyuanyangscript/blog/issues/17)(2014)
+    +   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
+    +   [首屏自动打点原理](./docs/首屏自动打点原理.md)
 
 +   Vue
-    +	[vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
+    +	[vue 源码学习之：如何监听一个对象的变化](./docs/vue 源码学习之：如何监听一个对象的变化.md)(2017)
 
 +   React
-    +   [用 React 实现移动端单页应用](https://github.com/liuyuanyangscript/blog/issues/43)(2016)
-    +   [React 渲染性能提升](https://github.com/liuyuanyangscript/blog/issues/21)(2016)
+    +   [用 React 实现移动端单页应用](./docs/用 React 实现移动端单页应用.md)(2016)
+    +   [React 渲染性能提升](./docs/React渲染性能提升.md)(2016)
 
 +   其他
-    +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
-    +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/liuyuanyangscript/blog/issues/19)(2016)
-    +   [HTTP/HTTP/2.0/SPDY/HTTPS](https://github.com/liuyuanyangscript/blog/issues/20)(2016)
-    +   [聊聊 websocket](https://github.com/liuyuanyangscript/blog/issues/24)(2016)
-    +   [gif/jpg/png/WebP 的区别](https://github.com/liuyuanyangscript/blog/issues/42)(2016)
+    +   [《图解 HTTP》 读书笔记](./docs/《图解 HTTP》 读书笔记.md)(2017)
+    +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](./docs/从输入URL到页面加载完成的过程中都发生了什么事情.md)(2016)
+    +   [HTTP/HTTP/2.0/SPDY/HTTPS](./docs/HTTP+HTTP+2.0+SPDY+HTTPS.md)(2016)
+    +   [聊聊 websocket](./docs/聊聊websocket.md)(2016)
+    +   [gif/jpg/png/WebP 的区别](./docs/gif+jpg+png+WebP的区别.md)(2016)
 
 ## 工具
 
-+   [配置你的 github pages](https://github.com/liuyuanyangscript/blog/issues/10)(2016)
-+   [chrome 开发者工具使用](https://github.com/liuyuanyangscript/blog/issues/11)(2014)
-+   [用油猴子定制你的个性化插件](https://github.com/liuyuanyangscript/blog/issues/8)(2014)
-+   [Git 速查手册](https://github.com/liuyuanyangscript/blog/issues/51)(2014)
-+	[day 1 - linux 命令 : ls](https://github.com/hoperyy/blog/issues/70)(2017)
-+	[day 2 - linux 命令 : cd](https://github.com/hoperyy/blog/issues/71)(2017)
-+	[day 3 - linux 命令 : pwd](https://github.com/hoperyy/blog/issues/72)(2017)
-+	[day 4 - linux 命令 : mkdir](https://github.com/hoperyy/blog/issues/73)(2017)
-+	[day 5 - linux 命令 : rm](https://github.com/hoperyy/blog/issues/74)(2017)
-+	[day 6 - linux 命令 : mv](https://github.com/hoperyy/blog/issues/75)(2017)
-+	[day 7 - linux 命令 : cp](https://github.com/hoperyy/blog/issues/76)(2017)
-+	[day 8 - linux 命令 : touch](https://github.com/hoperyy/blog/issues/77)(2017)
-+	[day 9 - linux 命令 : cat](https://github.com/hoperyy/blog/issues/78)(2017)
-+	[day 10 - linux 命令 : nl](https://github.com/hoperyy/blog/issues/79)(2017)
-+	[day 11 - linux 命令 : more](https://github.com/hoperyy/blog/issues/80)(2017)
-+	[day 12 - linux 命令 : less](https://github.com/hoperyy/blog/issues/81)(2017)
-+	[day 13 - linux 命令 : head](https://github.com/hoperyy/blog/issues/82)(2017)
-+	[day 14 - linux 命令 : tail](https://github.com/hoperyy/blog/issues/83)(2017)
-+	[day 15 - linux 命令 : which](https://github.com/hoperyy/blog/issues/84)(2017)
-+	[day 16 - linux 命令 : whereis](https://github.com/hoperyy/blog/issues/85)(2017)
-+	[day 17 - linux 命令 : find](https://github.com/hoperyy/blog/issues/86)(2017)
-+	[day 18 - linux 命令 : diff](https://github.com/hoperyy/blog/issues/87)(2017)
-+	[day 19 - linux 命令 : vim](https://github.com/hoperyy/blog/issues/88)(2017)
-+	[day 20 - linux 命令 : grep](https://github.com/hoperyy/blog/issues/89)(2017)
-+	[day 21 - linux 命令 : ps](https://github.com/hoperyy/blog/issues/90)(2017)
++   [配置你的 github pages](./docs/配置你的github-pages.md)(2016)
++   [chrome 开发者工具使用](./docs/chrome开发者工具使用.md)(2014)
++   [用油猴子定制你的个性化插件](./用油猴子定制你的个性化插件.md)(2014)
++   [Git 速查手册](./docs/Git速查手册.md)(2014)
++	[day 1 - linux 命令 : ls](./docs/day1-linux命令-ls.md)(2017)
++	[day 2 - linux 命令 : cd](./docs/day2-linux命令-cd.md)(2017)
++	[day 3 - linux 命令 : pwd](./docs/day3-linux命令-pwd.md)(2017)
++	[day 4 - linux 命令 : mkdir](./docs/day4-linux命令-mkdir.md)(2017)
++	[day 5 - linux 命令 : rm](./docs/day5-linux命令-rm.md)(2017)
++	[day 6 - linux 命令 : mv](./docs/day6-linux命令-mv.md)(2017)
++	[day 7 - linux 命令 : cp](./docs/day7-linux命令-cp.md)(2017)
++	[day 8 - linux 命令 : touch](./docs/day8-linux命令-touch.md)(2017)
++	[day 9 - linux 命令 : cat](./docs/day9-linux命令-cat.md)(2017)
++	[day 10 - linux 命令 : nl](./docs/day10-linux命令-nl.md)(2017)
++	[day 11 - linux 命令 : more](./docs/day11-linux命令-more.md)(2017)
++	[day 12 - linux 命令 : less](./docs/day12-linux命令-less.md)(2017)
++	[day 13 - linux 命令 : head](./docs/day13-linux命令-head.md)(2017)
++	[day 14 - linux 命令 : tail](./docs/day14-linux命令-tail.md)(2017)
++	[day 15 - linux 命令 : which](./docs/day15-linux命令-which.md)(2017)
++	[day 16 - linux 命令 : whereis](./docs/day16-linux命令-whereis.md)(2017)
++	[day 17 - linux 命令 : find](./docs/day17-linux命令-find.md)(2017)
++	[day 18 - linux 命令 : diff](./docs/day18-linux命令-diff.md)(2017)
++	[day 19 - linux 命令 : vim](./docs/day19-linux命令-vim.md)(2017)
 
 ## 思考
 +   #2018/04/28# 简单是稳定的前提
-+   [#2018/04/21# 有赞前端技术开放日](https://github.com/hoperyy/home/issues/107)
++   [#2018/04/21# 有赞前端技术开放日](./docs/碎语-有赞前端技术开放日.md)
 +   #2018/04/06# 新开始~
 +   #2018/03/31# 菜一次不要做太多...
 +   #2018/03/24# 不要过度设计
@@ -123,8 +131,8 @@
 +   #2017/10/27# 好好学习如何写 PPT
 +   #2017/10/26# 用技巧解决非技术问题
 +   #2017/10/25# 技术选型时要特别注意重要的技术节点
-+   [#2017/10/19# 推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)（2017）
-+   [#2017/10/19# #得到# 如何提升自知力](https://github.com/hoperyy/blog/issues/91)（2017）
++   [#2017/10/19# 推进业务落地的经验](./docs/推进业务落地的经验.md)（2017）
++   [#2017/10/19# #得到# 如何提升自知力](./docs/碎语-如何提升自知力.md)（2017）
 +   #2017/10/18# Node 真是博大精深啊(2017)
 +   #2017/10/17# 大局观，不能只关注一个点(2017)
 +   #2017/10/16# 化整为零(2017)
@@ -133,19 +141,17 @@
 +   #2017/10/08# 用方法论帮助自己(2017)
 +   #2017/10/07# 多领域专家(2017)
 +   #2017/10/06# 牢记目标和节点(2017)
-+   [#2017/09/27# 技术储备相当重要](https://github.com/hoperyy/blog/issues/60)(2017)
-+   [#2017/09/26# “需求池”这个概念不错](https://github.com/hoperyy/blog/issues/59)(2017)
-+   [#2017/08/22# 在做事的时候多考虑“方法论”](https://github.com/hoperyy/blog/issues/57)(2017)
-+   [#2017/08/19# 掌握一个新技能需要的时间其实挺短](https://github.com/hoperyy/blog/issues/56)(2017)
-+   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017/07)
-+   [远程同步文件的几种技术方案](https://github.com/liuyuanyangscript/blog/issues/4)(2017/06)
-+   [优秀的前端要注意的素养](https://github.com/liuyuanyangscript/blog/issues/48)(2016)
-+   [前端技能图谱](https://github.com/liuyuanyangscript/blog/issues/50)(2016)
-+   [一次难得的多团队协作项目](https://github.com/liuyuanyangscript/blog/issues/47)(2016)
-+   [何为优秀的前端？](https://github.com/liuyuanyangscript/blog/issues/49)(2015)
-+   [工作中的方法论](https://github.com/liuyuanyangscript/blog/issues/45)(2015)
-+   [2014 年工作总结](https://github.com/liuyuanyangscript/blog/issues/44)(2014)
-+   [一次大促活动总结](https://github.com/liuyuanyangscript/blog/issues/46)(2014)
++   [#2017/09/27# 技术储备相当重要](./docs/碎语-技术储备相当重要.md)(2017)
++   [#2017/09/26# “需求池”这个概念不错](./docs/碎语-“需求池”这个概念不错)(2017)
++   [#2017/08/22# 在做事的时候多考虑“方法论”](./docs/碎语-在做事的时候多考虑“方法论”.md)(2017)
++   [#2017/08/19# 掌握一个新技能需要的时间其实挺短](./docs/碎语-掌握一个新技能需要的时间其实挺短.md)(2017)
++   [如何维护并优化一个复杂项目](./docs/如何维护并优化一个复杂项目.md)(2017/07)
++   [远程同步文件的几种技术方案](./docs/远程同步文件的几种技术方案.md)(2017/06)
++   [优秀的前端要注意的素养](./docs/优秀的前端要注意的素养.md)(2016)
++   [一次难得的多团队协作项目](./docs/一次难得的多团队协作项目.md)(2016)
++   [何为优秀的前端？](./docs/何为优秀的前端.md)(2015)
++   [2014 年工作总结](./docs/2014年工作总结.md)(2014)
++   [一次大促活动总结](./docs/一次大促活动总结.md)(2014)
 
 ## 捐赠
 
