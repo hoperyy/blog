@@ -50,7 +50,7 @@
 +   工程化
     +   [项目：webpack 使用与理解](https://github.com/hoperyy/deep-webpack)
     +   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
-    +   [首屏自动打点原理](./docs/首屏自动打点原理.md)
+    +   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)
 
 +   Vue
     +	[vue 源码学习之：如何监听一个对象的变化](./docs/vue 源码学习之：如何监听一个对象的变化.md)(2017)
