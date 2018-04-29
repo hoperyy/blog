@@ -8,7 +8,7 @@
     +   `<img>`、`<input>`、`<textarea>`、`<select>`、`<object>` 等
 +   块元素和行内元素
 
-## CSS 定位有哪些
+## CSS 定位
 +   static（默认）
 +   relative
 +   absolute
