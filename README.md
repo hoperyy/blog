@@ -1,3 +1,5 @@
+这是我的个人主页，作为我个人项目的索引页
+
 ## 开源项目
 
 +   [代码片段仓库](https://hoperyy.github.io/snippets/#/)(2018)
@@ -12,9 +14,8 @@
 
 ## 团队管理
 
-+   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018/01/26)
-+   [团队管理方式探索](https://github.com/hoperyy/blog/issues/94)(2017/12/07)
-+   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017/12/28)
++   [谈谈前端产品质量控制](./谈谈前端产品质量控制.md)(2018/01/26)
++   [团队管理方式探索](./团队管理方式探索.md)(2017/12/07)
 
 ## HTML/CSS
 +   [什么是 BFC](./docs/什么是BFC.md)(2016)
@@ -23,7 +24,7 @@
 
 ## JavaScript
 +   [Promise 认知](./docs/Promise认知.md)
-+	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
++	[【项目】underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
 +   《JavaScript 设计模式》(2016)
     +   [中介者模式](./docs/《JavaScript设计模式》-中介者模式.md)
     +   [享元模式](./docs/《JavaScript设计模式》-享元模式.md)
@@ -47,7 +48,7 @@
 +   [前端性能优化](./docs/前端性能优化.md)
 
 ## 前端工程化
-+   [项目：webpack 使用与理解](https://github.com/hoperyy/deep-webpack)
++   [【项目】webpack 使用与理解](https://github.com/hoperyy/deep-webpack)
 +   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
 +   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)
 
