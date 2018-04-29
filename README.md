@@ -70,7 +70,7 @@
 
 +   [配置你的 github pages](./docs/配置你的github-pages.md)(2016)
 +   [chrome 开发者工具使用](./docs/chrome开发者工具使用.md)(2014)
-+   [用油猴子定制你的个性化插件](./用油猴子定制你的个性化插件.md)(2014)
++   [用油猴子定制你的个性化插件](./docs/用油猴子定制你的个性化插件.md)(2014)
 +   [Git 速查手册](./docs/Git速查手册.md)(2014)
 +	[day 1 - linux 命令 : ls](./docs/day1-linux命令-ls.md)(2017)
 +	[day 2 - linux 命令 : cd](./docs/day2-linux命令-cd.md)(2017)
