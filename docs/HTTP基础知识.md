@@ -1,5 +1,3 @@
-本文主要基于 《图解 HTTP》 整理而成。
-
 ## 了解 web 及网络基础
 
 +   HTTP 全称：HyperText Transfer Protocol 超文本传输协议，或者叫 超文本转移协议
@@ -431,3 +429,8 @@
         +   503 Service Unavailable
 
             表示服务器暂时处于超负载或正在进行停机维护，现在无法处理请求。
+
+## 参考
+
++   《图解 HTTP》
++   https://www.jianshu.com/p/59d36b01608d
