@@ -444,8 +444,31 @@
 
     +   响应：cache-control
     +   值如：`max-age=121737619` 或 `private, max-age=0, no-cache`
+        +   max-age（单位为s）
 
-        max-age设置缓存多少时间，max-age=0就是没有缓存。
+            指定设置缓存最大的有效时间，定义的是时间长短。当浏览器向服务器发送请求后，在 max-age 这段时间里浏览器就不会再向服务器发送请求了。
+
+            max-age=0 就是没有缓存。
+        
+        +   public
+
+            指定响应可以在代理缓存中被缓存，于是可以被多用户共享。如果没有明确指定private，则默认为 public。
+
+        +   private
+
+            响应只能在私有缓存中被缓存，不能放在代理缓存上。对一些用户信息敏感的资源，通常需要设置为 private。
+
+        +   no-cache
+
+            表示必须先与服务器确认资源是否被更改过（依靠 If-None-Match 和 Etag），然后再决定是否使用本地缓存。
+
+        +   no-store
+
+            绝对禁止缓存任何资源，也就是说每次用户请求资源时，都会向服务器发送一个请求，每次都会下载完整的资源。通常用于机密性资源。
+
+            关于 Cache-Control 的使用，见下面这张图：
+
+            ![](imgs/2018-04-30-18-34-59.png)
 
     +   作用：控制缓存时间，相对时间长度。
 
@@ -454,6 +477,14 @@
     +   响应：Expires
     +   值如：`Wed, 25 Oct 2017 09:05:12 GMT` 设置绝对时间
     +   作用：指定到特定时间过期。
+
++   Cache-Control 和 Expires
+
+    +   Cache-Control 是 HTTP1.1 中新增的响应头
+    +   Expires 是 HTTP1.0 中的响应头
+    +   Cache-Control 使用的是相对时间
+    +   Expires 指定的是具体的过期日期而不是秒数。因为很多服务器跟客户端存在时钟不一致的情况，所以最好还是使用 Cache-Control.
+    +   Cache-Control 和 Expires 同时使用的话，Cache-Control 会覆盖 Expires
 
 +   Etag
 
