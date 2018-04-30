@@ -26,17 +26,27 @@
 +   方法一：`str.replace(/^\s+/, '').replace(/\s+$/, '')`
 +   方法二：`str.replace(/(^\s+)|(\s+$)/g, '')`
 
-## 实现 bind（完成 50%）
+## 实现 bind
 
 ```js
-Function.prototype.bind = function(thisArg) {
-    var args = [].slice.call(arguments, 1);
-    var fn = this;
+Function.prototype.bind = function(that){
+    var self = this,
+        args = arguments.length > 1 ? Array.slice(arguments, 1) : null,
+        F = function(){};
 
-    return function() {
-        return fn.apply(thisArg, args.concat([].slice.call(arguments));
+    var bound = function(){
+        var context = that, length = arguments.length;
+        if (this instanceof bound){
+            F.prototype = self.prototype;
+            context = new F;
+        }
+        var result = (!args && !length)
+            ? self.call(context)
+            : self.apply(context, args && length ? args.concat(Array.slice(arguments)) : args || arguments);
+        return context == that ? result : context;
     };
-};
+    return bound;
+}
 ```
 
 ## jsonp
