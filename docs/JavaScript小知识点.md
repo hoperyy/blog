@@ -29,24 +29,39 @@
 ## 实现 bind
 
 ```js
-Function.prototype.bind = function(that){
-    var self = this,
-        args = arguments.length > 1 ? Array.slice(arguments, 1) : null,
-        F = function(){};
+Function.prototype.bind = function(context) {
+        var preArgs = [].slice.call(arguments, 1);
+        var fn = this;
 
-    var bound = function(){
-        var context = that, length = arguments.length;
-        if (this instanceof bound){
-            F.prototype = self.prototype;
-            context = new F;
-        }
-        var result = (!args && !length)
-            ? self.call(context)
-            : self.apply(context, args && length ? args.concat(Array.slice(arguments)) : args || arguments);
-        return context == that ? result : context;
+        // bound 是 fn 的替代品
+        var bound = function () {
+            var curArgs = [].slice.call(arguments);
+            var finalArgs = preArgs.concat(curArgs);
+
+            var result = fn.apply(context, finalArgs);
+
+            // new bound 相当于 new fn
+            if (this instanceof bound) {
+                var F = function() {};
+                F.prototype = fn.prototype;
+                return new F();
+            }
+
+            return result;
+        };
+
+        return bound;
     };
-    return bound;
-}
+
+    // test
+    var fn = function() {
+        console.log('this: ', this);
+    }
+    fn.prototype.name = 'lyy is lyy';
+    var newFn = fn.bind({ name: 'lyy' });
+
+    var a = new newFn(); // this:  {name: "lyy"}
+    console.log('a.name: ', a.name); // a.name:  lyy is lyy
 ```
 
 ## jsonp
