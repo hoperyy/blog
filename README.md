@@ -24,7 +24,8 @@
 +   [CSS清除浮动的3个方法](./docs/CSS清除浮动的3个方法.md)(2014)
 
 ## JavaScript
-+   前端安全（TODO）
++   [前端安全](./docs/前端安全.md)
++   [JavaScript 小知识点](./docs/JavaScript小知识点.md)(2018)
 +   [Promise 认知](./docs/Promise认知.md)
 +	[【项目】underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
 +   《JavaScript 设计模式》(2016)
@@ -61,7 +62,8 @@
 +   [用 React 实现移动端单页应用](./docs/用React实现移动端单页应用.md)(2016)
 +   [React 渲染性能提升](./docs/React渲染性能提升.md)(2016)
 
-## 其他
+## 通识
++   [一些通识](./docs/一些通识.md)
 +   [《图解 HTTP》 读书笔记](./docs/《图解HTTP》读书笔记.md)(2017)
 +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](./docs/从输入URL到页面加载完成的过程中都发生了什么事情.md)(2016)
 +   [HTTP/HTTP/2.0/SPDY/HTTPS](./docs/HTTP+HTTP+2.0+SPDY+HTTPS.md)(2016)
@@ -69,6 +71,7 @@
 +   [gif/jpg/png/WebP 的区别](./docs/gif+jpg+png+WebP的区别.md)(2016)
 
 ## 思考
++   [开源项目需要准备的东西](./docs/开源项目需要准备的东西.md)
 +   [推进业务落地的经验](./docs/推进业务落地的经验.md)（2017/10/19）
 +   [如何维护并优化一个复杂项目](./docs/如何维护并优化一个复杂项目.md)(2017/07)
 +   [远程同步文件的几种技术方案](./docs/远程同步文件的几种技术方案.md)(2017/06)
