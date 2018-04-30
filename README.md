@@ -64,7 +64,7 @@
 
 ## 通识
 +   [一些通识](./docs/一些通识.md)
-+   [《图解 HTTP》 读书笔记](./docs/《图解HTTP》读书笔记.md)(2017)
++   [HTTP 基础知识](./docs/HTTP基础知识.md)(2017)
 +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](./docs/从输入URL到页面加载完成的过程中都发生了什么事情.md)(2016)
 +   [HTTP/HTTP/2.0/SPDY/HTTPS](./docs/HTTP+HTTP+2.0+SPDY+HTTPS.md)(2016)
 +   [聊聊 websocket](./docs/聊聊websocket.md)(2016)
