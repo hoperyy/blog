@@ -1,11 +1,13 @@
 ## HTML 元素的分类
 
-参考文章：https://segmentfault.com/a/1190000006835284
+参考文章：https://blog.csdn.net/sakurallj/article/details/48277463
 
 元素有两种分类方式：
 
 +   可替换元素和非可替换元素
+    +   替换元素就是浏览器根据元素的标签和属性，来决定元素的具体显示内容。
     +   `<img>`、`<input>`、`<textarea>`、`<select>`、`<object>` 等
+    +   HTML 的大多数元素是不可替换元素，即其内容直接表现给用户端（例如浏览器）
 +   块元素和行内元素
 
 ## CSS 定位
