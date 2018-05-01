@@ -83,7 +83,7 @@
 			如果在缓存时间内，服务器返回 304
 
 
-+	httpDNS
++	使用 httpDNS
 
 	+	httpDNS 是什么
 
