@@ -134,3 +134,17 @@ html4.0 中定义了 defer；html5.0 中定义了 async。
         +   媒体查询：只有在符合特定条件时，才会让浏览器进行阻塞渲染然后构建CSSOM树。
     +   JS
         +   async
+
+## cookie 和 stroage 有哪些区别
+
++   cookie 服务端可操作，有网络传输
++   storage 容量更大
++   cookie 有过期时间
++   cookie 同域共享，但有路径区别
++   storage 同源共享，但无法区分路径
+
+思路：
+
++   从API出发（set\get\modefy\delete + domain/http-only/secure/path/expire）
++   从归属的规范出发，一个属于 HTTP规范，一个属于HTML5 规范
++   从解决的目的出发，一个是解决 HTTP 无状态问题，一个是解决本地存储问题
