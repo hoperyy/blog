@@ -20,7 +20,7 @@
 
 +	JS 实现
 
-	```
+	```js
 	function bubbleSort(arr) {
 		var length = arr.length;
 
@@ -54,7 +54,7 @@
 
 +	JS 实现(外部版)
 
-	```
+	```js
 	function insertSort(arr) {
 		
 		for (var i = 0, len = arr.length; i < len; i++) {
@@ -80,7 +80,7 @@
 
 +	自己实现版
 
-	```
+	```js
 	function insertSort(arr) {
 		var rt = [];
 
@@ -112,7 +112,7 @@
 
 +	JS 实现
 	
-	```
+	```js
 	function shellSort(arr) {
 	    var gap = Math.floor(arr.length / 2);
 	    while(gap > 0) {
@@ -143,7 +143,7 @@
 
 +	JS 实现方式：递归
 
-	```
+	```js
 	// 合并两个已排序的数组
 	function merge(left, right) {
 		var rt = [];
@@ -179,7 +179,7 @@
 
 +	JS 实现
 
-	```
+	```js
 	function quickSort(arr) {
 		
 		if (arr.length <= 1) {
@@ -222,7 +222,7 @@
 
 +	JS 实现
 
-	```
+	```js
 	function selectSort(arr) {
 		
 		for (var i = 0, len = arr.length; i < len; i++) {
@@ -255,7 +255,7 @@
 
 +	JS 实现
 
-	```
+	```js
 	function isOrdered(arr) {
 		for (var i = 0, len = arr.length - 1; i < len; i++) {
 			if (arr[i] > arr[i + 1]) {
@@ -298,7 +298,7 @@
 
 ## 全排列算法
 
-```
+```js
 function perm(str) {
     var result = [];
 
