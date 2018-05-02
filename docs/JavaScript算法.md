@@ -2,7 +2,9 @@
 
 [这里](http://www.atool.org/sort.php) 可以查看各个算法的图示
 
-参考讲解：http://www.cnblogs.com/xianyulaodi/p/6001122.html
+参考讲解
++	http://www.cnblogs.com/xianyulaodi/p/6001122.html
++	http://www.cnblogs.com/chengxiao/p/6194356.html
 
 ## 冒泡算法
 
