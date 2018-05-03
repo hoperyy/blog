@@ -24,14 +24,12 @@
 
 	```js
 	function bubbleSort(arr) {
-		var length = arr.length;
-
-		for (var i = 0; i < length; i++) {
-			for (var j = 0; j < length - i - 1; j++) {
-				if (arr[j] > arr[j + 1]) {
-					var tmp = arr[j];
-					arr[j] = arr[j + 1];
-					arr[j + 1] = tmp;
+		for (let i = 0, len = arr.length; i < len; i++) {
+			for (let j = 0; j < len - i - 1; j++) {
+				if (arr[j] >= arr[j + 1]) {
+					arr[j] = arr[j] + arr[j + 1];
+					arr[j + 1] = arr[j] - arr[j + 1];
+					arr[j] = arr[j] - arr[j + 1];
 				}
 			}
 		}
@@ -39,7 +37,7 @@
 		return arr;
 	}
 
-	var result = bubbleSort([2, 3, 6, 4, 2, 1, 90, 100, 20, 5]);
+	const arr = [2, 3, 6, 4, 2, 1, 90, 100, 20, 5];
 
 	console.log(result); // [1, 2, 2, 3, 4, 5, 6, 20, 90, 100];
 	```
