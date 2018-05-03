@@ -82,26 +82,31 @@
 
 	```js
 	function insertSort(arr) {
-		var rt = [];
+		const result = [];
 
 		while(arr.length) {
-			var tmp = arr.shift();
-			var inserted = false;
+			const temp = arr.shift();
+			let inserted = false;
 
-			for (var i = 0, len = rt.length; i < len; i++) {
-				if (tmp < rt[i]) {
+			for (let i = 0, len = result.length; i < len; i++) {
+				if (temp < result[i]) {
 					inserted = true;
-					rt.splice(i, 0, tmp);
+					result.splice(i, 0, temp);
 					break;
 				}
-			}
+			};
 
-			inserted ? null : rt.push(tmp);
-			
+			if (!inserted) {
+				result.push(temp);
+			}
 		}
 
-		return rt;
+		return result;
 	}
+
+	const arr = [2, 3, 6, 4, 2, 1, 90, 100, 20, 5];
+
+	console.log(insertSort(arr));
 	```
 
 ## 希尔排序
