@@ -41,6 +41,7 @@
     +   [装饰者模式](./docs/《JavaScript设计模式》-装饰者模式.md)
     +   [适配器模式](./docs/《JavaScript设计模式》-适配器模式.md)
 +   [跨域那点事](./docs/跨域那点事.md)(2016)
++   [Cookie / LocalStorage / SessionStorage / Session](./docs/Cookie-LocalStorage-SessionStorage-Session.md)(2016)
 +   [JavaScript 算法](./docs/JavaScript算法.md)(2016)
 +   [underscore 源码了解](./docs/underscore源码了解.md)(2015)
 +   [jQuery-1.7.1 源码阅读笔记](./docs/jQuery-1.7.1源码阅读笔记.md)(2015)
