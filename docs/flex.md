@@ -22,6 +22,9 @@ https://segmentfault.com/q/1010000004080910/a-1020000004121373
     +   `flex-grow`：放大比例，默认为 0，默认不放大
     +   `flex-shrink`：缩小比例，默认为 1，默认缩小
     +   `flex-basis`：默认 auto，即项目的本来大小，可以设置为 `width`
+
+        flex-basis 和 width（或者 height）的关系，目前（说不定啥时候就又变了）只是当 flex-basis 设置为 auto 且 width（或者 height）不为 auto 时，计算 flex-basis 的 used size 时会用到width（或者 height）的值。
+
     +   `flex`：`flex-grow || flex-shrink || flex-basis`
 
         **注意**
