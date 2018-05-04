@@ -2,6 +2,8 @@
 
 http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
+https://segmentfault.com/q/1010000004080910/a-1020000004121373
+
 ## 重点
 
 +   容器（6 个属性）：关键词 “滑轨”
@@ -24,7 +26,8 @@ http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
         **注意**
 
-        +   如果 `flex-direction: row`，则为横向伸缩
-        +   如果 `flex-direction: column`，则为纵向伸缩
+        +   如果 `flex-direction: row`，则为横向伸缩，设置的 `width` 不一定生效，`flex-basis` 能生效
+        +   如果 `flex-direction: column`，则为纵向伸缩，设置的 `height` 不一定生效，`flex-basis` 能生效
+        +   如果不设置 `flex: 1`，则  items 不会自动充满容器（水平或纵向）
 
     +   `align-self`：可以覆盖 `align-items`
