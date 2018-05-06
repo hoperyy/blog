@@ -2,6 +2,7 @@
 
 ## 开源项目
 
++   [front-end-konwledge: 前端知识体系](https://github.com/hoperyy/front-end-knowledge)
 +   [snippets: 代码片段仓库](https://hoperyy.github.io/snippets/#/)(2018)
 +   [fe-labs: 前端实验室](https://hoperyy.github.io/fe-labs/#/)(2018)
 +   [node-knowledge: Node 相关知识汇总](https://github.com/hoperyy/node-knowledge)(2018)
