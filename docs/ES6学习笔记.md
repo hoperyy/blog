@@ -325,7 +325,9 @@ http://es6.ruanyifeng.com/#docs/module
 
 +   export
 
-    export 向外输出变量，出来的变量就是本来的名字，但是可以使用as关键字重命名。
+    export 向外输出接口，出来的接口就是本来的名字。
+    
+    export 输出的接口可以使用 as 关键字重命名。
     
     ```js
     // 写法一
@@ -333,7 +335,7 @@ http://es6.ruanyifeng.com/#docs/module
 
     // 写法二
     var m = 1;
-    export {m};
+    export { m };
 
     // 写法三
     var n = 1;
@@ -364,7 +366,7 @@ http://es6.ruanyifeng.com/#docs/module
 
 +   import
 
-    import 接受一对大括号。
+    **import 接受一对大括号。**
 
     大括号里面的变量名，必须与被导入模块对外接口的名称相同。
 
@@ -412,3 +414,17 @@ http://es6.ruanyifeng.com/#docs/module
     ```js
     import { default as newName } from 'xxx';
     ```
+
++   总结
+
+    +   `import`
+
+        ```js
+        import {...} from xxx 
+                --> export var m = 1; 
+                    export { m }; 
+                    export { n as m };
+
+        import xx from xxx 
+                --> export default xxxx
+        ```
