@@ -256,17 +256,21 @@ http://es6.ruanyifeng.com/#docs/decorator
 
 +   类修饰器
 
-    ```js
-    @decorator
-    class A {}
+    +   原理
 
-    // 等同于
+        ```js
+        @decorator
+        class A {}
 
-    class A {}
-    A = decorator(A) || A;
-    ```
+        // 等同于
 
-    第一个参数是目标类
+        class A {}
+        A = decorator(A) || A;
+        ```
+
+    +   参数
+
+        第一个参数是目标类
 
 +   方法修饰器
 
@@ -294,4 +298,3 @@ http://es6.ruanyifeng.com/#docs/decorator
         // executed 2
         // executed 1
         ```
-        
