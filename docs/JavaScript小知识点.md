@@ -116,10 +116,13 @@ html4.0 中定义了 defer；html5.0 中定义了 async。
 +   有 async
     +   并行 **加载并执行**
     +   无法保证执行顺序
+    +   下载完就执行
     +   一定会在 `window.onload` 之前执行，但可能在 `document` 的 `DOMContentLoaded` 之前或之后执行
 +   有 defer
     +   并行加载，顺序执行
-    +   JS 的执行要在所有文档元素解析完成之后，**一般** 会在DOMContentLoaded 事件触发之前完成。
+    +   渲染完再执行
+        +   JS 的执行要在所有文档元素解析完成之后，**一般** 会在DOMContentLoaded 事件触发之前完成。
+        +   DOM 结构完全生成，以及其他脚本执行完成
 
 ## 浏览器的渲染过程与优化技巧
 

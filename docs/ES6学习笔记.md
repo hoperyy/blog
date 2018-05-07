@@ -418,11 +418,13 @@ http://es6.ruanyifeng.com/#docs/module
 +   总结
 
     ```js
-    import {...} from xxx 
+    import { m } from './file' 
             --> export var m = 1; 
                 export { m }; 
                 export { n as m };
 
-    import xx from xxx 
-            --> export default xxxx
+    import m from './file'
+            --> export default 1
+
+    import * as obj from './file'
     ```
