@@ -243,3 +243,55 @@ http://es6.ruanyifeng.com/#docs/class-extends
     Object.getPrototypeOf(ColorPoint) === Point
     // true
     ```
+
+## 21. Decorator
+
+### 学习链接
+
+http://es6.ruanyifeng.com/#docs/decorator
+
+### 笔记
+
+修饰器对类的行为的改变，是代码编译时发生的，而不是在运行时。这意味着，修饰器能在编译阶段运行代码。也就是说，修饰器本质就是编译时执行的函数。
+
++   类修饰器
+
+    ```js
+    @decorator
+    class A {}
+
+    // 等同于
+
+    class A {}
+    A = decorator(A) || A;
+    ```
+
+    第一个参数是目标类
+
++   方法修饰器
+
+    +   接受三个参数
+
+        +   类的原型对象 `target`
+        +   方法名 `name`
+        +   描述符 `descriptor`
+
+    +   如果同一个方法有多个修饰器，会像剥洋葱一样，先从外到内进入，然后由内向外执行。
+
+        ```js
+        function dec(id){
+            console.log('evaluated', id);
+            return (target, property, descriptor) => console.log('executed', id);
+        }
+
+        class Example {
+            @dec(1)
+            @dec(2)
+            method(){}
+        }
+        // evaluated 1
+        // evaluated 2
+        // executed 2
+        // executed 1
+        ```
+        
