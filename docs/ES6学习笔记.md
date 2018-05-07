@@ -417,14 +417,12 @@ http://es6.ruanyifeng.com/#docs/module
 
 +   总结
 
-    +   `import`
+    ```js
+    import {...} from xxx 
+            --> export var m = 1; 
+                export { m }; 
+                export { n as m };
 
-        ```js
-        import {...} from xxx 
-                --> export var m = 1; 
-                    export { m }; 
-                    export { n as m };
-
-        import xx from xxx 
-                --> export default xxxx
-        ```
+    import xx from xxx 
+            --> export default xxxx
+    ```
