@@ -27,7 +27,8 @@ URL: http://hoperyy.github.io/#/
 +   [CSS清除浮动的3个方法](./docs/CSS清除浮动的3个方法.md)(2014)
 
 ## JavaScript
-+   [前端安全](./docs/前端安全.md)
++   [ES6 学习笔记](./docs/ES6学习笔记.md)(2018)
++   [前端安全](./docs/前端安全.md)(2018)
 +   [JavaScript 小知识点](./docs/JavaScript小知识点.md)(2018)
 +   [Promise 认知](./docs/Promise认知.md)
 +	[【项目】underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
