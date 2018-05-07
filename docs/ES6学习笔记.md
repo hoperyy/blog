@@ -67,6 +67,14 @@
     }
     ```
 
+    **父类的静态方法，也会被子类继承。**
+
++   ES5 和 ES6 继承方式对比
+
+    ES5 的继承，实质是先创造子类的实例对象 this，然后再将父类的方法添加到 this 上面（ `Parent.apply(this)` ）。
+    
+    ES6 的继承机制完全不同，实质是先创造父类的实例对象 this（所以必须先调用 super 方法），然后再用子类的构造函数修改 this。
+
 +   constructor
 
     +   子类中，可以没有 constructor，此时会自动创建一个空的 constructor 函数
