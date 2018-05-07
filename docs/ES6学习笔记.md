@@ -80,6 +80,60 @@ http://es6.ruanyifeng.com/#docs/class
         person.sayName(); // "张三"
         ```
 
++   ES6 明确规定，Class 内部只有静态方法，没有静态属性。
+
+    ```js
+    // 以下两种写法都无效
+    class Foo {
+    // 写法一
+    prop: 2
+
+    // 写法二
+    static prop: 2
+    }
+
+    Foo.prop // undefined
+    ```
+
+    +   类的实例属性
+
+        类的**实例属性**可以用等式，写入类的定义之中。
+
+        ```js
+        class MyClass {
+            myProp = 42;
+
+            constructor() {
+                console.log(this.myProp); // 42
+            }
+        }
+        ```
+
+        我们定义实例属性，只能写在类的 `constructor` 方法里面。
+
+    +   类的静态属性
+
+        类的静态属性只要在上面的实例属性写法前面，加上 `static` 关键字就可以了。
+
+        ```js
+        class MyClass {
+            static myStaticProp = 42;
+
+            constructor() {
+                console.log(MyClass.myStaticProp); // 42
+            }
+        }
+        ```
+
++   Class 的取值函数（`getter`）和存值函数（`setter`）
+
+    存值函数和取值函数是设置在属性的 Descriptor 对象上的。这与 ES5 完全一致。
+
++   静态方法
+
+    如果静态方法包含 `this` 关键字，这个 `this` 指的是类，而不是实例。
+
+
 ## 20. Class 的继承
 
 ### 学习链接
@@ -189,56 +243,3 @@ http://es6.ruanyifeng.com/#docs/class-extends
     Object.getPrototypeOf(ColorPoint) === Point
     // true
     ```
-
-+   Class 的取值函数（`getter`）和存值函数（`setter`）
-
-    存值函数和取值函数是设置在属性的 Descriptor 对象上的。这与 ES5 完全一致。
-
-+   静态方法
-
-    如果静态方法包含 `this` 关键字，这个 `this` 指的是类，而不是实例。
-
-+   ES6 明确规定，Class 内部只有静态方法，没有静态属性。
-
-    ```js
-    // 以下两种写法都无效
-    class Foo {
-    // 写法一
-    prop: 2
-
-    // 写法二
-    static prop: 2
-    }
-
-    Foo.prop // undefined
-    ```
-
-    +   类的实例属性
-
-        类的**实例属性**可以用等式，写入类的定义之中。
-
-        ```js
-        class MyClass {
-            myProp = 42;
-
-            constructor() {
-                console.log(this.myProp); // 42
-            }
-        }
-        ```
-
-        我们定义实例属性，只能写在类的 `constructor` 方法里面。
-
-    +   类的静态属性
-
-        类的静态属性只要在上面的实例属性写法前面，加上 `static` 关键字就可以了。
-
-        ```js
-        class MyClass {
-            static myStaticProp = 42;
-
-            constructor() {
-                console.log(MyClass.myStaticProp); // 42
-            }
-        }
-        ```
