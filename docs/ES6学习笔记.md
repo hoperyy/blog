@@ -1,8 +1,90 @@
+## 19. Class 的基本用法
+
+### 学习链接
+
+http://es6.ruanyifeng.com/#docs/class
+
+### 笔记
+
++   传统的生成类的方式
+
+    ```js
+    function Point(x, y) {
+        this.x = x;
+        this.y = y;
+    }
+
+    Point.prototype.toString = function() { 
+        // ...
+    };
+    ```
+
++   ES6 的类的写法
+
+    ```js
+    Class Point {
+        constructor(x, y) { // 也就是构造函数
+            this.x = x;
+            this.y = y;
+        }
+
+        toString() {
+            // ...
+        }
+    }
+    ```
+
+    **类的所有方法都定义在类的 `prototype` 属性上面。**
+
+    在类的实例上面调用方法，其实就是调用原型上的方法。
+
+    实例的属性除非显式定义在其本身（即定义在 `this` 对象上），否则都是定义在原型上（即定义在 `class` 上）。
+
++   ES6 和 ES5 行为不一致的地方
+
+    +   类的内部所有定义的方法，都是不可枚举的（non-enumerable）。ES5 可枚举。
+    +   类必须使用 `new` 调用，否则会报错。ES5 可以不用 `new` 调用。
+    +   类不存在变量提升（hoist），这一点与 ES5 完全不同。
+
++   类的属性名，可以采用表达式。
+
++   `constructor`
+    +   一个类必须有 `constructor` 方法，如果没有显式定义，一个空的 `constructor` 方法会被默认添加。
+    +   `constructor` 方法默认返回实例对象（即 `this`），完全可以指定返回另外一个对象。
+
++   类也可以用作表达式
+
+    +   举例
+
+        ```js
+        const MyClass = class Me {
+            getClassName() {
+                return Me.name;
+            }
+        };
+        ```
+
+    +   可以写出立即执行的类
+
+        ```js
+        let person = new class {
+            constructor(name) {
+                this.name = name;
+            }
+
+            sayName() {
+                console.log(this.name);
+            }
+        }('张三');
+
+        person.sayName(); // "张三"
+        ```
+
 ## 20. Class 的继承
 
 ### 学习链接
 
-链接：http://es6.ruanyifeng.com/#docs/class-extends
+http://es6.ruanyifeng.com/#docs/class-extends
 
 ### 笔记
 
@@ -98,3 +180,12 @@
             普通方法 -- 父类的原型 -- 子类的实例
             静态方法 -- 父类 -- 子类
             ```
+
++   `Object.getPrototypeOf()`
+
+    可以用来从子类上获取父类。
+
+    ```js
+    Object.getPrototypeOf(ColorPoint) === Point
+    // true
+    ```
