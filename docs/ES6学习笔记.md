@@ -298,3 +298,66 @@ http://es6.ruanyifeng.com/#docs/decorator
         // executed 2
         // executed 1
         ```
+
+## 22. Module 的语法
+
+### 学习链接
+
+http://es6.ruanyifeng.com/#docs/module
+
+### 笔记
+
++   概述
+    +   在 ES6 之前，社区制定了一些模块加载方案，最主要的有 CommonJS 和 AMD 两种。
+    +   CommonJS 用于服务器，AMD 用于浏览器。
+    +   CommonJS 和 AMD 是运行时加载。
+    +   ES6 是编译时加载、静态加载，也就是在编译时就完成加载。
+    +   ES6 模块的设计思想是尽量的静态化，使得编译时就能确定模块的依赖关系，以及输入和输出的变量。
+
+    +   ES6 模块带来的好处
+        +   不再需要 UMD 格式
+        +   避免输出全局变量，而是模块化
+        +   不在用对象作为命名空间，各个变量通过模块输出
+
+    +   ES6 模块默认使用严格模式，严格模式的特点
+        +   禁止 `this` 指向全局对象。在顶层，`this` 指向 `undefined`
+        +   增加了保留字 `protected`、`static`、`interface`
+
++   export
+
+    export 向外输出变量，出来的变量就是本来的名字，但是可以使用as关键字重命名。
+    
+    ```js
+    // 写法一
+    export var m = 1;
+
+    // 写法二
+    var m = 1;
+    export {m};
+
+    // 写法三
+    var n = 1;
+    export {n as m};
+    ```
+    
+    export 规定了对外的接口。
+
+    ```js
+    // 报错
+    export 1;
+
+    // 报错
+    var m = 1;
+    export m;
+    ```
+
+    export 语句输出的接口，与其对应的值是动态绑定关系，即通过该接口，可以取到模块内部实时的值。
+
+    ```js
+    export var foo = 'bar';
+    setTimeout(() => foo = 'baz', 500);
+    ```
+
+    这一点与 CommonJS 规范完全不同。CommonJS 模块输出的是值的缓存
+
+    export 命令可以出现在模块的任何位置，只要处于模块顶层就可以。
