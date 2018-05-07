@@ -361,3 +361,54 @@ http://es6.ruanyifeng.com/#docs/module
     这一点与 CommonJS 规范完全不同。CommonJS 模块输出的是值的缓存
 
     export 命令可以出现在模块的任何位置，只要处于模块顶层就可以。
+
++   import
+
+    import 接受一对大括号。
+
+    大括号里面的变量名，必须与被导入模块对外接口的名称相同。
+
+    可以用 as 重命名。
+
+    ```js
+    import { lastName as surname } from './profile.js';
+    ```
+
+    import 输入的变量是只读的，但如果是对象，可以改它的属性。
+
+    import 命令具有提升效果，会提升到整个模块的头部，首先执行。这种行为的本质是，import 命令是编译阶段执行的，在代码运行之前。
+
+    整体加载：
+
+    ```js
+    import * as circle from './circle';
+    ```
+
++   `export default`
+
+    常规用法：
+
+    ```js
+    // export-default.js
+    export default function () {
+        console.log('foo');
+    }
+    ```
+
+    ```js
+    // import-default.js
+    import customName from './export-default';
+    customName(); // 'foo'
+    ```
+
+    `export default` 也就可以用在匿名函数了。
+
+    本质：
+
+    `export default xx` 相当于 `export xx as default`。
+
+    本质是将 default 后面的值，赋给 default 变量。
+
+    ```js
+    import { default as newName } from 'xxx';
+    ```
