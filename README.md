@@ -13,7 +13,8 @@ URL: http://hoperyy.github.io/#/
 +   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)(2017)
 +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
-+   [ensure-module-latest：确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
++   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
++   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)
 
 ## 团队管理
 
