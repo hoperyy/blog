@@ -56,7 +56,8 @@ URL: http://hoperyy.github.io/#/
 +   [前端性能优化](./docs/前端性能优化.md)
 
 ## 前端工程化
-+   [【项目】webpack 使用与理解](https://github.com/hoperyy/deep-webpack)
+
++   [前端工程化详解](https://github.com/hoperyy/front-end-engineering)
 +   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
 +   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)
 
