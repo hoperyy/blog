@@ -1,21 +1,65 @@
+学习地址：http://es6.ruanyifeng.com/
+
+## 1. let 和 const 命令
+
++   for 循环
+
+    for 循环还有一个特别之处，就是设置循环变量的那部分是一个父作用域，而循环体内部是一个单独的子作用域。
+
++   暂时性死区
+
+    在绑定的区域内，在声明变量前使用变量，会报错。
+
+    只要块级作用域内存在let命令，它所声明的变量就“绑定”（binding）这个区域，不再受外部的影响。
+
+    ```js
+    var tmp = 123;
+
+    if (true) {
+    tmp = 'abc'; // ReferenceError
+    let tmp;
+    }
+    ```
+
+    “暂时性死区”也意味着 `typeof` 不再是一个百分之百安全的操作。
+
+    ```js
+    typeof x; // ReferenceError
+    let x;
+    ```
+
+    作为比较，如果一个变量根本没有被声明，使用 `typeof` 反而不会报错。
+
+    ```js
+    typeof undeclared_variable // "undefined"
+    ```
+
+    暂时性死区的本质就是，只要一进入当前作用域，所要使用的变量就已经存在了，但是不可获取，只有等到声明变量的那一行代码出现，才可以获取和使用该变量。
+
++   ES6 声明变量的方法
+
+    +   ES5: `var`、`function`
+    +   ES6: `let`、`const`、`import`、`class`
+
++   顶层对象的属性
+
+    为了保持兼容性，`var` 命令和 `function` 命令声明的全局变量，依旧是顶层对象的属性；
+
+    另一方面规定，`let` 命令、`const` 命令、`class` 命令声明的全局变量，不属于顶层对象的属性。
+
++   global 对象
+
+    +   浏览器里面，顶层对象是 `window`，但 Node 和 Web Worker 没有 `window`。
+    +   浏览器和 Web Worker 里面，`self` 也指向顶层对象，但是 Node 没有 `self`。
+    +   全局环境中，`this` 会返回顶层对象。但是，Node 模块和 ES6 模块中，`this` 返回的是当前模块。
+    +   函数里面的 `this`，如果函数不是作为对象的方法运行，而是单纯作为函数运行，`this` 会指向顶层对象。但是，严格模式下，这时 `this` 会返回 `undefined`。
+
 ## 12. Proxy
-
-### 学习链接
-
-http://es6.ruanyifeng.com/#docs/proxy
-
-### 笔记
 
 +   如果 handler 没有设置任何拦截，那就等同于直接通向原对象
 +   一个拦截器（handler）可以拦截多个操作（13 个）
 
 ## 19. Class 的基本用法
-
-### 学习链接
-
-http://es6.ruanyifeng.com/#docs/class
-
-### 笔记
 
 +   传统的生成类的方式
 
@@ -147,12 +191,6 @@ http://es6.ruanyifeng.com/#docs/class
 
 ## 20. Class 的继承
 
-### 学习链接
-
-http://es6.ruanyifeng.com/#docs/class-extends
-
-### 笔记
-
 +   ES5 的继承实现方式
 
     组合继承
@@ -257,12 +295,6 @@ http://es6.ruanyifeng.com/#docs/class-extends
 
 ## 21. Decorator
 
-### 学习链接
-
-http://es6.ruanyifeng.com/#docs/decorator
-
-### 笔记
-
 修饰器对类的行为的改变，是代码编译时发生的，而不是在运行时。这意味着，修饰器能在编译阶段运行代码。也就是说，修饰器本质就是编译时执行的函数。
 
 +   类修饰器
@@ -311,12 +343,6 @@ http://es6.ruanyifeng.com/#docs/decorator
         ```
 
 ## 22. Module 的语法
-
-### 学习链接
-
-http://es6.ruanyifeng.com/#docs/module
-
-### 笔记
 
 +   概述
     +   在 ES6 之前，社区制定了一些模块加载方案，最主要的有 CommonJS 和 AMD 两种。
