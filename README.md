@@ -16,88 +16,88 @@ URL: http://hoperyy.github.io/#/
 +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
 +   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)(2017)
 
-## 团队管理
+## 博客
 
-+   [谈谈前端产品质量控制](./docs/谈谈前端产品质量控制.md)(2018/01/26)
-+   [团队管理经验谈](./docs/团队管理经验谈.md)(2017/12/07)
++   团队管理
+    +   [谈谈前端产品质量控制](./docs/谈谈前端产品质量控制.md)(2018/01/26)
+    +   [团队管理经验谈](./docs/团队管理经验谈.md)(2017/12/07)
 
-## HTML/CSS
-+   [HTML / CSS 小知识点](./docs/HTML+CSS小知识点.md)(2018)
-+   [什么是 BFC](./docs/什么是BFC.md)(2016)
-+   [css 样式的百分比都相对于谁？](./docs/css样式的百分比都相对于谁.md)(2016)
-+   [CSS清除浮动的3个方法](./docs/CSS清除浮动的3个方法.md)(2014)
++   HTML/CSS
+    +   [HTML / CSS 小知识点](./docs/HTML+CSS小知识点.md)(2018)
+    +   [什么是 BFC](./docs/什么是BFC.md)(2016)
+    +   [css 样式的百分比都相对于谁？](./docs/css样式的百分比都相对于谁.md)(2016)
+    +   [CSS清除浮动的3个方法](./docs/CSS清除浮动的3个方法.md)(2014)
 
-## JavaScript
-+   [ES6 学习笔记](./docs/ES6学习笔记.md)(2018)
-+   [前端安全](./docs/前端安全.md)(2018)
-+   [JavaScript 小知识点](./docs/JavaScript小知识点.md)(2018)
-+   [Promise 认知](./docs/Promise认知.md)
-+	[【项目】underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
-+   《JavaScript 设计模式》(2016)
-    +   [中介者模式](./docs/《JavaScript设计模式》-中介者模式.md)
-    +   [享元模式](./docs/《JavaScript设计模式》-享元模式.md)
-    +   [代理模式](./docs/《JavaScript设计模式》-代理模式.md)
-    +   [单例模式](./docs/《JavaScript设计模式》-单例模式.md)
-    +   [发布-订阅模式](./docs/《JavaScript设计模式》-发布-订阅模式.md)
-    +   [模板方法模式](./docs/《JavaScript设计模式》-模板方法模式.md)
-    +   [状态模式](./docs/《JavaScript设计模式》-状态模式.md)
-    +   [策略模式](./docs/《JavaScript设计模式》-策略模式.md)
-    +   [职责链模式](./docs/《JavaScript设计模式》-职责链模式.md)
-    +   [装饰者模式](./docs/《JavaScript设计模式》-装饰者模式.md)
-    +   [适配器模式](./docs/《JavaScript设计模式》-适配器模式.md)
-+   [跨域那点事](./docs/跨域那点事.md)(2016)
-+   [Cookie / LocalStorage / SessionStorage / Session](./docs/Cookie-LocalStorage-SessionStorage-Session.md)(2016)
-+   [JavaScript 算法](./docs/JavaScript算法.md)(2016)
-+   [underscore 源码了解](./docs/underscore源码了解.md)(2015)
-+   [jQuery-1.7.1 源码阅读笔记](./docs/jQuery-1.7.1源码阅读笔记.md)(2015)
-+   [《高性能 JavaScript》笔记](./docs/《高性能JavaScript》笔记.md)(2015)
-+   [正则表达式语法规则](./docs/正则表达式语法规则.md)(2015)
++   JavaScript
+    +   [ES6 学习笔记](./docs/ES6学习笔记.md)(2018)
+    +   [前端安全](./docs/前端安全.md)(2018)
+    +   [JavaScript 小知识点](./docs/JavaScript小知识点.md)(2018)
+    +   [Promise 认知](./docs/Promise认知.md)
+    +	[【项目】underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
+    +   《JavaScript 设计模式》(2016)
+        +   [中介者模式](./docs/《JavaScript设计模式》-中介者模式.md)
+        +   [享元模式](./docs/《JavaScript设计模式》-享元模式.md)
+        +   [代理模式](./docs/《JavaScript设计模式》-代理模式.md)
+        +   [单例模式](./docs/《JavaScript设计模式》-单例模式.md)
+        +   [发布-订阅模式](./docs/《JavaScript设计模式》-发布-订阅模式.md)
+        +   [模板方法模式](./docs/《JavaScript设计模式》-模板方法模式.md)
+        +   [状态模式](./docs/《JavaScript设计模式》-状态模式.md)
+        +   [策略模式](./docs/《JavaScript设计模式》-策略模式.md)
+        +   [职责链模式](./docs/《JavaScript设计模式》-职责链模式.md)
+        +   [装饰者模式](./docs/《JavaScript设计模式》-装饰者模式.md)
+        +   [适配器模式](./docs/《JavaScript设计模式》-适配器模式.md)
+    +   [跨域那点事](./docs/跨域那点事.md)(2016)
+    +   [Cookie / LocalStorage / SessionStorage / Session](./docs/Cookie-LocalStorage-SessionStorage-Session.md)(2016)
+    +   [JavaScript 算法](./docs/JavaScript算法.md)(2016)
+    +   [underscore 源码了解](./docs/underscore源码了解.md)(2015)
+    +   [jQuery-1.7.1 源码阅读笔记](./docs/jQuery-1.7.1源码阅读笔记.md)(2015)
+    +   [《高性能 JavaScript》笔记](./docs/《高性能JavaScript》笔记.md)(2015)
+    +   [正则表达式语法规则](./docs/正则表达式语法规则.md)(2015)
 
-## 性能优化
++   性能优化
 
-+   [前端性能优化](./docs/前端性能优化.md)
+    +   [前端性能优化](./docs/前端性能优化.md)
 
-## 前端工程化
++   前端工程化
 
-+   [前端工程化详解](https://github.com/hoperyy/front-end-engineering)
-+   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
-+   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)
+    +   [前端工程化详解](https://github.com/hoperyy/front-end-engineering)
+    +   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
+    +   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)
 
-## Vue
-+	[vue 源码学习之：如何监听一个对象的变化](./docs/vue源码学习之-如何监听一个对象的变化.md)(2017)
++   Vue
+    +	[vue 源码学习之：如何监听一个对象的变化](./docs/vue源码学习之-如何监听一个对象的变化.md)(2017)
 
-## React
-+   [用 React 实现移动端单页应用](./docs/用React实现移动端单页应用.md)(2016)
-+   [React 渲染性能提升](./docs/React渲染性能提升.md)(2016)
++   React
+    +   [用 React 实现移动端单页应用](./docs/用React实现移动端单页应用.md)(2016)
+    +   [React 渲染性能提升](./docs/React渲染性能提升.md)(2016)
 
-## 通识
-+   [一些通识](./docs/一些通识.md)
-+   网络基础
-    +   [TCP 基础知识](./docs/TCP.md)(2017)
-    +   [HTTP 基础知识](./docs/HTTP基础知识.md)(2017)
-    +   [HTTP/HTTP/2.0/SPDY/HTTPS](./docs/HTTP+HTTP+2.0+SPDY+HTTPS.md)(2016)
-    +   [聊聊 websocket](./docs/聊聊websocket.md)(2016)
-+   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](./docs/从输入URL到页面加载完成的过程中都发生了什么事情.md)(2016)
-+   [gif/jpg/png/WebP 的区别](./docs/gif+jpg+png+WebP的区别.md)(2016)
++   通识
+    +   [一些通识](./docs/一些通识.md)
+    +   网络基础
+        +   [TCP 基础知识](./docs/TCP.md)(2017)
+        +   [HTTP 基础知识](./docs/HTTP基础知识.md)(2017)
+        +   [HTTP/HTTP/2.0/SPDY/HTTPS](./docs/HTTP+HTTP+2.0+SPDY+HTTPS.md)(2016)
+        +   [聊聊 websocket](./docs/聊聊websocket.md)(2016)
+    +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](./docs/从输入URL到页面加载完成的过程中都发生了什么事情.md)(2016)
+    +   [gif/jpg/png/WebP 的区别](./docs/gif+jpg+png+WebP的区别.md)(2016)
 
-## 思考
-+   [开源项目需要准备的东西](./docs/开源项目需要准备的东西.md)
-+   [推进业务落地的经验](./docs/推进业务落地的经验.md)（2017/10/19）
-+   [如何维护并优化一个复杂项目](./docs/如何维护并优化一个复杂项目.md)(2017/07)
-+   [远程同步文件的几种技术方案](./docs/远程同步文件的几种技术方案.md)(2017/06)
-+   [优秀的前端要注意的素养](./docs/优秀的前端要注意的素养.md)(2016)
-+   [一次难得的多团队协作项目](./docs/一次难得的多团队协作项目.md)(2016)
-+   [何为优秀的前端？](./docs/何为优秀的前端.md)(2015)
-+   [2014 年工作总结](./docs/2014年工作总结.md)(2014)
-+   [一次大促活动总结](./docs/一次大促活动总结.md)(2014)
++   思考
+    +   [开源项目需要准备的东西](./docs/开源项目需要准备的东西.md)
+    +   [推进业务落地的经验](./docs/推进业务落地的经验.md)（2017/10/19）
+    +   [如何维护并优化一个复杂项目](./docs/如何维护并优化一个复杂项目.md)(2017/07)
+    +   [远程同步文件的几种技术方案](./docs/远程同步文件的几种技术方案.md)(2017/06)
+    +   [优秀的前端要注意的素养](./docs/优秀的前端要注意的素养.md)(2016)
+    +   [一次难得的多团队协作项目](./docs/一次难得的多团队协作项目.md)(2016)
+    +   [何为优秀的前端？](./docs/何为优秀的前端.md)(2015)
+    +   [2014 年工作总结](./docs/2014年工作总结.md)(2014)
+    +   [一次大促活动总结](./docs/一次大促活动总结.md)(2014)
 
-## 工具
-
-+   [配置你的 github pages](./docs/配置你的github-pages.md)(2016)
-+   [chrome 开发者工具使用](./docs/chrome开发者工具使用.md)(2014)
-+   [用油猴子定制你的个性化插件](./docs/用油猴子定制你的个性化插件.md)(2014)
-+   [Git 速查手册](./docs/Git速查手册.md)(2014)
-+   [每天一个 linux 命令](./docs/每天一个linux命令.md)(2017)
++   工具
+    +   [配置你的 github pages](./docs/配置你的github-pages.md)(2016)
+    +   [chrome 开发者工具使用](./docs/chrome开发者工具使用.md)(2014)
+    +   [用油猴子定制你的个性化插件](./docs/用油猴子定制你的个性化插件.md)(2014)
+    +   [Git 速查手册](./docs/Git速查手册.md)(2014)
+    +   [每天一个 linux 命令](./docs/每天一个linux命令.md)(2017)
 
 ## 碎语
 +   #2018/04/28# 简单是稳定的前提
