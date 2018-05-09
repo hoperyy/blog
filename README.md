@@ -20,7 +20,6 @@ URL: http://hoperyy.github.io/#/
     +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
     +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
 
-
 ## 博客
 
 +   团队管理
@@ -49,11 +48,9 @@ URL: http://hoperyy.github.io/#/
     +   [正则表达式语法规则](./docs/正则表达式语法规则.md)(2015)
 
 +   性能优化
-
     +   [前端性能优化](./docs/前端性能优化.md)
 
 +   前端工程化
-
     +   [前端工程化详解](https://github.com/hoperyy/front-end-engineering)
     +   [首屏自动打点原理（终极版）](./docs/首屏自动打点原理（终极版）.md)
     +   [首屏自动打点原理（beta版）](./docs/首屏自动打点原理（beta版）.md)

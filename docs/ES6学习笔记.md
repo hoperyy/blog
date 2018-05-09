@@ -1,3 +1,14 @@
+## 12. Proxy
+
+### 学习链接
+
+http://es6.ruanyifeng.com/#docs/proxy
+
+### 笔记
+
++   如果 handler 没有设置任何拦截，那就等同于直接通向原对象
++   一个拦截器（handler）可以拦截多个操作（13 个）
+
 ## 19. Class 的基本用法
 
 ### 学习链接
