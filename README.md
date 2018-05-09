@@ -4,17 +4,20 @@ URL: http://hoperyy.github.io/#/
 
 ## 开源项目
 
-+   [front-end-konwledge: 前端知识体系](https://github.com/hoperyy/front-end-knowledge)(2018/05/06)
++   知识梳理
+    +   [front-end-konwledge: 前端知识体系](https://github.com/hoperyy/front-end-knowledge)(2018/05/06)
+    +   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)(2017)
+    +   [node-knowledge: Node 相关知识汇总](https://github.com/hoperyy/node-knowledge)(2018)
 +   [snippets: 代码片段仓库](https://hoperyy.github.io/snippets/#/)(2018)
 +   [fe-labs: 前端实验室](https://hoperyy.github.io/fe-labs/#/)(2018)
-+   [node-knowledge: Node 相关知识汇总](https://github.com/hoperyy/node-knowledge)(2018)
-+   [bio: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
-+   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/blog/issues/102)(2018)
-+   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)(2017)
-+   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
-+   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
-+   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
-+   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)(2017)
++   工具
+    +   [bio: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
+    +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/blog/issues/102)(2018)
+    +   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)(2017)
+    +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
+    +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
+    +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
+
 
 ## 博客
 
