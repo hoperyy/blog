@@ -124,6 +124,8 @@ html4.0 中定义了 defer；html5.0 中定义了 async。
         +   JS 的执行要在所有文档元素解析完成之后，**一般** 会在DOMContentLoaded 事件触发之前完成。
         +   DOM 结构完全生成，以及其他脚本执行完成
 
+参考链接：https://github.com/rainjay/blog/issues/1
+
 ## 浏览器的渲染过程与优化技巧
 
 参考文章：https://juejin.im/post/59d489156fb9a00a571d6509
