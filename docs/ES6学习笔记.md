@@ -137,6 +137,48 @@
 
         经验：从参数区域开始，生成一个 `{}` 作用域，函数体在该作用域内部。
 
+## Set 和 Map
+
++   Set
+
+    +   Set 函数有三种初始化方式：
+
+        ```js
+        new Set()
+        new Set([1, 2, 3])
+        new Set(document.querySelectorAll('div'))
+        ```
+
+    +   `...` 运算符可以用于 `Set`
+
+        ```js
+        // 去除数组的重复成员
+        [...new Set(array)]
+        ```
+
+    +   在 `Set` 内部，两个 `NaN` 是相等。
+
+        Set 内部判断两个值是否不同，使用的算法叫做 “Same-value-zero equality” ，它类似于精确相等运算符（`===`），主要的区别是 `NaN` 等于自身，而精确相等运算符认为 `NaN` 不等于自身。
+
+    +   向 Set 实例添加了两个NaN，但是只能加入一个
+
+    +   `Array.from` 方法可以将 Set 结构转为数组。
+
+        ```js
+        function dedupe(array) {
+            return Array.from(new Set(array));
+        }
+
+        dedupe([1, 1, 2, 3]) // [1, 2, 3]
+        ```
+
+    +   Set 实例的属性和方法
+
+        +   `Set.prototype.constructor`：构造函数，默认就是 Set 函数。
+        +   `Set.prototype.size`：返回 Set 实例的成员总数。
+        +   四个操作方法：`add(value) / delete(value) / has(value) / clear()`
+        +   四个遍历方法：`keys() / values() / entries() / forEach()`
+
 ## 12. Proxy
 
 +   如果 handler 没有设置任何拦截，那就等同于直接通向原对象
