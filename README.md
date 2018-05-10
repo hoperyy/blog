@@ -37,7 +37,7 @@ URL: http://hoperyy.github.io/#/
     +   [前端安全](./docs/前端安全.md)(2018)
     +   [JavaScript 小知识点](./docs/JavaScript小知识点.md)(2018)
     +   [Promise 认知](./docs/Promise认知.md)
-    +	[【项目】underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
+    +	[underscore-analysis](https://github.com/hoperyy/underscore-analysis)(2017)
     +   [《JavaScript 设计模式》](./docs/JavaScript设计模式.md)(2016)
     +   [跨域那点事](./docs/跨域那点事.md)(2016)
     +   [Cookie / LocalStorage / SessionStorage / Session](./docs/Cookie-LocalStorage-SessionStorage-Session.md)(2016)
