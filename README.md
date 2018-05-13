@@ -1,12 +1,6 @@
 这是我的个人主页，作为我所有个人项目的索引页。
 
-URL: http://hoperyy.github.io/#/
-
-## 知识梳理
-
-+   [front-end-konwledge: 前端知识体系](https://github.com/hoperyy/front-end-knowledge)(2018/05/06)
-+   [node-knowledge: Node 相关知识汇总](https://github.com/hoperyy/node-knowledge)(2018)
-+   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)(2017)
+URL: http://hoperyy.github.io
 
 ## 工具
 
@@ -16,6 +10,12 @@ URL: http://hoperyy.github.io/#/
 +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
 +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
+
+## 知识梳理
+
++   [front-end-konwledge: 前端知识体系](https://github.com/hoperyy/front-end-knowledge)(2018/05/06)
++   [node-knowledge: Node 相关知识汇总](https://github.com/hoperyy/node-knowledge)(2018)
++   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)(2017)
 
 ## 代码片段
 
