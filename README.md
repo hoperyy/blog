@@ -14,7 +14,7 @@ URL: http://hoperyy.github.io
 ## 知识梳理
 
 +   [front-end-konwledge: 前端知识体系](https://github.com/hoperyy/front-end-knowledge)(2018/05/06)
-+   [node-knowledge: Node 相关知识汇总](https://github.com/hoperyy/node-knowledge)(2018)
++   [node-knowledge: Node Learning](https://github.com/hoperyy/node-knowledge)(2018)
 +   [front-end-engineering: 前端工程化详解](https://github.com/hoperyy/front-end-engineering)(2017)
 
 ## 代码片段
