@@ -8,6 +8,6 @@ require('generate-docs-by-github-issue')({
         const oldTitle = issueItem.title;
         issueItem.title = issueItem.title.replace(/\//g, '-').replace(/\s/g, '');
 
-        console.log(`+  [${oldTitle.replace(/(\[)|(\])/g, '-')}](./docs/${issueItem.title}.md)`);
+        console.log(`+  [${oldTitle.replace(/(\[)|(\])/g, '-')}](${issueItem.html_url})`);
     } 
 });
