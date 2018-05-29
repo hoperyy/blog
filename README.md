@@ -29,18 +29,19 @@ URL: http://hoperyy.github.io/blog/
 ## 文章
 
 +  JavaScript
-    +   [JS 基础](https://github.com/hoperyy/blog/issues/28)(2015)
+    
     +   [promise 认知](https://github.com/hoperyy/blog/issues/104)
-    +   [underscore 源码了解](https://github.com/hoperyy/blog/issues/5)(2015)
-    +   [事件冒泡](https://github.com/hoperyy/blog/issues/40)(2015)
     +   [数组的几个方法](https://github.com/hoperyy/blog/issues/23)(2016)
-    +   [正则表达式语法规则](https://github.com/hoperyy/blog/issues/7)(2015)
     +   [JavaScript 算法笔记](https://github.com/hoperyy/blog/issues/27)(2016)
     +   [TypeScript 学习笔记](https://github.com/hoperyy/blog/issues/105)
-    +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
-    +   [jQuery-1.7.1 源码阅读笔记](https://github.com/hoperyy/blog/issues/9)(2015)
     +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
+    +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
     +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
+    +   [underscore 源码了解](https://github.com/hoperyy/blog/issues/5)(2015)
+    +   [事件冒泡](https://github.com/hoperyy/blog/issues/40)(2015)
+    +   [正则表达式语法规则](https://github.com/hoperyy/blog/issues/7)(2015)
+    +   [jQuery-1.7.1 源码阅读笔记](https://github.com/hoperyy/blog/issues/9)(2015)
+    +   [JS 基础](https://github.com/hoperyy/blog/issues/28)(2015)
 
 +  CSS
     +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
@@ -48,14 +49,14 @@ URL: http://hoperyy.github.io/blog/
     +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)
     +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
     +   [flex 属性快速记忆](https://github.com/hoperyy/blog/issues/41)(2016)
-    +   [CSS3 速查手册](https://github.com/hoperyy/blog/issues/13)
+    +   [CSS3 速查手册](https://github.com/hoperyy/blog/issues/13)(2015)
 
 +   React
     +   [React 渲染性能提升](https://github.com/hoperyy/blog/issues/21)(2016)
     +   [用 React 实现移动端单页应用](https://github.com/hoperyy/blog/issues/43)(2016)
 
 +   Vue
-    +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)
+    +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)(2017)
     +   [vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
 
 +  Node.js
@@ -71,47 +72,48 @@ URL: http://hoperyy.github.io/blog/
     +   [读取文件并返回到页面](https://github.com/hoperyy/blog/issues/65)(2017)
 
 +  个人思考
-    +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)
+    +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
     +   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017)
-    +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
-    +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
-    +   [何为优秀的前端？](https://github.com/hoperyy/blog/issues/49)(2015)
-    +   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
     +   [团队管理方式探索（更新中）](https://github.com/hoperyy/blog/issues/94)(2017)
     +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
-    +   [工作中的方法论](https://github.com/hoperyy/blog/issues/45)(2015)
     +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
+    +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
+    +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
+    +   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
     +   [一次大促活动总结](https://github.com/hoperyy/blog/issues/46)(2016)
+    +   [工作中的方法论](https://github.com/hoperyy/blog/issues/45)(2015)
+    +   [何为优秀的前端？](https://github.com/hoperyy/blog/issues/49)(2015)
     +   [2014年工作总结](https://github.com/hoperyy/blog/issues/44)(2014)
 
 +  基础知识
+    +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
     +   [跨域那点事](https://github.com/hoperyy/blog/issues/25)(2016)
     +   [聊聊 websocket](https://github.com/hoperyy/blog/issues/24)(2016)
     +   [HTTP/HTTP/2.0/SPDY/HTTPS](https://github.com/hoperyy/blog/issues/20)(2016)
     +   [gif/jpg/png/WebP 的区别](https://github.com/hoperyy/blog/issues/42)(2016)
-    +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
     +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/hoperyy/blog/issues/19)(2016)
 
 +  工具
+    +   [配置你的 github pages](https://github.com/hoperyy/blog/issues/10)(2015)
     +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
     +   [chrome 开发者工具使用](https://github.com/hoperyy/blog/issues/11)(2014)
     +   [每天一个 linux 命令](https://github.com/hoperyy/blog/issues/112)
     +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
-    +   [配置你的 github pages](https://github.com/hoperyy/blog/issues/10)(2015)
 
 +  工程化
+    +   [如何自动获取首屏时间（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
+    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
     +  webpack
-        +   [webpack 深入配置](https://github.com/hoperyy/blog/issues/2)
+        +   [webpack 深入配置](https://github.com/hoperyy/blog/issues/2)(2017)
         +   [webpack 经验谈](https://github.com/hoperyy/blog/issues/22)(2017)
-        +   [启动一个vue项目](https://github.com/hoperyy/blog/issues/1)
-        +   [项目个性化配置策略](https://github.com/hoperyy/blog/issues/109)
-        +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/blog/issues/3)
-        +   [用纯webpack结构替代gulp+webpack结构开发脚手架](https://github.com/hoperyy/blog/issues/111)
-        +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/blog/issues/110)
-    +   [前端性能优化](https://github.com/hoperyy/blog/issues/108)
+        +   [启动一个vue项目](https://github.com/hoperyy/blog/issues/1)(2017)
+        +   [项目个性化配置策略](https://github.com/hoperyy/blog/issues/109)(2017)
+        +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/blog/issues/3)(2017)
+        +   [用纯webpack结构替代gulp+webpack结构开发脚手架](https://github.com/hoperyy/blog/issues/111)(2017)
+        +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/blog/issues/110)(2017)
+    +   [前端性能优化](https://github.com/hoperyy/blog/issues/108)(2017)
     +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
-    +   [如何自动获取首屏时间（成熟版）](https://github.com/hoperyy/blog/issues/102)
-    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)
+    
 
 ## 碎语
 +   #2018/05/19# 架构师的水平极大影响团队的水平
