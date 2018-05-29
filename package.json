@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build": "node generate-docs-by-issues.js",
     "push": "git add . && git commit -m 'update' && git push origin master && exit 0"
   },
   "repository": {
@@ -14,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/liuyuanyangscript/blog/issues"
   },
-  "homepage": "https://github.com/liuyuanyangscript/blog#readme"
+  "homepage": "https://github.com/liuyuanyangscript/blog#readme",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "request": "^2.87.0"
+  }
 }
