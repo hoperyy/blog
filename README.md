@@ -30,7 +30,7 @@ URL: http://hoperyy.github.io
 
 ## 文章
 
-+   [TypeScript 学习笔记](./docs/TypeScript 学习笔记.md)
++   [TypeScript 学习笔记](./docs/TypeScript学习笔记.md)
 +   [day 10 - linux 命令 : nl](./docs/day 10 - linux 命令 : nl.md)
 +   [day 11 - linux 命令 : more](./docs/day 11 - linux 命令 : more.md)
 +   [day 12 - linux 命令 : less](./docs/day 12 - linux 命令 : less.md)
