@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/liuyuanyangscript/blog#readme",
   "dependencies": {
-    "generate-docs-by-github-issue": "^1.0.0"
+    "generate-docs-by-github-issue": "^1.0.1"
   }
 }

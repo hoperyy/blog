@@ -1,0 +1,16 @@
+[issue](https://api.github.com/repos/hoperyy/blog/issues/88)
+
+# [技术] [linux] day 019 - vim
+
++   基础操作
+    +   撤销：`u`
+    +   还原: `ctrl + R`
+    +   复制: `y`
+    +   复制一行: `yy`
+    +   删除: `d`
+    +   删除一行: `dd`
+
++   跳跃
+
+    
+
