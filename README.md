@@ -26,7 +26,7 @@ URL: http://hoperyy.github.io
 
 +   个人实验
 
-    +   [fe-labs: 前端实验室](https://hoperyy.github.io/fe-labs/#/)(2018)
+    +   [fe-labs: 前端实验室](https://hoperyy.github.io/fe-labs/#/)(2016)
 
 ## 碎语
 +   #2018/05/19# 架构师的水平极大影响团队的水平
