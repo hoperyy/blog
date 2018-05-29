@@ -1,6 +1,4 @@
-这是我的个人主页，作为我所有个人项目的索引页。
-
-URL: http://hoperyy.github.io
+URL: http://hoperyy.github.io/blog/
 
 ## 个人开源项目
 

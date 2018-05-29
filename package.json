@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "node build.js",
+    "ghpage": "docsite ghpage",
     "push": "git add . && git commit -m 'update' && git push origin master && exit 0"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/liuyuanyangscript/blog#readme",
   "dependencies": {
+    "docsite-cli": "^1.0.1",
     "generate-docs-by-github-issue": "^1.0.1"
   }
 }
