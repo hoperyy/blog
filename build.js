@@ -5,8 +5,9 @@ require('generate-docs-by-github-issue')({
     repo: 'blog', 
     targetDir: require('path').join(process.cwd(), 'docs'),
     preWriting(issueItem) {
-        issueItem.title = issueItem.title.replace(/\//g, '-').replace(/(\[)|(\])/g, '-');
+        const oldTitle = issueItem.title;
+        issueItem.title = issueItem.title.replace(/\//g, '-').replace(/\s/g, '');
 
-        console.log(`[${issueItem.title}](./docs/${issueItem.title}.md)`);
+        console.log(`+  [${oldTitle.replace(/(\[)|(\])/g, '-')}](./docs/${issueItem.title}.md)`);
     } 
 });
