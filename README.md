@@ -1,5 +1,3 @@
-URL: http://hoperyy.github.io/blog/
-
 ## 个人开源项目
 
 +   工具
