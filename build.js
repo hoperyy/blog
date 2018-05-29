@@ -3,7 +3,7 @@
 require('generate-docs-by-github-issue')({
     username: 'hoperyy', 
     repo: 'blog', 
-    targetDir: require('path').join(process.cwd(), 'docs'),
+    targetDir: require('path').join(process.cwd(), 'cache-docs'),
     preWriting(issueItem) {
         const oldTitle = issueItem.title;
         issueItem.title = issueItem.title.replace(/\//g, '-').replace(/\s/g, '');
