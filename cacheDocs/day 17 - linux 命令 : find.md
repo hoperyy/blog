@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/86)
+[issue](https://github.com/hoperyy/blog/issues/86)
 
 # day 17 - linux 命令 : `find`
 

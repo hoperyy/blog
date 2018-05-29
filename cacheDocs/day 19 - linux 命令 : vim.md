@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/88)
+[issue](https://github.com/hoperyy/blog/issues/88)
 
 # [技术] [linux] day 019 - vim
 

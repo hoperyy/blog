@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/83)
+[issue](https://github.com/hoperyy/blog/issues/83)
 
 #  day 14 - linux 命令 : `tail`
 

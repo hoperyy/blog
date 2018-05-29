@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/79)
+[issue](https://github.com/hoperyy/blog/issues/79)
 
 # day 10 - linux 命令 : `nl`
 

@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/105)
+[issue](https://github.com/hoperyy/blog/issues/105)
 
 +   细节
 

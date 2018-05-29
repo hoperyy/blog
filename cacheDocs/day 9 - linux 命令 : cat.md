@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/78)
+[issue](https://github.com/hoperyy/blog/issues/78)
 
 # day 9 - linux 命令 : `cat`
 

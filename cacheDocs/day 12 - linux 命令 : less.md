@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/81)
+[issue](https://github.com/hoperyy/blog/issues/81)
 
 # day 12 - linux 命令 : `less`
 

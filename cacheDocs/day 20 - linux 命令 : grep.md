@@ -1,3 +1,3 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/89)
+[issue](https://github.com/hoperyy/blog/issues/89)
 
 to do ...

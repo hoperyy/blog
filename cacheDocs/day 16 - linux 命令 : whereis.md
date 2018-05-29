@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/85)
+[issue](https://github.com/hoperyy/blog/issues/85)
 
 # day 16 - linux 命令 : `whereis`
 

@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/84)
+[issue](https://github.com/hoperyy/blog/issues/84)
 
 # day 15 - linux 命令 : `which`
 

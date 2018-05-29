@@ -1,4 +1,4 @@
-[issue](https://api.github.com/repos/hoperyy/blog/issues/80)
+[issue](https://github.com/hoperyy/blog/issues/80)
 
 # day 11 - linux 命令 : `more`
 
