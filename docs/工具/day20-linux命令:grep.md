@@ -1,3 +1,0 @@
-[issue](https://github.com/hoperyy/blog/issues/89)
-
-to do ...
