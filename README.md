@@ -59,6 +59,7 @@
     +   [vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
 
 +  Node.js
+    +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
     +   [benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
     +   [connect](https://github.com/hoperyy/blog/issues/63)(2017)
     +   [gzip 和 ungzip](https://github.com/hoperyy/blog/issues/62)(2017)
@@ -69,6 +70,18 @@
     +   [基于 Telnet 的聊天室](https://github.com/hoperyy/blog/issues/68)(2017)
     +   [客户端发送请求](https://github.com/hoperyy/blog/issues/66)(2017)
     +   [读取文件并返回到页面](https://github.com/hoperyy/blog/issues/65)(2017)
+
++  工程化
+    +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
+    +   [如何自动获取首屏时间（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
+    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
+    +   [webpack 深入配置](https://github.com/hoperyy/front-end-engineering/issues/15)(2017)
+    +   [webpack 经验谈](https://github.com/hoperyy/front-end-engineering/issues/14)(2017)
+    +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
+    +   [项目个性化配置策略](https://github.com/hoperyy/front-end-engineering/issues/11)(2017)
+    +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
+    +   [用纯webpack结构替代gulp+webpack结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
+    +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/front-end-engineering/issues/16)(2017)
 
 +  个人思考
     +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
@@ -100,18 +113,6 @@
     +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
     +   [chrome 开发者工具使用](https://github.com/hoperyy/blog/issues/11)(2014)
     +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
-
-+  工程化
-    +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
-    +   [如何自动获取首屏时间（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
-    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
-    +   [webpack 深入配置](https://github.com/hoperyy/front-end-engineering/issues/15)(2017)
-    +   [webpack 经验谈](https://github.com/hoperyy/front-end-engineering/issues/14)(2017)
-    +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
-    +   [项目个性化配置策略](https://github.com/hoperyy/front-end-engineering/issues/11)(2017)
-    +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
-    +   [用纯webpack结构替代gulp+webpack结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
-    +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/front-end-engineering/issues/16)(2017)
     
 
 ## 碎语
