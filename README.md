@@ -71,8 +71,6 @@
     +   [读取文件并返回到页面](https://github.com/hoperyy/blog/issues/65)(2017)
 
 +  个人思考
-    +   [如何自动获取首屏时间（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
-    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
     +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
     +   [前端性能优化](https://github.com/hoperyy/blog/issues/108)(2017)
     +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
@@ -104,6 +102,8 @@
     +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
 
 +  工程化
+    +   [如何自动获取首屏时间（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
+    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
     +   [webpack 深入配置](https://github.com/hoperyy/front-end-engineering/issues/15)(2017)
     +   [webpack 经验谈](https://github.com/hoperyy/front-end-engineering/issues/14)(2017)
     +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
