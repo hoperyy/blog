@@ -46,9 +46,9 @@
     +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
     +   [flex 属性快速记忆](https://github.com/hoperyy/blog/issues/41)(2016)
     +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
-    +   [CSS清除浮动的3个方法](https://github.com/hoperyy/blog/issues/17)(2014)
-    +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)
-    +   [CSS3 速查手册](https://github.com/hoperyy/blog/issues/13)(2015)
+    +   [css 清除浮动的 3 个方法](https://github.com/hoperyy/blog/issues/17)(2014)
+    +   [css3 速查手册](https://github.com/hoperyy/blog/issues/13)(2015)
+    +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)(2014)
 
 +   React
     +   [React 渲染性能提升](https://github.com/hoperyy/blog/issues/21)(2016)
