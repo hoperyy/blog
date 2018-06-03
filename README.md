@@ -15,7 +15,7 @@
 
     +   [front-end-konwledge: 前端知识体系](https://github.com/hoperyy/front-end-knowledge)(2018/05/06)
     +   [node-knowledge: Node Learning](https://github.com/hoperyy/node-knowledge)(2018)
-    +   [front-end-engineering: 前端工程化](https://github.com/hoperyy/front-end-engineering)(2017)
+    +   [front-end-engineering: 前端工程化](https://github.com/hoperyy/front-end-engineering)(2017)(已集成进此 blog)
 
 +   代码片段
 
