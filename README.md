@@ -15,14 +15,6 @@
     +   [node-knowledge: Node Learning](https://github.com/hoperyy/node-knowledge)(2018)
     +   [front-end-engineering: 前端工程化](https://github.com/hoperyy/front-end-engineering)(2017)(已集成进此 blog "前端工程化" 部分)
 
-+   代码片段
-
-    +   [snippets: 代码片段仓库](https://hoperyy.github.io/snippets/#/)(2018)
-
-+   个人实验
-
-    +   [fe-labs: 前端实验室](https://hoperyy.github.io/fe-labs/#/)(2016)
-
 ## 文章
 
 +  JavaScript
