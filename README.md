@@ -3,9 +3,7 @@
 +   工具
     +   [bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
     +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/blog/issues/102)(2018)
-    +   [docsite-cli: 让文档目录更简洁的文档管理工具](https://github.com/hoperyy/docsite-cli)(2018)
-    +   [docsify-build-cli: 自动生成 sidebar 和可运行 Vue 页面的文档工具](https://github.com/hoperyy/docsify-build-cli)(2018)
-    +   [vuebook: 可在 markdown 中写 vue 代码的 markdown 电子书生成工具](https://github.com/hoperyy/vue-markdown-book)(2017)
+    +   [docsite-cli: 让文档目录更简洁的文档管理工具，支持 vue、html 代码运行](https://github.com/hoperyy/docsite-cli)(2018)
     +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
     +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
     +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
