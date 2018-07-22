@@ -3,8 +3,6 @@
 const path = require('path');
 const cwd = process.cwd();
 
-// require('child_process').execSync(`cd ${cwd} && rm -rf docs`);
-
 const sortedDirArr = [];
 
 require('generate-docs-by-github-issue')({
