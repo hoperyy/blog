@@ -7,6 +7,7 @@
     +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
     +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
     +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
+    +   [20180812-2017 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)
     +   more...
 
 +   知识梳理
