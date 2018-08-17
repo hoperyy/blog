@@ -1,7 +1,6 @@
 ## 开源项目
 
 +   工具
-    +   [20180812-2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018)
     +   [bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
     +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
     +   [docsite-cli: 让文档目录更简洁的文档管理工具，支持 html 代码运行，已经成为我个人知识管理主要工具](https://github.com/hoperyy/docsite-cli)(2018)
@@ -10,8 +9,9 @@
     +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
     +   more...
 
-+   知识梳理
++   分享
 
+    +   [20180812-2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018)
     +   [front-end-konwledge: 前端知识体系](https://github.com/hoperyy/front-end-knowledge)(2018/05/06)
     +   [node-knowledge: Node Learning](https://github.com/hoperyy/node-knowledge)(2018)
     +   [front-end-engineering: 前端工程化](https://github.com/hoperyy/front-end-engineering)(2017)(已集成进此 blog "前端工程化" 部分)
