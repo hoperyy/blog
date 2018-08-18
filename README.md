@@ -21,7 +21,6 @@
 +  JavaScript
     
     +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
-    +   [promise 认知](https://github.com/hoperyy/blog/issues/104)(2017)
     +   [数组的几个方法](https://github.com/hoperyy/blog/issues/23)(2016)
     +   [JavaScript 算法笔记](https://github.com/hoperyy/blog/issues/27)(2016)
     +   [TypeScript 学习笔记](https://github.com/hoperyy/blog/issues/105)
