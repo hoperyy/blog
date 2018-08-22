@@ -41,6 +41,7 @@
     +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)(2014)
 
 +   React
+    +   [React / Redux](https://github.com/hoperyy/blog/issues/118)
     +   [React 渲染性能提升](https://github.com/hoperyy/blog/issues/21)(2016)
     +   [用 React 实现移动端单页应用](https://github.com/hoperyy/blog/issues/43)(2016)
 
