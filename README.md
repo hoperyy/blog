@@ -45,6 +45,7 @@
     +   [用 React 实现移动端单页应用](https://github.com/hoperyy/blog/issues/43)(2016)
 
 +   Vue
+    +   [vuex](https://github.com/hoperyy/blog/issues/117)
     +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)(2017)
     +   [vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
 
