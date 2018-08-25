@@ -12,8 +12,7 @@
 +   分享
 
     +   [20180812-2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
-    +   [front-end-konwledge: 前端知识体系](https://github.com/hoperyy/front-end-knowledge)(2018/05/06)
-    +   [node-knowledge: Node Learning](https://github.com/hoperyy/node-knowledge)(2018)
+    +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
     +   [front-end-engineering: 前端工程化](https://github.com/hoperyy/front-end-engineering)(2017)(已集成进此 blog "前端工程化" 部分)
 
 ## 文章
@@ -112,6 +111,7 @@
     
 
 ## 碎语
++   #2018/08/23# 学习 “如何把事情讲清楚”
 +   #2018/08/07# 好好学习技术演讲
 +   #2018/07/15# 全栈化
 +   #2018/05/19# 架构师的水平极大影响团队的水平
