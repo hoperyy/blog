@@ -51,7 +51,6 @@
 
 +  Node.js
     +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
-    +   [benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
     +   [connect](https://github.com/hoperyy/blog/issues/63)(2017)
     +   [gzip 和 ungzip](https://github.com/hoperyy/blog/issues/62)(2017)
     +   [node 的内存控制](https://github.com/hoperyy/blog/issues/96)(2017)
