@@ -51,7 +51,6 @@
 
 +  Node.js
     +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
-    +   [node 中的 stream](https://github.com/hoperyy/blog/issues/116)(2018)
     +   [benchmark](https://github.com/hoperyy/blog/issues/69)(2017)
     +   [connect](https://github.com/hoperyy/blog/issues/63)(2017)
     +   [gzip 和 ungzip](https://github.com/hoperyy/blog/issues/62)(2017)
