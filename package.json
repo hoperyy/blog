@@ -17,7 +17,7 @@
     "url": "https://github.com/liuyuanyangscript/blog/issues"
   },
   "homepage": "https://github.com/liuyuanyangscript/blog#readme",
-  "dependencies": {
+  "devDependencies": {
     "docsite-cli": "^1.0.1",
     "generate-docs-by-github-issue": "^1.0.1"
   }
