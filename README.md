@@ -16,6 +16,23 @@
 
 ## 文章
 
++   前端性能优化
+
+    +   [如何自动获取首屏时间（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
+    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
+    +   [前端性能优化知识杂糅](https://github.com/hoperyy/blog/issues/108)(2017)
+
++  工程化
+    +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
+    +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
+    +   [webpack 深入配置](https://github.com/hoperyy/front-end-engineering/issues/15)(2017)
+    +   [webpack 经验谈](https://github.com/hoperyy/front-end-engineering/issues/14)(2017)
+    +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
+    +   [项目个性化配置策略](https://github.com/hoperyy/front-end-engineering/issues/11)(2017)
+    +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
+    +   [用纯webpack结构替代gulp+webpack结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
+    +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/front-end-engineering/issues/16)(2017)
+
 +  JavaScript
     
     +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
@@ -52,25 +69,11 @@
     +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
     +   [node 小练习](https://github.com/hoperyy/blog/issues/63)(2017)
 
-+  工程化
-    +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
-    +   [如何自动获取首屏时间（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
-    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
-    +   [webpack 深入配置](https://github.com/hoperyy/front-end-engineering/issues/15)(2017)
-    +   [webpack 经验谈](https://github.com/hoperyy/front-end-engineering/issues/14)(2017)
-    +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
-    +   [项目个性化配置策略](https://github.com/hoperyy/front-end-engineering/issues/11)(2017)
-    +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
-    +   [用纯webpack结构替代gulp+webpack结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
-    +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/front-end-engineering/issues/16)(2017)
-
 +   Server
     +   [RESTful 风格](https://github.com/hoperyy/blog/issues/120)(2018/08)
     +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
 
 +  个人思考
-    +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
-    +   [前端性能优化](https://github.com/hoperyy/blog/issues/108)(2017)
     +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
     +   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017)
     +   [团队管理方式探索（更新中）](https://github.com/hoperyy/blog/issues/94)(2017)
