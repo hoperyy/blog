@@ -167,8 +167,3 @@
 +   [#2017/08/22# 在做事的时候多考虑“方法论”](https://github.com/hoperyy/blog/issues/57)(2017)
 +   [#2017/08/19# 掌握一个新技能需要的时间其实挺短](https://github.com/hoperyy/blog/issues/56)(2017)
 
-## 捐赠
-
-<img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874417-c1a6a338-b78e-11e7-929b-a13ca6c82dd1.png">
-<br>
-<img width="30%;" src="https://user-images.githubusercontent.com/5757051/31874477-0f3d3116-b78f-11e7-826a-7741639d6808.png">
