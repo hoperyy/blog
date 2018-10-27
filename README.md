@@ -38,7 +38,6 @@
 +  JavaScript
     +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
     +   [数组的几个方法](https://github.com/hoperyy/blog/issues/23)(2016)
-    +   [JavaScript 算法笔记](https://github.com/hoperyy/blog/issues/27)(2016)
     +   [TypeScript 学习笔记](https://github.com/hoperyy/blog/issues/105)
     +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
     +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
@@ -64,17 +63,23 @@
     +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)(2017)
     +   [vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
 
++   算法
+    +   [算法](https://github.com/hoperyy/blog/issues/121)(2018)
+    +   [JavaScript 算法笔记](https://github.com/hoperyy/blog/issues/27)(2016)
+
 +   Server
     +   [RESTful 风格](https://github.com/hoperyy/blog/issues/120)(2018/08)
     +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
 
-+  个人思考
-    +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
++   团队
     +   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017)
     +   [团队管理方式探索（更新中）](https://github.com/hoperyy/blog/issues/94)(2017)
     +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
     +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
     +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
+
++  个人思考
+    +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
     +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
     +   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
     +   [一次大促活动总结](https://github.com/hoperyy/blog/issues/46)(2016)
