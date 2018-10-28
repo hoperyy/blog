@@ -23,6 +23,7 @@
 +  工程化
     +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
     +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
+    +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
     +   [webpack 深入配置](https://github.com/hoperyy/front-end-engineering/issues/15)(2017)
     +   [webpack 经验谈](https://github.com/hoperyy/front-end-engineering/issues/14)(2017)
     +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
@@ -79,7 +80,6 @@
     +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
 
 +  个人思考
-    +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
     +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
     +   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
     +   [一次大促活动总结](https://github.com/hoperyy/blog/issues/46)(2016)
