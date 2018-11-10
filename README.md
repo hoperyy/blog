@@ -16,7 +16,7 @@
 ## 文章
 
 +   性能优化
-    +   [如何自动获取首屏时间（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
+    +   [如何自动获取首屏时间（成熟版）（to be changed）](https://github.com/hoperyy/blog/issues/102)(2018)
     +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
     +   [前端性能优化知识杂糅](https://github.com/hoperyy/blog/issues/108)(2017)
 
