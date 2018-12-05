@@ -96,6 +96,7 @@
     +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/hoperyy/blog/issues/19)(2016)
 
 +  工具
+    +   [chrome 插件开发总结](https://github.com/hoperyy/blog/issues/126)
     +   [chrome 开发者工具](https://github.com/hoperyy/blog/issues/122)(2018)
     +   [每天一个 linux 命令](https://github.com/hoperyy/blog/issues/112)(2017)
     +   [配置你的 github pages](https://github.com/hoperyy/blog/issues/10)(2015)
