@@ -21,7 +21,7 @@ chrome 开发者工具主要包含 10+ 个部分
 1. 设备模式（device toolbar）
 2. 元素面板（Elements）
 3. 控制台面板（Console）
-4. 源代码面板（Sources）
+4. 源代码面板（Sources） 
 5. 网络面板（Network）
 6. 性能面板（Performance）
 7. 内存面板（Memory）

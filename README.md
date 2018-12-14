@@ -101,7 +101,6 @@
     +   [每天一个 linux 命令](https://github.com/hoperyy/blog/issues/112)(2017)
     +   [配置你的 github pages](https://github.com/hoperyy/blog/issues/10)(2015)
     +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
-    +   [chrome 开发者工具使用](https://github.com/hoperyy/blog/issues/11)(2014)
     +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
     
 ## 碎语
