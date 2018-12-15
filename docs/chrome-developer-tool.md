@@ -76,21 +76,28 @@ chrome 开发者工具主要包含 10+ 个部分
 
 在开发期间，可以使用控制台面板记录诊断信息，或者使用它作为 shell 在页面上与 JavaScript 交互。
 
++   以抽屉式导航栏形式打开
+
+    按 `Esc` 打开或关闭抽屉式导航栏。
+
+    ![image](https://user-images.githubusercontent.com/5757051/50040582-213df300-0081-11e9-8810-779b45ce2cb4.png)
+
 +   消息堆叠
    
-    如果一条消息连续重复，而不是在新行上输出每一个消息实例，控制台将“堆叠”消息并在左侧外边距显示一个数字。此数字表示该消息已重复的次数
+    如果一条消息连续重复，而不是在新行上输出每一个消息实例，控制台将“堆叠”消息并在左侧外边距显示一个数字。此数字表示该消息已重复的次数。
 
     ![image](https://user-images.githubusercontent.com/5757051/47760798-0ee64080-dcf1-11e8-8842-c0d1001a6224.png)
 
-+   显示时间戳
++   清除历史记录
 
-    如果您倾向于为每一个日志使用一个独特的行条目，请在 DevTools 设置中启用 Show timestamps
-    
-    ![image](https://user-images.githubusercontent.com/5757051/47760845-3937fe00-dcf1-11e8-873f-ac58ba15e897.png)
+    +   在控制台选择清除图标
+    +   在控制台输入 `clear()`
+    +   在控制台输入 `console.clear()`
+    +   按 `Ctrl + L`
 
-    ![image](https://user-images.githubusercontent.com/5757051/47760872-47861a00-dcf1-11e8-9458-de8dea109b84.png)
-    
-    ![image](https://user-images.githubusercontent.com/5757051/47760889-566ccc80-dcf1-11e8-97b1-53ba6a03c29b.png)
++   保存历史记录
+
+    在控制台中点击右键，然后选择 `Save as`，将控制台的输出保存到日志文件中。
 
 +   选择执行环境  Execution Context Selector
   
@@ -104,9 +111,133 @@ chrome 开发者工具主要包含 10+ 个部分
      
     那么，当控制台默认设置为 top 环境，我们在 console 控制台输入 `x`，可以看到控制台显示的是 `page1`，假如我们将控制台设置为 `iframe` 环境，那么，我们在 console 控制台输入 `x`，可以看到控制台显示的是 `page2`。
 
-+   控制台 API
++   其他更详细的设置
 
-      
+    +   `Hide network messages`: 默认情况下，控制台将报告网络问题。启用此设置将指示控制台不显示这些错误的日志。例如，将不会记录 404 和 500 系列错误。
+    +   `Log XMLHttpRequests`: 确定控制台是否记录每一个 XMLHttpRequest。
+    +   `Show timestamps`: 如果您倾向于为每一个日志使用一个独特的行条目，请在 DevTools 设置中启用 Show timestamps。由于每个 log 的时间戳不同，故**可以消除 log 堆叠**。
+
++   日志
+
+    +   使用 `console.log()` 进行基本记录
+    +   使用 `console.error()` 和 `console.warn()` 显示引入注目的消息
+    +   使用 `console.group()` 和 `console.groupEnd()` 对相关消息进行分组，避免混乱
+
+        ```js
+        var user = "jsmith", authenticated = false;
+        console.group("Authentication phase");
+        console.log("Authenticating user '%s'", user);
+        // authentication code here...
+        if (!authenticated) {
+            console.log("User '%s' not authenticated.", user)
+        }
+        console.groupEnd();
+        ```
+
+        **组是自动展开的。**
+
+        可以用 `console.groupCollapsed` 自动折叠组。
+
+        ```js
+        console.groupCollapsed("Authenticating user '%s'", user);
+        if (authenticated) {
+            ...
+        }
+        console.groupEnd();
+        ```
+
+    +   使用 `console.assert()` 显示条件性错误消息
+
+        `console.assert()` 方法可以仅在其第一个参数为 `false` 时有条件地显示错误字符串（其第二个参数）。
+
+    +   字符串替代和格式设置
+
+        格式：`%格式`。
+
+        举例：`console.log("%s has %d points", "Sam", 100);`
+
+        +   `%s` 将值格式化为字符串
+        +   `%i` 或 `%d` 将值格式化为整型
+        +   `%f` 将值格式化为浮点值
+        +   `%o` 将值格式化为可扩展 DOM 元素。如同在 Elements 面板中显示的一样
+        +   `%O` 将值格式化为可扩展 JavaScript 对象
+            
+            可用于将 DOM 元素格式化为 JavaScript 对象。
+
+        +   `%c` 将 CSS 样式规则应用到第二个参数指定的输出字符串
+
+            ```js
+            console.log("%cThis will be formatted with large, blue text", "color: blue; font-size: x-large");
+            ```
+
+        +   将 DOM 元素格式化为 JavaScript 对象
+
+            默认情况下，DOM 元素将以其 HTML 的表示的形式记录到控制台中。
+
+            您希望以 JavaScript 对象的形式访问 DOM 元素并检查其属性。为此，您可以使用 `%O` 字符串说明符（参见上文），也可以使用 console.dir 达到同样的效果：
+
+            ```js
+            console.dir(document.body.firstElementChild)
+            ```
+
++   测量执行时间
+
+    使用 `console.time(label)` 和 `console.timeEnd(label)` 跟踪代码执行点之间经过的时间。
+
+    ```js
+    console.time("Array initialize");
+    var array= new Array(1000000);
+    for (var i = array.length - 1; i >= 0; i--) {
+        array[i] = new Object();
+    };
+    console.timeEnd("Array initialize");
+    ```
+
++   对语句执行进行计数
+
+    ```js
+    function login(user) {
+        console.count("Login called for user " + user);
+    }
+
+    users = [ // by last name since we have too many Pauls.
+        'Irish',
+        'Bakaus',
+        'Kinlan'
+    ];
+
+    users.forEach(function(element, index, array) {
+        login(element);
+    });
+
+    login(users[0]);
+    ```
+
++   表达式
+
+    +   `$()`: 返回与指定 CSS 选择器匹配的第一个元素。 `document.querySelector()` 的快捷键。
+    +   `$$()`: 返回一个与指定 CSS 选择器匹配的所有元素数组。等同于 `document.querySelectorAll()`。
+    +   `$x()`: 返回一个与指定 XPath 匹配的元素数组。
+
+        ```js
+        $('code') // Returns the first code element in the document.
+        $$('figure') // Returns an array of all figure elements in the document.
+        $x('html/body/p') // Returns an array of all paragraphs in the document body.
+        ```
+
+    +   `$_`: 返回最近评估的表达式的值。
+
+    +   `$0`、`$1`、`$2`、`$3` 和 `$4` 命令用作在 Elements 面板中检查的最后五个 DOM 元素或在 Profiles 面板中选择的最后五个 JavaScript 堆对象的历史参考。
+
+        `$0` 返回最近一次选择的元素或 JavaScript 对象，以此类推。
+
++   复制到粘贴板
+
+    ```js
+    copy(object)
+    ```
+
+    `copy(object)` 将指定对象的字符串表示形式复制到剪贴板。
 
 # 源代码面板（Sources）
 

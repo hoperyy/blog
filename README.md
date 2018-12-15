@@ -20,6 +20,7 @@
     +   [如何自动获取首屏时间（成熟版）（to be changed）](https://github.com/hoperyy/blog/issues/102)(2018)
     +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
     +   [前端性能优化知识杂糅](https://github.com/hoperyy/blog/issues/108)(2017)
+    +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
 
 +  工程化
     +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
@@ -42,7 +43,6 @@
     +   [数组的几个方法](https://github.com/hoperyy/blog/issues/23)(2016)
     +   [TypeScript 学习笔记](https://github.com/hoperyy/blog/issues/105)
     +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
-    +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
     +   [underscore 源码了解](https://github.com/hoperyy/blog/issues/5)(2015)
     +   [事件冒泡](https://github.com/hoperyy/blog/issues/40)(2015)
     +   [正则表达式语法规则](https://github.com/hoperyy/blog/issues/7)(2015)
