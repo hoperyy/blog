@@ -2,6 +2,8 @@
 
 本文依赖 chrome 版本 69.0.3497.100，日期 2018-10-30
 
+参考资料：https://developers.google.com/web/tools/chrome-devtools/
+
 # 打开开发者工具
 
 +   在Chrome菜单中选择 更多工具 > 开发者工具
