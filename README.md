@@ -19,7 +19,7 @@
 +   性能优化
     +   [如何自动获取首屏时间（成熟版）（to be changed）](https://github.com/hoperyy/blog/issues/102)(2018)
     +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
-    +   [前端性能优化知识杂糅](https://github.com/hoperyy/blog/issues/108)(2017)
+    +   [前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)
     +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
 
 +  工程化
