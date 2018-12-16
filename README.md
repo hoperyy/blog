@@ -9,7 +9,6 @@
     +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
 
 +   分享
-    +   [个人知识体系](https://github.com/hoperyy/knowledge-map)(2018/12/15)
     +   [20180812-2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
     +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
     +   [front-end-engineering: 前端工程化](https://github.com/hoperyy/front-end-engineering)(2017)(已集成进此 blog "前端工程化" 部分)
