@@ -80,7 +80,7 @@
     +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
 
 +  个人思考
-    +   [前端工作流](前端工作流)(https://github.com/hoperyy/blog/issues/128)(2018)
+    +   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
     +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
     +   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
     +   [一次大促活动总结](https://github.com/hoperyy/blog/issues/46)(2016)
