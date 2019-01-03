@@ -106,6 +106,7 @@
     
 ## 碎语
 
++   #2019/01/03# 算法还是挺有意思的
 +   #2019/01/02# 做好知识输出
 +   #2019/01/01# [2018 年总结与 2019 年计划](https://github.com/hoperyy/blog/issues/130)
 +   #2018/12/29# [滑雪技巧](https://github.com/hoperyy/blog/issues/129)
