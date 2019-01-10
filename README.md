@@ -79,7 +79,7 @@
     +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
     +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
 
-+  个人思考
++   个人思考
     +   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
     +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
     +   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
@@ -88,7 +88,7 @@
     +   [何为优秀的前端？](https://github.com/hoperyy/blog/issues/49)(2015)
     +   [2014年工作总结](https://github.com/hoperyy/blog/issues/44)(2014)
 
-+  基础知识
++   基础知识
     +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
     +   [跨域那点事](https://github.com/hoperyy/blog/issues/25)(2016)
     +   [聊聊 websocket](https://github.com/hoperyy/blog/issues/24)(2016)
@@ -96,13 +96,16 @@
     +   [gif/jpg/png/WebP 的区别](https://github.com/hoperyy/blog/issues/42)(2016)
     +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/hoperyy/blog/issues/19)(2016)
 
-+  工具
++   工具
     +   [chrome 插件开发总结](https://github.com/hoperyy/blog/issues/126)(2018/12/05)
     +   [chrome 开发者工具](https://github.com/hoperyy/blog/issues/122)(2018)
     +   [每天一个 linux 命令](https://github.com/hoperyy/blog/issues/112)(2017)
     +   [配置你的 github pages](https://github.com/hoperyy/blog/issues/10)(2015)
     +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
     +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
+
++   资源
+    +   [值得收藏的资源](https://github.com/hoperyy/blog/issues/123)
     
 ## 碎语
 
