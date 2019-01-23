@@ -153,6 +153,8 @@
         +   [配置你的 github pages](https://github.com/hoperyy/blog/issues/10)(2015)
         +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
         +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
+    +   推荐
+        +   chrome 开发者工具：https://developers.google.com/web/tools/chrome-devtools/sources?hl=zh-cn
     
 ## 碎语
 
