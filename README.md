@@ -44,7 +44,7 @@
 
 +  Node.js
     +   原创
-        +   [Event Loop 理解总结](https://github.com/hoperyy/blog/issues/131)
+        +   [Event Loop 理解总结](https://github.com/hoperyy/blog/issues/131)(2019/02)
         +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
         +   [node 小练习](https://github.com/hoperyy/blog/issues/63)(2017)
     +   推荐
