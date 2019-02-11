@@ -71,6 +71,8 @@
         +   [正则表达式语法规则](https://github.com/hoperyy/blog/issues/7)(2015)
         +   [jQuery-1.7.1 源码阅读笔记](https://github.com/hoperyy/blog/issues/9)(2015)
         +   [JS 基础](https://github.com/hoperyy/blog/issues/28)(2015)
+    +   推荐
+        +   [JavaScript深入之bind的模拟实现](https://github.com/mqyqingfeng/Blog/issues/12)
 
 +  CSS
     +   原创
