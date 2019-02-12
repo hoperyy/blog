@@ -138,14 +138,13 @@
 
 +   React / vue
     +   Immutable
-     +	https://zhenhua-lee.github.io/react/Immutable.html
-    +   vue
-        +  《剖析 vue 内部运行机制》:https://juejin.im/book/5a36661851882538e2259c0f/section/5a37bbb35188257d167a4d64
-    	+   vue 源码：https://ustbhuangyi.github.io/vue-analysis/vuex/plugin.html#logger-%E6%8F%92%E4%BB%B6
-    	+   vue 文档：https://cn.vuejs.org/v2/guide/plugins.html
-    	+   virtual dom: https://segmentfault.com/a/1190000016129036
-    	+   vue diff: https://juejin.im/post/5affd01551882542c83301da
-    	+   https://github.com/lcxfs1991/blog
+    +	https://zhenhua-lee.github.io/react/Immutable.html
+    +  《剖析 vue 内部运行机制》:https://juejin.im/book/5a36661851882538e2259c0f/section/5a37bbb35188257d167a4d64
+	+   vue 源码：https://ustbhuangyi.github.io/vue-analysis/vuex/plugin.html#logger-%E6%8F%92%E4%BB%B6
+	+   vue 文档：https://cn.vuejs.org/v2/guide/plugins.html
+	+   virtual dom: https://segmentfault.com/a/1190000016129036
+	+   vue diff: https://juejin.im/post/5affd01551882542c83301da
+	+   https://github.com/lcxfs1991/blog
 
 +   算法
     +   图解算法
