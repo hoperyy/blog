@@ -16,149 +16,149 @@
 ## 文章
 
 +   性能优化
-    +   原创
-        +   [如何自动获取首屏时间（成熟版）（to be changed）](https://github.com/hoperyy/blog/issues/102)(2018)
-        +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
-        +   [前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)
-        +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
-    +   推荐
-        +   掘金：前端性能优化原理与实践：https://juejin.im/book/5b936540f265da0a9624b04b
+    +   [如何自动获取首屏时间（成熟版）（to be changed）](https://github.com/hoperyy/blog/issues/102)(2018)
+    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
+    +   [前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)
+    +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
 
 +  工程化
-    +   原创
-        +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
-        +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
-        +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
-        +   [webpack 深入配置](https://github.com/hoperyy/front-end-engineering/issues/15)(2017)
-        +   [webpack 经验谈](https://github.com/hoperyy/front-end-engineering/issues/14)(2017)
-        +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
-        +   [项目个性化配置策略](https://github.com/hoperyy/front-end-engineering/issues/11)(2017)
-        +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
-        +   [用纯webpack结构替代gulp+webpack结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
-        +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/front-end-engineering/issues/16)(2017)
-    +   推荐
-        +   webpack: https://www.cnblogs.com/wonyun/p/8146139.html
-        +   webpack: https://github.com/soulcm/blog/issues/6
-        +   webpack: https://juejin.im/post/5bf7c2186fb9a049fd0f7e8a
-        +   babel: https://cnodejs.org/topic/5a9317d38d6e16e56bb808d1
+    +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
+    +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
+    +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
+    +   [webpack 深入配置](https://github.com/hoperyy/front-end-engineering/issues/15)(2017)
+    +   [webpack 经验谈](https://github.com/hoperyy/front-end-engineering/issues/14)(2017)
+    +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
+    +   [项目个性化配置策略](https://github.com/hoperyy/front-end-engineering/issues/11)(2017)
+    +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
+    +   [用纯webpack结构替代gulp+webpack结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
+    +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/front-end-engineering/issues/16)(2017)
+        
 
 +  Node.js
-    +   原创
-        +   [Event Loop 理解总结](https://github.com/hoperyy/blog/issues/131)(2019/02)
-        +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
-        +   [node 小练习](https://github.com/hoperyy/blog/issues/63)(2017)
-    +   推荐
-        +   错误捕获：http://nodejs.cn/api/process.html#process_event_rejectionhandled
-        +   Node 基础：http://www.runoob.com/nodejs/nodejs-global-object.html
-        +   深入理解 Node：https://github.com/yjhjstz/deep-into-node
-        +   stream:  https://www.cnblogs.com/dolphinX/p/6285240.html
-        +   stream:  http://taobaofed.org/blog/2017/08/31/nodejs-stream/
-        +   cluster:  http://taobaofed.org/blog/2015/11/10/nodejs-cluster-2/
-        +   [cluster](http://nodejs.cn/api/cluster.html)
-        +   [nodejs 错误处理机制](https://cnodejs.org/topic/558652fe01d3ce0d73d68fef)
-        +   [不要混淆nodejs和浏览器中的event loop](https://cnodejs.org/topic/5a9108d78d6e16e56bb80882)
-        +   koa：https://juejin.im/post/5a62bab4f265da3e58596f40
-        +   Express：https://segmentfault.com/a/1190000011090124
+    +   [Event Loop 理解总结](https://github.com/hoperyy/blog/issues/131)(2019/02)
+    +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
+    +   [node 小练习](https://github.com/hoperyy/blog/issues/63)(2017)
 
 +  JavaScript
-    +   原创
-        +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
-        +   [数组的几个方法](https://github.com/hoperyy/blog/issues/23)(2016)
-        +   [TypeScript 学习笔记](https://github.com/hoperyy/blog/issues/105)
-        +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
-        +   [underscore 源码了解](https://github.com/hoperyy/blog/issues/5)(2015)
-        +   [事件冒泡](https://github.com/hoperyy/blog/issues/40)(2015)
-        +   [正则表达式语法规则](https://github.com/hoperyy/blog/issues/7)(2015)
-        +   [jQuery-1.7.1 源码阅读笔记](https://github.com/hoperyy/blog/issues/9)(2015)
-        +   [JS 基础](https://github.com/hoperyy/blog/issues/28)(2015)
-    +   推荐
-        +   [JavaScript深入之bind的模拟实现](https://github.com/mqyqingfeng/Blog/issues/12)
+     +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
+     +   [数组的几个方法](https://github.com/hoperyy/blog/issues/23)(2016)
+     +   [TypeScript 学习笔记](https://github.com/hoperyy/blog/issues/105)
+     +   [《JavaScript 设计模式》笔记](https://github.com/hoperyy/blog/issues/53)(2016)
+     +   [underscore 源码了解](https://github.com/hoperyy/blog/issues/5)(2015)
+     +   [事件冒泡](https://github.com/hoperyy/blog/issues/40)(2015)
+     +   [正则表达式语法规则](https://github.com/hoperyy/blog/issues/7)(2015)
+     +   [jQuery-1.7.1 源码阅读笔记](https://github.com/hoperyy/blog/issues/9)(2015)
+     +   [JS 基础](https://github.com/hoperyy/blog/issues/28)(2015)
 
 +  CSS
-    +   原创
-        +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
-        +   [flex 属性快速记忆](https://github.com/hoperyy/blog/issues/41)(2016)
-        +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
-        +   [css 清除浮动的 3 个方法](https://github.com/hoperyy/blog/issues/17)(2014)
-        +   [css3 速查手册](https://github.com/hoperyy/blog/issues/13)(2015)
-        +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)(2014)
-    +   推荐
-        +   flex：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+    +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
+    +   [flex 属性快速记忆](https://github.com/hoperyy/blog/issues/41)(2016)
+    +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
+    +   [css 清除浮动的 3 个方法](https://github.com/hoperyy/blog/issues/17)(2014)
+    +   [css3 速查手册](https://github.com/hoperyy/blog/issues/13)(2015)
+    +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)(2014)
 
 +   React / vue
-    +   原创
-        +   [React / Redux](https://github.com/hoperyy/blog/issues/118)(2018)
-        +   [React 渲染性能提升](https://github.com/hoperyy/blog/issues/21)(2016)
-        +   [用 React 实现移动端单页应用](https://github.com/hoperyy/blog/issues/43)(2016)
-        +   [vuex](https://github.com/hoperyy/blog/issues/117)(2018)
-        +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)(2017)
-        +   [vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
-    +   推荐
-        +   Immutable
-	        +	https://zhenhua-lee.github.io/react/Immutable.html
-        +   vue
-            +  《剖析 vue 内部运行机制》:https://juejin.im/book/5a36661851882538e2259c0f/section/5a37bbb35188257d167a4d64
-        	+   vue 源码：https://ustbhuangyi.github.io/vue-analysis/vuex/plugin.html#logger-%E6%8F%92%E4%BB%B6
-        	+   vue 文档：https://cn.vuejs.org/v2/guide/plugins.html
-        	+   virtual dom: https://segmentfault.com/a/1190000016129036
-        	+   vue diff: https://juejin.im/post/5affd01551882542c83301da
-        	+   https://github.com/lcxfs1991/blog
+    +   [React / Redux](https://github.com/hoperyy/blog/issues/118)(2018)
+    +   [React 渲染性能提升](https://github.com/hoperyy/blog/issues/21)(2016)
+    +   [用 React 实现移动端单页应用](https://github.com/hoperyy/blog/issues/43)(2016)
+    +   [vuex](https://github.com/hoperyy/blog/issues/117)(2018)
+    +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)(2017)
+    +   [vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
 
 +   算法
-    +   原创
-        +   [算法](https://github.com/hoperyy/blog/issues/121)(2018)
-        +   [JavaScript 算法笔记](https://github.com/hoperyy/blog/issues/27)(2016)
-    +   推荐
-        +   图解算法
-        +   https://time.geekbang.org/course/intro/130
+    +   [算法](https://github.com/hoperyy/blog/issues/121)(2018)
+    +   [JavaScript 算法笔记](https://github.com/hoperyy/blog/issues/27)(2016)
 
 +   Server
-    +   原创
-        +   [RESTful 风格](https://github.com/hoperyy/blog/issues/120)(2018/08)
-        +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
+    +   [RESTful 风格](https://github.com/hoperyy/blog/issues/120)(2018/08)
+    +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
 
 +   团队
-    +   原创
-        +   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017)
-        +   [团队管理方式探索（更新中）](https://github.com/hoperyy/blog/issues/94)(2017)
-        +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
-        +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
-        +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
+    +   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017)
+    +   [团队管理方式探索（更新中）](https://github.com/hoperyy/blog/issues/94)(2017)
+    +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
+    +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
+    +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
 
 +   思考
-    +   原创
-        +   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
-        +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
-        +   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
-        +   [一次大促活动总结](https://github.com/hoperyy/blog/issues/46)(2016)
-        +   [工作中的方法论](https://github.com/hoperyy/blog/issues/45)(2015)
-        +   [何为优秀的前端？](https://github.com/hoperyy/blog/issues/49)(2015)
-        +   [2014年工作总结](https://github.com/hoperyy/blog/issues/44)(2014)
+    +   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
+    +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
+    +   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
+    +   [一次大促活动总结](https://github.com/hoperyy/blog/issues/46)(2016)
+    +   [工作中的方法论](https://github.com/hoperyy/blog/issues/45)(2015)
+    +   [何为优秀的前端？](https://github.com/hoperyy/blog/issues/49)(2015)
+    +   [2014年工作总结](https://github.com/hoperyy/blog/issues/44)(2014)
 
 +   基础知识
-    +   原创
-        +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
-        +   [跨域那点事](https://github.com/hoperyy/blog/issues/25)(2016)
-        +   [聊聊 websocket](https://github.com/hoperyy/blog/issues/24)(2016)
-        +   [HTTP/HTTP/2.0/SPDY/HTTPS](https://github.com/hoperyy/blog/issues/20)(2016)
-        +   [gif/jpg/png/WebP 的区别](https://github.com/hoperyy/blog/issues/42)(2016)
-        +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/hoperyy/blog/issues/19)(2016)
-    +   推荐
-        +   图解 TCP/IP
-        +   promise 实现：https://juejin.im/post/5ab20c58f265da23a228fe0f
-        +   事件循环：http://web.jobbole.com/95613/
+    +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
+    +   [跨域那点事](https://github.com/hoperyy/blog/issues/25)(2016)
+    +   [聊聊 websocket](https://github.com/hoperyy/blog/issues/24)(2016)
+    +   [HTTP/HTTP/2.0/SPDY/HTTPS](https://github.com/hoperyy/blog/issues/20)(2016)
+    +   [gif/jpg/png/WebP 的区别](https://github.com/hoperyy/blog/issues/42)(2016)
+    +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/hoperyy/blog/issues/19)(2016)
 
 +   工具
-    +   原创
-        +   [chrome 插件开发总结](https://github.com/hoperyy/blog/issues/126)(2018/12/05)
-        +   [chrome 开发者工具](https://github.com/hoperyy/blog/issues/122)(2018)
-        +   [每天一个 linux 命令](https://github.com/hoperyy/blog/issues/112)(2017)
-        +   [配置你的 github pages](https://github.com/hoperyy/blog/issues/10)(2015)
-        +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
-        +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
-    +   推荐
-        +   chrome 开发者工具：https://developers.google.com/web/tools/chrome-devtools/sources?hl=zh-cn
-    
+    +   [chrome 插件开发总结](https://github.com/hoperyy/blog/issues/126)(2018/12/05)
+    +   [chrome 开发者工具](https://github.com/hoperyy/blog/issues/122)(2018)
+    +   [每天一个 linux 命令](https://github.com/hoperyy/blog/issues/112)(2017)
+    +   [配置你的 github pages](https://github.com/hoperyy/blog/issues/10)(2015)
+    +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
+    +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
+
+## 文章推荐
+
++   性能优化
+    +   掘金：前端性能优化原理与实践：https://juejin.im/book/5b936540f265da0a9624b04b
+
++   工程化
+    +   webpack: https://www.cnblogs.com/wonyun/p/8146139.html
+    +   webpack: https://github.com/soulcm/blog/issues/6
+    +   webpack: https://juejin.im/post/5bf7c2186fb9a049fd0f7e8a
+    +   babel: https://cnodejs.org/topic/5a9317d38d6e16e56bb808d1
+
++   Node.js
+    +   错误捕获：http://nodejs.cn/api/process.html#process_event_rejectionhandled
+    +   Node 基础：http://www.runoob.com/nodejs/nodejs-global-object.html
+    +   深入理解 Node：https://github.com/yjhjstz/deep-into-node
+    +   stream:  https://www.cnblogs.com/dolphinX/p/6285240.html
+    +   stream:  http://taobaofed.org/blog/2017/08/31/nodejs-stream/
+    +   cluster:  http://taobaofed.org/blog/2015/11/10/nodejs-cluster-2/
+    +   [cluster](http://nodejs.cn/api/cluster.html)
+    +   [nodejs 错误处理机制](https://cnodejs.org/topic/558652fe01d3ce0d73d68fef)
+    +   [不要混淆nodejs和浏览器中的event loop](https://cnodejs.org/topic/5a9108d78d6e16e56bb80882)
+    +   koa：https://juejin.im/post/5a62bab4f265da3e58596f40
+    +   Express：https://segmentfault.com/a/1190000011090124
+
++   JavaScript
+    +   [JavaScript深入之bind的模拟实现](https://github.com/mqyqingfeng/Blog/issues/12)
+
++   CSS
+    +   flex：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+
++   React / vue
+    +   Immutable
+     +	https://zhenhua-lee.github.io/react/Immutable.html
+    +   vue
+        +  《剖析 vue 内部运行机制》:https://juejin.im/book/5a36661851882538e2259c0f/section/5a37bbb35188257d167a4d64
+    	+   vue 源码：https://ustbhuangyi.github.io/vue-analysis/vuex/plugin.html#logger-%E6%8F%92%E4%BB%B6
+    	+   vue 文档：https://cn.vuejs.org/v2/guide/plugins.html
+    	+   virtual dom: https://segmentfault.com/a/1190000016129036
+    	+   vue diff: https://juejin.im/post/5affd01551882542c83301da
+    	+   https://github.com/lcxfs1991/blog
+
++   算法
+    +   图解算法
+    +   https://time.geekbang.org/course/intro/130
+
++   基础知识
+    +   图解 TCP/IP
+    +   promise 实现：https://juejin.im/post/5ab20c58f265da23a228fe0f
+    +   事件循环：http://web.jobbole.com/95613/
+
++   工具
+    +   chrome 开发者工具：https://developers.google.com/web/tools/chrome-devtools/sources?hl=zh-cn
+
 ## 碎语
 
 +   #2019/01/28# 充足的时间是做好事情的保证
