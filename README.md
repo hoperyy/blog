@@ -159,6 +159,7 @@
 
 +   工具
     +   chrome 开发者工具：https://developers.google.com/web/tools/chrome-devtools/sources?hl=zh-cn
+    +   chrome 开发：https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html
 
 ## 碎语
 
