@@ -132,7 +132,8 @@
     +   Express：https://segmentfault.com/a/1190000011090124
 
 +   JavaScript
-    +   [JavaScript深入之bind的模拟实现](https://github.com/mqyqingfeng/Blog/issues/12)
+    +   [XSS/CSRF](https://www.cnblogs.com/wangyuyu/p/3388180.html)
+    +   [JavaScript深入之 bind 的模拟实现](https://github.com/mqyqingfeng/Blog/issues/12)
 
 +   CSS
     +   flex：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
