@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuyuanyangscript/blog.git"
+    "url": "git+https://github.com/hoperyy/blog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liuyuanyangscript/blog/issues"
+    "url": "https://github.com/hoperyy/blog/issues"
   },
-  "homepage": "https://github.com/liuyuanyangscript/blog#readme",
+  "homepage": "https://github.com/hoperyy/blog#readme",
   "devDependencies": {
     "docsite-cli": "^1.0.1",
     "generate-docs-by-github-issue": "^1.0.1"
