@@ -86,6 +86,7 @@
     +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
 
 +   思考
+    +   [聊一聊前端业务开发](https://github.com/hoperyy/blog/issues/135)(2019/03/18)
     +   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
     +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
     +   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
