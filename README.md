@@ -16,7 +16,6 @@
 ## 文章
 
 +   知识图谱
-
     +   [我希望将自身的知识，以图谱的方式呈现出来](https://github.com/hoperyy/blog/issues/133)
     +   [英文系统学习-思维导图](https://github.com/hoperyy/blog/issues/136)(2019/03)
 
