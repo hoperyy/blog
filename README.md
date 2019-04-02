@@ -13,7 +13,7 @@
     +   [front-end-engineering: 前端工程化](https://github.com/hoperyy/front-end-engineering)(2017)(已集成进此 blog "前端工程化" 部分)
 
 +   技术周刊
-    +   [远洋技术周刊 - 第 1 期](https://github.com/hoperyy/blog/issues/137)
+    +   [远洋技术周刊 - 第 1 期（2019/03/29）](https://github.com/hoperyy/blog/issues/137)
 
 ## 文章
 
