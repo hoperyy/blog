@@ -37,7 +37,7 @@
     +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
     +   [项目个性化配置策略](https://github.com/hoperyy/front-end-engineering/issues/11)(2017)
     +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
-    +   [用纯webpack结构替代gulp+webpack结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
+    +   [用纯 webpack 结构替代 gulp+webpack 结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
     +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/front-end-engineering/issues/16)(2017)
         
 +  Node.js
