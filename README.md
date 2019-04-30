@@ -117,61 +117,9 @@
     +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
     +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
 
-## 文章推荐
+## 收藏的文章
 
-+   性能优化
-    +   掘金：前端性能优化原理与实践：https://juejin.im/book/5b936540f265da0a9624b04b
-
-+   工程化
-    +   webpack: https://www.cnblogs.com/wonyun/p/8146139.html
-    +   webpack: https://github.com/soulcm/blog/issues/6
-    +   webpack: https://juejin.im/post/5bf7c2186fb9a049fd0f7e8a
-    +   babel: https://cnodejs.org/topic/5a9317d38d6e16e56bb808d1
-
-+   Node.js
-    +   错误捕获：http://nodejs.cn/api/process.html#process_event_rejectionhandled
-    +   Node 基础：http://www.runoob.com/nodejs/nodejs-global-object.html
-    +   深入理解 Node：https://github.com/yjhjstz/deep-into-node
-    +   stream:  https://www.cnblogs.com/dolphinX/p/6285240.html
-    +   stream:  http://taobaofed.org/blog/2017/08/31/nodejs-stream/
-    +   cluster:  http://taobaofed.org/blog/2015/11/10/nodejs-cluster-2/
-    +   [cluster](http://nodejs.cn/api/cluster.html)
-    +   [nodejs 错误处理机制](https://cnodejs.org/topic/558652fe01d3ce0d73d68fef)
-    +   [不要混淆nodejs和浏览器中的event loop](https://cnodejs.org/topic/5a9108d78d6e16e56bb80882)
-    +   koa：https://juejin.im/post/5a62bab4f265da3e58596f40
-    +   koa-compose：https://juejin.im/post/59c00a39f265da064c3853b7
-    +   Express：https://segmentfault.com/a/1190000011090124
-
-+   JavaScript
-    +   [XSS/CSRF](https://www.cnblogs.com/wangyuyu/p/3388180.html)
-    +   [JavaScript深入之 bind 的模拟实现](https://github.com/mqyqingfeng/Blog/issues/12)
-
-+   CSS
-    +   flex：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
-    +   [在移动端使用transform: translate代替top left marg等做位移有好处么 ？](https://www.zhihu.com/question/33629083)
-
-+   React / vue
-    +   Immutable
-    +	https://zhenhua-lee.github.io/react/Immutable.html
-    +  《剖析 vue 内部运行机制》:https://juejin.im/book/5a36661851882538e2259c0f/section/5a37bbb35188257d167a4d64
-	+   vue 源码：https://ustbhuangyi.github.io/vue-analysis/vuex/plugin.html#logger-%E6%8F%92%E4%BB%B6
-	+   vue 文档：https://cn.vuejs.org/v2/guide/plugins.html
-	+   virtual dom: https://segmentfault.com/a/1190000016129036
-	+   vue diff: https://juejin.im/post/5affd01551882542c83301da
-	+   https://github.com/lcxfs1991/blog
-
-+   算法
-    +   图解算法
-    +   https://time.geekbang.org/course/intro/130
-
-+   基础知识
-    +   图解 TCP/IP
-    +   promise 实现：https://juejin.im/post/5ab20c58f265da23a228fe0f
-    +   事件循环：http://web.jobbole.com/95613/
-
-+   工具
-    +   chrome 开发者工具：https://developers.google.com/web/tools/chrome-devtools/sources?hl=zh-cn
-    +   chrome 开发：https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html
+https://github.com/hoperyy/blog/issues/142
 
 ## 碎语
 
