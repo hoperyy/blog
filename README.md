@@ -91,6 +91,7 @@
     +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
 
 +   思考
+    +   [收藏的文章](https://github.com/hoperyy/blog/issues/142)
     +   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
     +   [聊一聊前端业务开发](https://github.com/hoperyy/blog/issues/135)(2019/03/18)
     +   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
@@ -117,9 +118,6 @@
     +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
     +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
 
-## 收藏的文章
-
-https://github.com/hoperyy/blog/issues/142
 
 ## 碎语
 
