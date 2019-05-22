@@ -15,13 +15,9 @@
 
 ## 文章
 
-+   知识图谱
-    +   [我希望将自身的知识，以图谱的方式呈现出来](https://github.com/hoperyy/blog/issues/133)
-    +   [英文系统学习-思维导图](https://github.com/hoperyy/blog/issues/136)(2019/03)
-
 +   性能优化
-    +   [如何自动获取首屏时间（成熟版）（to be changed）](https://github.com/hoperyy/blog/issues/102)(2018)
-    +   [首屏自动打点原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
+    +   [自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
+    +   [自动获取首屏时间原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
     +   [前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)
     +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
 
@@ -79,7 +75,6 @@
     +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
 
 +   团队
-    +   [一个完整的前端团队技术配置是什么](https://github.com/hoperyy/blog/issues/97)(2017)
     +   [团队管理方式探索（更新中）](https://github.com/hoperyy/blog/issues/94)(2017)
     +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
     +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
