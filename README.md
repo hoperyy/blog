@@ -37,7 +37,6 @@
     +   [koa-compose](https://github.com/hoperyy/blog/issues/132)(2019)
     +   [Event Loop 理解总结](https://github.com/hoperyy/blog/issues/131)(2019/02)
     +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
-    +   [node 小练习](https://github.com/hoperyy/blog/issues/63)(2017)
 
 +  JavaScript
      +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
