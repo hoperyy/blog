@@ -72,14 +72,13 @@
     +   [RESTful 风格](https://github.com/hoperyy/blog/issues/120)(2018/08)
     +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
 
-+   团队
-    +   [团队管理方式探索（更新中）](https://github.com/hoperyy/blog/issues/94)(2017)
++   团队管理
     +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
     +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
     +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
 
 +   思考
-    +   [收藏的文章](https://github.com/hoperyy/blog/issues/142)
+    +   [收藏的文章](https://github.com/hoperyy/blog/issues/142)(2019/05)
     +   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
     +   [聊一聊前端业务开发](https://github.com/hoperyy/blog/issues/135)(2019/03/18)
     +   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
