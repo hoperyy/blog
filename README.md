@@ -17,17 +17,17 @@
 
 +   性能优化
     +   **[自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)**
-    +   [自动获取首屏时间原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
     +   **[前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)**
+    +   [自动获取首屏时间原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
     +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
 
 +  工程化
     +   **[前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)**
-    +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
-    +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
+    +   **[谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)**
+    +   **[远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)**
     +   [webpack 深入配置](https://github.com/hoperyy/front-end-engineering/issues/15)(2017)
     +   [webpack 经验谈](https://github.com/hoperyy/front-end-engineering/issues/14)(2017)
-    +   [启动一个vue项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
+    +   [启动一个 vue 项目](https://github.com/hoperyy/front-end-engineering/issues/1)(2017)
     +   [项目个性化配置策略](https://github.com/hoperyy/front-end-engineering/issues/11)(2017)
     +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
     +   [用纯 webpack 结构替代 gulp+webpack 结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
@@ -49,9 +49,9 @@
      +   [JS 基础](https://github.com/hoperyy/blog/issues/28)(2015)
 
 +  CSS
-    +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
+    +   **[css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)**
+    +   **[什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)**
     +   [flex 属性快速记忆](https://github.com/hoperyy/blog/issues/41)(2016)
-    +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
     +   [css 清除浮动的 3 个方法](https://github.com/hoperyy/blog/issues/17)(2014)
     +   [css3 速查手册](https://github.com/hoperyy/blog/issues/13)(2015)
     +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)(2014)
@@ -73,13 +73,13 @@
     +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
 
 +   团队管理
-    +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
-    +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
+    +   **[如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)**
+    +   **[推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)**
     +   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
 
 +   思考
+    +   **[如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)**
     +   [收藏的文章](https://github.com/hoperyy/blog/issues/142)(2019/05)
-    +   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
     +   [聊一聊前端业务开发](https://github.com/hoperyy/blog/issues/135)(2019/03/18)
     +   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
     +   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
