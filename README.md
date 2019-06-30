@@ -25,6 +25,7 @@ https://github.com/hoperyy/blog/issues/115
 
 ## 精选文章
 
++   **[如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)**
 +   **[自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)**
 +   **[前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)**
 +   **[前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)**
@@ -34,7 +35,6 @@ https://github.com/hoperyy/blog/issues/115
 +   **[什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)**
 +   **[如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)**
 +   **[推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)**
-+   **[如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)**
 
 ## 所有文章
 
