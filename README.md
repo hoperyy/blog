@@ -45,7 +45,6 @@ https://github.com/hoperyy/blog/issues/115
         
 +  Node.js
     +   [koa-compose](https://github.com/hoperyy/blog/issues/132)(2019)
-    +   [node-knowledge](https://github.com/hoperyy/node-knowledge)(2018)
 
 +  JavaScript
      +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
@@ -56,7 +55,7 @@ https://github.com/hoperyy/blog/issues/115
      +   [事件冒泡](https://github.com/hoperyy/blog/issues/40)(2015)
      +   [正则表达式语法规则](https://github.com/hoperyy/blog/issues/7)(2015)
      +   [jQuery-1.7.1 源码阅读笔记](https://github.com/hoperyy/blog/issues/9)(2015)
-     +   [JS 基础](https://github.com/hoperyy/blog/issues/28)(2015)
+     +   [js 基础](https://github.com/hoperyy/blog/issues/28)(2015)
 
 +  CSS
     +   **[css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)**
