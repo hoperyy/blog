@@ -10,11 +10,11 @@
 
 ## 精选
 
-+   开源工具：[bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
-+   开源工具：[auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
-+   开源工具：[sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
-+   开源工具：[visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
-+   开源工具：[ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
++   开源：[bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
++   开源：[auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
++   开源：[sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
++   开源：[visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
++   开源：[ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
 +   项目：[兴趣小组：多端统一开发原理研究](https://github.com/hoperyy/water)(2019/04)
 +   项目：[从前端工程师的角度整理的知识体系](https://github.com/hoperyy/front-end-knowledge)(2019/06/30)
 +   演讲：[2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
