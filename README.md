@@ -10,24 +10,27 @@
 
 ## 精选
 
-+   开源：[bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
-+   开源：[auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
-+   开源：[sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
-+   开源：[visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
-+   开源：[ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
-+   项目：[兴趣小组：多端统一开发原理研究](https://github.com/hoperyy/water)(2019/04)
-+   项目：[从前端工程师的角度整理的知识体系](https://github.com/hoperyy/front-end-knowledge)(2019/06/30)
-+   演讲：[2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
-+   文章：[如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
-+   文章：[自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
-+   文章：[前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
-+   文章：[谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
-+   文章：[前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)
-+   文章：[远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
-+   文章：[如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
-+   文章：[推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
-+   文章：[css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
-+   文章：[什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
++   开源
+    +   [bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
+    +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
+    +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
+    +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
+    +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
++   项目
+    +   [兴趣小组：多端统一开发原理研究](https://github.com/hoperyy/water)(2019/04)
+    +   [从前端工程师的角度整理的知识体系](https://github.com/hoperyy/front-end-knowledge)(2019/06/30)
++   分享
+    +   [2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
+    +   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
+    +   [自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
+    +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
+    +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
+    +   [前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)
+    +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
+    +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
+    +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
+    +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
+    +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
 
 ## 所有文章
 
