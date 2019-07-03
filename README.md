@@ -11,6 +11,10 @@
 ## 精选
 
 +   开源
+    +   独立解析某个文件的依赖树：[get-dependency-tree](https://github.com/hoperyy/get-dependency-tree)
+
+        用该工具可以快速解析出：`js / vue / scss / sass / less / css` 类入口文件的依赖树，不再依赖 webpack 获取依赖树（webpack 暴露的获取方式极其晦涩）。
+        
     +   [bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
     +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
     +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
