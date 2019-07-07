@@ -248,6 +248,22 @@
 
 ### 基础知识
 
+思维导图：
+
+![](./imgs/http-knowledge.png)
+
+资料链接：
+
++   HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事
+    +   http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/
+
++   通俗大白话来理解 TCP 协议的三次握手和四次分手
+    +   https://github.com/jawil/blog/issues/14
+
++   浅析HTTP/2的多路复用
+    +   https://github.com/hoperyy/blog/issues/58
+    +   https://segmentfault.com/a/1190000011172823
+
 个人文章：
 
 +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
