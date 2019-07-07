@@ -150,15 +150,6 @@
 
 ![](./imgs/electron.png)
 
-### 算法
-
-![](./imgs/algorithm.png)
-
-个人文章：
-
-+   [算法](https://github.com/hoperyy/blog/issues/121)(2018)
-+   [JavaScript 算法笔记](https://github.com/hoperyy/blog/issues/27)(2016)
-
 ### JavaScript 其他
 
 +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
