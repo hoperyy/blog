@@ -37,7 +37,7 @@
     +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
     +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
 
-## 从前端工程师的角度整理的知识体系
+## 个人整理的知识体系
 
 从前端工程师的角度，整理知识体系。
 
@@ -45,27 +45,7 @@
 
 呈现形式：文章、图解
 
-### HTTP 知识
-
-思维导图：
-
-![](./imgs/http-knowledge.png)
-
-资料链接：
-
-+   HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事
-    +   http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/
-
-+   通俗大白话来理解 TCP 协议的三次握手和四次分手
-    +   https://github.com/jawil/blog/issues/14
-
-+   浅析HTTP/2的多路复用
-    +   https://github.com/hoperyy/blog/issues/58
-    +   https://segmentfault.com/a/1190000011172823
-
 ### 前端工程化
-
-思维导图：
 
 ![](./imgs/fe-engineer.png)
 
@@ -84,13 +64,9 @@
 
 ### 错误监控
 
-思维导图：
-
 ![](./imgs/fe-error.png)
 
 ### 性能优化
-
-思维导图：
 
 ![](./imgs/fe-faster.png)
 
@@ -108,8 +84,6 @@
 
 ### Vue
 
-思维导图：
-
 ![](./imgs/vue.png)
 
 资料链接：
@@ -126,8 +100,6 @@
 
 ### React
 
-思维导图：
-
 ![](./imgs/react.png)
 
 个人文章：
@@ -138,19 +110,13 @@
 
 ### 事件循环
 
-思维导图：
-
 ![](./imgs/event-loop.png)
 
 ### 安全
 
-思维导图：
-
 ![](./imgs/safe.png)
 
 ### TypeScript
-
-思维导图：
 
 ![](./imgs/typescript.png)
 
@@ -159,8 +125,6 @@
 +   https://jkchao.github.io/typescript-book-chinese/tips/infer.html
 
 ### Node
-
-思维导图：
 
 ![](./imgs/node.png)
 
@@ -172,13 +136,9 @@
 
 ### ES6/7/...
 
-思维导图：
-
 ![](./imgs/es67more.png)
 
 ### 异步编程
-
-思维导图：
 
 ![](./imgs/async-coding.png)
 
@@ -188,13 +148,9 @@
 
 ### Electron
 
-思维导图：
-
 ![](./imgs/electron.png)
 
 ### 算法
-
-思维导图：
 
 ![](./imgs/algorithm.png)
 
@@ -204,8 +160,6 @@
 +   [JavaScript 算法笔记](https://github.com/hoperyy/blog/issues/27)(2016)
 
 ### JavaScript 其他
-
-个人文章：
 
 +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
 +   [数组的几个方法](https://github.com/hoperyy/blog/issues/23)(2016)
@@ -219,8 +173,6 @@
 
 ### CSS
 
-个人文章：
-
 +   **[css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)**
 +   **[什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)**
 +   [flex 属性快速记忆](https://github.com/hoperyy/blog/issues/41)(2016)
@@ -229,8 +181,6 @@
 +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)(2014)
 
 ### 思考
-
-个人文章：
 
 +   **[如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)**
 +   **[如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)**
@@ -248,24 +198,6 @@
 
 ### 基础知识
 
-思维导图：
-
-![](./imgs/http-knowledge.png)
-
-资料链接：
-
-+   HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事
-    +   http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/
-
-+   通俗大白话来理解 TCP 协议的三次握手和四次分手
-    +   https://github.com/jawil/blog/issues/14
-
-+   浅析HTTP/2的多路复用
-    +   https://github.com/hoperyy/blog/issues/58
-    +   https://segmentfault.com/a/1190000011172823
-
-个人文章：
-
 +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
 +   [跨域那点事](https://github.com/hoperyy/blog/issues/25)(2016)
 +   [聊聊 websocket](https://github.com/hoperyy/blog/issues/24)(2016)
@@ -274,8 +206,6 @@
 +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/hoperyy/blog/issues/19)(2016)
 
 ### 工具
-
-个人文章：
 
 +   [chrome 插件开发总结](https://github.com/hoperyy/blog/issues/126)(2018/12/05)
 +   [chrome 开发者工具](https://github.com/hoperyy/blog/issues/122)(2018)
