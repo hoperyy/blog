@@ -20,10 +20,8 @@
     +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
     +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
     +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
-+   项目
-    +   [从前端工程师的角度整理的知识体系](https://github.com/hoperyy/front-end-knowledge)(2019/06/30)
-    +   [兴趣小组：多端统一开发原理研究](https://github.com/hoperyy/water)(2019/04)
 +   分享
+    +   [兴趣小组：多端统一开发原理研究](https://github.com/hoperyy/water)(2019/04)
     +   [2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
     +   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
     +   [自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
