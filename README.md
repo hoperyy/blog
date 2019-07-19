@@ -148,6 +148,10 @@
 
 ![](./imgs/electron.png)
 
+### 小程序
+
+![](./imgs/miniprogram.png)
+
 ### JavaScript 其他
 
 +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
