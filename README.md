@@ -36,19 +36,48 @@
     +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
     +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
 
-## 个人整理的知识体系
+## 个人整理的知识体系思维导图
 
-从前端工程师的角度，整理知识体系。
++   [工程化](./imgs/fe-engineer.png)
++   [错误监控](./imgs/fe-error.png)
++   [性能优化](./imgs/fe-faster.png)
 
-内容包含但不限于前端领域。
+    资料链接：
 
-呈现形式：文章、图解
+    +   https://juejin.im/book/5b936540f265da0a9624b04b/section/5b9ba651f265da0ac726e5de
+    +   https://imququ.com/post/protocol-negotiation-in-http2.html
+
++   [Vue](./imgs/vue.png)
+
+    资料链接：
+
+    +   源码解析：https://ustbhuangyi.github.io/vue-analysis/
+    +   tips：https://vuedose.tips/tips/
+    +   vuex 教程：https://segmentfault.com/a/1190000009404727
+
++   [React](./imgs/react.png)
++   [事件循环](./imgs/event-loop.png)
++   [安全](./imgs/safe.png)
++   [TypeScript ](./imgs/typescript.png)
+
+    资料链接：
+
+    +   https://jkchao.github.io/typescript-book-chinese/tips/infer.html
+
++   [Node ](./imgs/node.png)
++   [ES6/7...](./imgs/es67more.png)
++   [异步编程](./imgs/async-coding.png)
+
+    资料链接：
+
+    +   实现一个 Promise：https://juejin.im/post/5ab20c58f265da23a228fe0f
+
++   [Electron](./imgs/electron.png)
++   [小程序](./imgs/miniprogram.png)
+
+## 个人文章
 
 ### 前端工程化
-
-![](./imgs/fe-engineer.png)
-
-个人文章：
 
 +   **[前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)**
 +   **[谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)**
@@ -61,20 +90,7 @@
 +   [用纯 webpack 结构替代 gulp+webpack 结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
 +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/front-end-engineering/issues/16)(2017)
 
-### 错误监控
-
-![](./imgs/fe-error.png)
-
 ### 性能优化
-
-![](./imgs/fe-faster.png)
-
-资料链接：
-
-+   https://juejin.im/book/5b936540f265da0a9624b04b/section/5b9ba651f265da0ac726e5de
-+   https://imququ.com/post/protocol-negotiation-in-http2.html
-
-个人文章：
 
 +   **[自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)**
 +   **[前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)**
@@ -83,75 +99,21 @@
 
 ### Vue
 
-![](./imgs/vue.png)
-
-资料链接：
-
-+   源码解析：https://ustbhuangyi.github.io/vue-analysis/
-+   tips：https://vuedose.tips/tips/
-+   vuex 教程：https://segmentfault.com/a/1190000009404727
-
-个人文章：
-
 +   [vuex](https://github.com/hoperyy/blog/issues/117)(2018)
 +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)(2017)
 +   [vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
 
 ### React
 
-![](./imgs/react.png)
-
-个人文章：
-
 +   [React / Redux](https://github.com/hoperyy/blog/issues/118)(2018)
 +   [React 渲染性能提升](https://github.com/hoperyy/blog/issues/21)(2016)
 +   [用 React 实现移动端单页应用](https://github.com/hoperyy/blog/issues/43)(2016)
 
-### 事件循环
-
-![](./imgs/event-loop.png)
-
-### 安全
-
-![](./imgs/safe.png)
-
-### TypeScript
-
-![](./imgs/typescript.png)
-
-资料链接：
-
-+   https://jkchao.github.io/typescript-book-chinese/tips/infer.html
-
 ### Node
-
-![](./imgs/node.png)
-
-个人文章：
 
 +   [koa-compose](https://github.com/hoperyy/blog/issues/132)(2019)
 +   [RESTful 风格](https://github.com/hoperyy/blog/issues/120)(2018/08)
 +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
-
-### ES6/7/...
-
-![](./imgs/es67more.png)
-
-### 异步编程
-
-![](./imgs/async-coding.png)
-
-资料链接：
-
-+   实现一个 Promise：https://juejin.im/post/5ab20c58f265da23a228fe0f
-
-### Electron
-
-![](./imgs/electron.png)
-
-### 小程序
-
-![](./imgs/miniprogram.png)
 
 ### JavaScript 其他
 
