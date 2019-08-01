@@ -1,14 +1,4 @@
-## 概览
-
-这是我的个人博客，记录日常思考、项目进展。
-
-博客包括三部分：
-
-1. 精选
-2. 所有文章
-3. 碎语
-
-## 精选
+# 精选
 
 +   开源
     +   独立解析某个文件的依赖树：[get-dependency-tree](https://github.com/hoperyy/get-dependency-tree)(2019/07/03)
@@ -36,7 +26,7 @@
     +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
     +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
 
-## 个人整理的知识体系思维导图
+# 个人整理的知识体系思维导图
 
 +   [工程化](./imgs/fe-engineer.png)
 +   [错误监控](./imgs/fe-error.png)
@@ -75,9 +65,9 @@
 +   [Electron](./imgs/electron.png)
 +   [小程序](./imgs/miniprogram.png)
 
-## 个人文章
+# 个人文章
 
-### 前端工程化
+## 前端工程化
 
 +   **[前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)**
 +   **[谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)**
@@ -90,32 +80,32 @@
 +   [用纯 webpack 结构替代 gulp+webpack 结构开发脚手架](https://github.com/hoperyy/front-end-engineering/issues/10)(2017)
 +   [脚手架与业务目录的目录结构浅析](https://github.com/hoperyy/front-end-engineering/issues/16)(2017)
 
-### 性能优化
+## 性能优化
 
 +   **[自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)**
 +   **[前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)**
 +   [自动获取首屏时间原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
 +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
 
-### Vue
+## Vue
 
 +   [vuex](https://github.com/hoperyy/blog/issues/117)(2018)
 +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)(2017)
 +   [vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
 
-### React
+## React
 
 +   [React / Redux](https://github.com/hoperyy/blog/issues/118)(2018)
 +   [React 渲染性能提升](https://github.com/hoperyy/blog/issues/21)(2016)
 +   [用 React 实现移动端单页应用](https://github.com/hoperyy/blog/issues/43)(2016)
 
-### Node
+## Node
 
 +   [koa-compose](https://github.com/hoperyy/blog/issues/132)(2019)
 +   [RESTful 风格](https://github.com/hoperyy/blog/issues/120)(2018/08)
 +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
 
-### JavaScript 其他
+## JavaScript 其他
 
 +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
 +   [数组的几个方法](https://github.com/hoperyy/blog/issues/23)(2016)
@@ -127,7 +117,7 @@
 +   [jQuery-1.7.1 源码阅读笔记](https://github.com/hoperyy/blog/issues/9)(2015)
 +   [js 基础](https://github.com/hoperyy/blog/issues/28)(2015)
 
-### CSS
+## CSS
 
 +   **[css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)**
 +   **[什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)**
@@ -136,7 +126,7 @@
 +   [css3 速查手册](https://github.com/hoperyy/blog/issues/13)(2015)
 +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)(2014)
 
-### 思考
+## 思考
 
 +   **[一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)**
 +   **[如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)**
@@ -153,7 +143,7 @@
 +   [何为优秀的前端？](https://github.com/hoperyy/blog/issues/49)(2015)
 +   [2014年工作总结](https://github.com/hoperyy/blog/issues/44)(2014)
 
-### 基础知识
+## 基础知识
 
 +   [《图解 HTTP》 读书笔记](https://github.com/hoperyy/blog/issues/58)(2017)
 +   [跨域那点事](https://github.com/hoperyy/blog/issues/25)(2016)
@@ -162,7 +152,7 @@
 +   [gif/jpg/png/WebP 的区别](https://github.com/hoperyy/blog/issues/42)(2016)
 +   [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://github.com/hoperyy/blog/issues/19)(2016)
 
-### 工具
+## 工具
 
 +   [chrome 插件开发总结](https://github.com/hoperyy/blog/issues/126)(2018/12/05)
 +   [chrome 开发者工具](https://github.com/hoperyy/blog/issues/122)(2018)
@@ -171,7 +161,7 @@
 +   [Git 速查手册](https://github.com/hoperyy/blog/issues/51)(2014)
 +   [用油猴子定制你的个性化插件](https://github.com/hoperyy/blog/issues/8)(2014)
 
-## 碎语
+# 碎语
 
 +   #2019/07/17 以天为单位回顾目标进展
 +   #2019/07/16 看到产品曙光
