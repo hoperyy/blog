@@ -11,6 +11,7 @@
     +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
     +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
 +   分享
+    +   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019)
     +   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
     +   [兴趣小组：多端统一开发原理研究](https://github.com/hoperyy/water)(2019/04)
     +   [2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
@@ -26,46 +27,7 @@
     +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
     +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
 
-# 个人整理的知识体系思维导图
-
-+   [工程化](./imgs/fe-engineer.png)
-+   [错误监控](./imgs/fe-error.png)
-+   [性能优化](./imgs/fe-faster.png)
-
-    资料链接：
-
-    +   https://juejin.im/book/5b936540f265da0a9624b04b/section/5b9ba651f265da0ac726e5de
-    +   https://imququ.com/post/protocol-negotiation-in-http2.html
-
-+   [Vue](./imgs/vue.png)
-
-    资料链接：
-
-    +   源码解析：https://ustbhuangyi.github.io/vue-analysis/
-    +   tips：https://vuedose.tips/tips/
-    +   vuex 教程：https://segmentfault.com/a/1190000009404727
-
-+   [React](./imgs/react.png)
-+   [事件循环](./imgs/event-loop.png)
-+   [安全](./imgs/safe.png)
-+   [TypeScript ](./imgs/typescript.png)
-
-    资料链接：
-
-    +   https://jkchao.github.io/typescript-book-chinese/tips/infer.html
-
-+   [Node ](./imgs/node.png)
-+   [ES6/7...](./imgs/es67more.png)
-+   [异步编程](./imgs/async-coding.png)
-
-    资料链接：
-
-    +   实现一个 Promise：https://juejin.im/post/5ab20c58f265da23a228fe0f
-
-+   [Electron](./imgs/electron.png)
-+   [小程序](./imgs/miniprogram.png)
-
-# 个人文章
+# 文章
 
 ## 前端工程化
 
