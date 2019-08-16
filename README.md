@@ -45,19 +45,15 @@
 
 ## 性能优化
 
-+   **[自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)**
++   **[自动获取首屏时间原理](https://github.com/hoperyy/blog/issues/102)(2018)**
 +   **[前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)**
-+   [自动获取首屏时间原理（beta 版）](https://github.com/hoperyy/blog/issues/101)(2018)
 +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
 
-## Vue
+## 框架
 
 +   [vuex](https://github.com/hoperyy/blog/issues/117)(2018)
 +   [vue ssr 那些事](https://github.com/hoperyy/blog/issues/99)(2017)
 +   [vue 源码学习之：如何监听一个对象的变化](https://github.com/hoperyy/blog/issues/61)(2017)
-
-## React
-
 +   [React / Redux](https://github.com/hoperyy/blog/issues/118)(2018)
 +   [React 渲染性能提升](https://github.com/hoperyy/blog/issues/21)(2016)
 +   [用 React 实现移动端单页应用](https://github.com/hoperyy/blog/issues/43)(2016)
@@ -68,8 +64,9 @@
 +   [RESTful 风格](https://github.com/hoperyy/blog/issues/120)(2018/08)
 +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
 
-## JavaScript 其他
+## JavaScript
 
++   [Currying Demo](https://github.com/hoperyy/blog/issues/146)(2019)
 +   [《你不知道的 JavaScript》读书笔记](https://github.com/hoperyy/blog/issues/95)(2017)
 +   [数组的几个方法](https://github.com/hoperyy/blog/issues/23)(2016)
 +   [TypeScript 学习笔记](https://github.com/hoperyy/blog/issues/105)
