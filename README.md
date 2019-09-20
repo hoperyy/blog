@@ -11,6 +11,7 @@
     +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
     +   [ensure-module-latest: 确保某个 npm 包处于最新版](https://github.com/hoperyy/ensure-module-latest)(2017)
 +   分享
+    +   发起并维护着 [微店技术 blog](https://github.com/weidian-inc/weidian-tech-blog)(2019)
     +   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019)
     +   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
     +   [兴趣小组：多端统一开发原理研究](https://github.com/hoperyy/water)(2019/04)
