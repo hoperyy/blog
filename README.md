@@ -46,6 +46,7 @@
 
 ## 性能优化
 
++   **[终端性能优化杂谈](https://github.com/hoperyy/blog/issues/147)(2019)**
 +   **[自动获取首屏时间原理](https://github.com/hoperyy/blog/issues/102)(2018)**
 +   **[前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)**
 +   [《高性能 JavaScript》笔记](https://github.com/hoperyy/blog/issues/54)(2015)
