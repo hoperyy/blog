@@ -32,7 +32,7 @@
 
 ## 前端工程化
 
-+   **[微店前端工程化的迭代史](https://github.com/hoperyy/blog/issues/145)(2019/08/09)**
++   **[微店前端工程化迭代史](https://github.com/hoperyy/blog/issues/145)(2019/08/09)**
 +   **[前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)**
 +   **[谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)**
 +   **[远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)**
