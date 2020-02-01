@@ -13,6 +13,7 @@
     +   [bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
 
         > 自动化流程：项目初始化 -- 开发环境启动 -- 打包。
+
         > 插件化。
 
     +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
