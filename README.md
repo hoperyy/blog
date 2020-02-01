@@ -33,7 +33,7 @@
 +   文章
 
     +   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
-    +   [兴趣小组：深入理解 Babel](https://github.com/hoperyy/water)(2019/04)
+    +   [兴趣小组：深入理解 Babel](./subs/deep-in-babel/README.md)(2019/04)
     +   [2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
     +   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
     +   [自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
