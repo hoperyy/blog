@@ -1,35 +1,37 @@
 # 精选
 
 +   开源
+
     +   [个人整理的代码片段集: snippets](https://hoperyy.github.io/snippets/#/)(长期更新)
 
-        日常工作、学习中常用的代码片段收集、复用
+        > 日常工作、学习中常用的代码片段收集、复用
 
     +   独立解析某个文件的依赖树：[get-dependency-tree](https://github.com/hoperyy/get-dependency-tree)(2019/07/03)
 
-        用该工具可以快速解析出：`js / vue / scss / sass / less / css` 类入口文件的依赖树，不再依赖 webpack 获取依赖树（webpack 暴露的获取方式较晦涩）。
+        > 用该工具可以快速解析出：`js / vue / scss / sass / less / css` 类入口文件的依赖树，不再依赖 webpack 获取依赖树（webpack 暴露的获取方式较晦涩）。
 
     +   [bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
 
-        自动化流程：项目初始化 -- 开发环境启动 -- 打包。
+        > 自动化流程：项目初始化 -- 开发环境启动 -- 打包。
 
-        插件化。
+        > 插件化。
 
     +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
 
-        一种自动计算首屏时间的算法实现。
+        > 一种自动计算首屏时间的算法实现。
 
     +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 
-        挺受欢迎的。
+        > 挺受欢迎的。
 
     +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
         
-        chrome 插件。
+        > chrome 插件。
 
     +   发起并维护着 [微店技术 blog](https://github.com/weidian-inc/weidian-tech-blog)(2019)
 
-+   精选文章
++   文章
+
     +   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
     +   [兴趣小组：多端统一开发原理研究](https://github.com/hoperyy/water)(2019/04)
     +   [2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
