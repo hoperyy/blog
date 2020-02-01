@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "node build.js",
-    "ghpage": "docsite ghpage",
-    "push": "git add . && git commit -m 'update' && git push origin master && exit 0"
+    "ghpage": "q docsite-push",
+    "push": "git add . && git commit -m 'docs: update readme' && git push origin master && exit 0"
   },
   "repository": {
     "type": "git",
@@ -17,11 +16,8 @@
     "url": "https://github.com/hoperyy/blog/issues"
   },
   "homepage": "https://github.com/hoperyy/blog#readme",
-  "devDependencies": {
-    "docsite-cli": "^1.0.1",
-    "generate-docs-by-github-issue": "^1.0.1"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "extend": "^3.0.2"
+    "qute-cli": "^1.0.4"
   }
 }
