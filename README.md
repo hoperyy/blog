@@ -90,6 +90,7 @@
 ## Babel
 
 +   [兴趣小组：深入理解 Babel](./subs/deep-in-babel/README.md)(2019/04)
++   [Babel 概述](https://github.com/hoperyy/water/issues/6)
 
 ## JavaScript
 
