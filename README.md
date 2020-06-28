@@ -24,6 +24,8 @@
 
         > 挺受欢迎的。
 
+        [npm](https://www.npmjs.com/package/sync-directory)
+
     +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
         
         > chrome 插件。
