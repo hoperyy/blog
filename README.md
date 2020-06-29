@@ -1,56 +1,79 @@
-# 精选
 
-+   开源
+## 我的开源
 
-    +   [个人整理的代码片段集: snippets](https://hoperyy.github.io/snippets/#/)(长期更新)
++   [个人整理的代码片段集: snippets](https://hoperyy.github.io/snippets/#/)(长期更新)
 
-        > 日常工作、学习中常用的代码片段收集、复用
+    > 日常工作、学习中常用的代码片段收集、复用
 
-    +   独立解析某个文件的依赖树：[get-dependency-tree](https://github.com/hoperyy/get-dependency-tree)(2019/07/03)
++   独立解析某个文件的依赖树：[get-dependency-tree](https://github.com/hoperyy/get-dependency-tree)(2019/07/03)
 
-        > 用该工具可以快速解析出：`js / vue / scss / sass / less / css` 类入口文件的依赖树，不再依赖 webpack 获取依赖树（webpack 暴露的获取方式较晦涩）。
+    > 用该工具可以快速解析出：`js / vue / scss / sass / less / css` 类入口文件的依赖树，不再依赖 webpack 获取依赖树（webpack 暴露的获取方式较晦涩）。
 
-    +   [bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
++   [bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
 
-        > 自动化流程：项目初始化 -- 开发环境启动 -- 打包。
+    > 自动化流程：项目初始化 -- 开发环境启动 -- 打包。
 
-        > 插件化。
+    > 插件化。
 
-    +   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
++   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
 
-        > 一种自动计算首屏时间的算法实现。
+    > 一种自动计算首屏时间的算法实现。
 
-    +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
++   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 
-        > 挺受欢迎的。
+    > 挺受欢迎的。
 
-        [npm](https://www.npmjs.com/package/sync-directory)
+    [npm](https://www.npmjs.com/package/sync-directory)
 
-    +   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
-        
-        > chrome 插件。
++   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
+    
+    > chrome 插件。
 
-    +   发起并维护着 [微店技术 blog](https://github.com/weidian-inc/weidian-tech-blog)(2019)
++   发起并维护着 [微店技术 blog](https://github.com/weidian-inc/weidian-tech-blog)(2019)
+
+## 精选文章
+
++   [兴趣小组：深入理解 Babel](https://github.com/hoperyy/water)(2019/04)
++   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
++   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
++   [2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
++   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
++   [自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
++   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
++   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
++   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
++   [前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)
++   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
++   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
++   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
++   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
++   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
+
+# 所有文章
+
+## [深入理解 Babel](https://github.com/hoperyy/water)
 
 +   文章
 
-    +   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
-    +   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
-    +   [兴趣小组：深入理解 Babel](https://github.com/hoperyy/water)(2019/04)
-    +   [2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
-    +   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
-    +   [自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
-    +   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
-    +   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
-    +   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
-    +   [前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)
-    +   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
-    +   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
-    +   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
-    +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
-    +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
+    +   [Babel概述](https://github.com/hoperyy/water/issues/6)
 
-# 所有文章
++   工具
+
+    +   独立解析某个文件的依赖树：[get-dependency-tree](https://github.com/hoperyy/get-dependency-tree)
+
+        用该工具可以快速解析出：`js / vue / scss / sass / less / css` 类入口文件的依赖树，不再依赖 webpack 获取依赖树（webpack 暴露的获取方式极其晦涩）。
+
++   分享
+
+    +   [babel 插件开发全面理解](https://github.com/hoperyy/water/issues/4)(2019-05-05)
+    +   [babel 插件开发实践过程](https://github.com/hoperyy/water/issues/5)(2019-05-19)
+    +   babel架构图(2019-12-05)
+
+        ![](https://raw.githubusercontent.com/hoperyy/water/master/img/structure.png)
+
+    +   微信小程序知识图谱
+
+        ![](https://raw.githubusercontent.com/hoperyy/water/master/img/miniprogram.png)
 
 ## 前端工程化
 
