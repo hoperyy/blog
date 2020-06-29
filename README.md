@@ -35,7 +35,9 @@
 
 +   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
 
-## [深入理解 Babel](https://github.com/hoperyy/water)
+## 深入理解 Babel
+
++   [项目地址](https://github.com/hoperyy/water)
 
 +   文章
 
