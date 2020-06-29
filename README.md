@@ -97,11 +97,6 @@
 +   [RESTful 风格](https://github.com/hoperyy/blog/issues/120)(2018/08)
 +   [SQL](https://github.com/hoperyy/blog/issues/119)(2018/08/24)
 
-## Babel
-
-+   [兴趣小组：深入理解 Babel](./subs/deep-in-babel/README.md)(2019/04)
-+   [Babel 概述](https://github.com/hoperyy/water/issues/6)(2020/06/11)
-
 ## JavaScript
 
 +   [Currying Demo](https://github.com/hoperyy/blog/issues/146)(2019)
