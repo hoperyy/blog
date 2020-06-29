@@ -49,8 +49,6 @@
 +   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
 +   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
 
-# 所有文章
-
 ## [深入理解 Babel](https://github.com/hoperyy/water)
 
 +   文章
