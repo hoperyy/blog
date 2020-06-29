@@ -31,23 +31,9 @@
 
 +   发起并维护着 [微店技术 blog](https://github.com/weidian-inc/weidian-tech-blog)(2019)
 
-## 精选文章
+## 知识体系
 
-+   [兴趣小组：深入理解 Babel](https://github.com/hoperyy/water)(2019/04)
 +   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
-+   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
-+   [2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
-+   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
-+   [自动获取首屏时间原理（成熟版）](https://github.com/hoperyy/blog/issues/102)(2018)
-+   [前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)
-+   [谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)
-+   [解决 webpack/webpack-dev-server 监听文件时频繁触发编译和回调的问题](https://github.com/hoperyy/front-end-engineering/issues/4)(2017)
-+   [前端性能优化知识集合](https://github.com/hoperyy/blog/issues/108)(2017)
-+   [远程同步文件的几种技术方案](https://github.com/hoperyy/blog/issues/4)(2017)
-+   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
-+   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)
-+   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
-+   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
 
 ## [深入理解 Babel](https://github.com/hoperyy/water)
 
@@ -75,6 +61,7 @@
 
 ## 前端工程化
 
++   **[2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)**
 +   **[微店前端工程化迭代史](https://github.com/hoperyy/blog/issues/145)(2019/08/09)**
 +   **[前端工程化简介](https://github.com/hoperyy/blog/issues/114)(2018)**
 +   **[谈谈前端产品质量控制](https://github.com/hoperyy/blog/issues/100)(2018)**
