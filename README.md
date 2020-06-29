@@ -31,10 +31,6 @@
 
 +   发起并维护着 [微店技术 blog](https://github.com/weidian-inc/weidian-tech-blog)(2019)
 
-## 知识体系
-
-+   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
-
 ## 深入理解 Babel
 
 +   [项目地址](https://github.com/hoperyy/water)
@@ -60,6 +56,10 @@
     +   微信小程序知识图谱
 
         ![](https://raw.githubusercontent.com/hoperyy/water/master/img/miniprogram.png)
+
+## 知识体系
+
++   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
 
 ## 前端工程化
 
