@@ -1,6 +1,10 @@
 
 ## 我的开源
 
++   [plugin-anything 插件化改造工具](https://github.com/hoperyy/blog/issues/150)
+
+    > 批量生产插件化工具的工具
+
 +   [个人整理的代码片段集: snippets](https://hoperyy.github.io/snippets/#/)(长期更新)
 
     > 日常工作、学习中常用的代码片段收集、复用
