@@ -60,13 +60,8 @@ mogonote: https://mogonote.com/
 
     +   [babel 插件开发全面理解](https://github.com/hoperyy/water/issues/4)(2019-05-05)
     +   [babel 插件开发实践过程](https://github.com/hoperyy/water/issues/5)(2019-05-19)
-    +   babel架构图(2019-12-05)
-
-        ![](https://raw.githubusercontent.com/hoperyy/water/master/img/structure.png)
-
-    +   微信小程序知识图谱
-
-        ![](https://raw.githubusercontent.com/hoperyy/water/master/img/miniprogram.png)
+    +   [babel架构图(2019-12-05)](https://raw.githubusercontent.com/hoperyy/water/master/img/structure.png)
+    +   [微信小程序知识图谱](https://raw.githubusercontent.com/hoperyy/water/master/img/miniprogram.png)
 
 ## 知识体系
 
