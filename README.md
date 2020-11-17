@@ -1,3 +1,10 @@
+## 我的产品
+
+mogonote: https://mogonote.com/
+
+蘑菇笔记，将你的知识体系化
+
+支持**作图 / markdown / text**等类型的笔记，欢迎使用
 
 ## 我的开源
 
