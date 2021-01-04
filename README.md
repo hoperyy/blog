@@ -2,6 +2,8 @@
 
 mogonote: https://mogonote.com/
 
+An All-In-One note.
+
 蘑菇笔记，将你的知识体系化
 
 支持**作图 / markdown / text**等类型的笔记，欢迎使用
@@ -32,7 +34,7 @@ mogonote: https://mogonote.com/
 
 +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 
-    > 挺受欢迎的。
+    > 周下载量 1600+
 
     [npm](https://www.npmjs.com/package/sync-directory)
 
@@ -62,10 +64,6 @@ mogonote: https://mogonote.com/
     +   [babel 插件开发实践过程](https://github.com/hoperyy/water/issues/5)(2019-05-19)
     +   [babel架构图(2019-12-05)](https://raw.githubusercontent.com/hoperyy/water/master/img/structure.png)
     +   [微信小程序知识图谱](https://raw.githubusercontent.com/hoperyy/water/master/img/miniprogram.png)
-
-## 知识体系
-
-+   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
 
 ## 前端工程化
 
@@ -129,6 +127,7 @@ mogonote: https://mogonote.com/
 
 ## 思考
 
++   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
 +   [业务 Sense 培养之路](https://github.com/hoperyy/blog/issues/143)(2020/05/06)
 +   **[一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)**
 +   **[如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)**
