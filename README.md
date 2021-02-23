@@ -2,7 +2,7 @@
 
 mogonote: https://mogonote.com/
 
-An All-In-One note.
+An all-in-one note.
 
 蘑菇笔记，将你的知识体系化
 
@@ -34,7 +34,7 @@ An All-In-One note.
 
 +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 
-    > 周下载量 3000+
+    > 周下载量 4500+
 
     [npm](https://www.npmjs.com/package/sync-directory)
 
@@ -119,8 +119,8 @@ An All-In-One note.
 
 ## CSS
 
-+   **[css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)**
-+   **[什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)**
++   [css 样式的百分比都相对于谁？](https://github.com/hoperyy/blog/issues/18)(2016)
++   [什么是 BFC？](https://github.com/hoperyy/blog/issues/16)(2016)
 +   [flex 属性快速记忆](https://github.com/hoperyy/blog/issues/41)(2016)
 +   [css 清除浮动的 3 个方法](https://github.com/hoperyy/blog/issues/17)(2014)
 +   [css3 速查手册](https://github.com/hoperyy/blog/issues/13)(2015)
@@ -130,10 +130,10 @@ An All-In-One note.
 
 +   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
 +   [业务 Sense 培养之路](https://github.com/hoperyy/blog/issues/143)(2020/05/06)
-+   **[一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)**
-+   **[如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)**
-+   **[如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)**
-+   **[推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)**
++   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
++   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
++   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
++   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)**
 +   [收藏的文章](https://github.com/hoperyy/blog/issues/142)(2019/05)
 +   [聊一聊前端业务开发](https://github.com/hoperyy/blog/issues/135)(2019/03/18)
 +   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
