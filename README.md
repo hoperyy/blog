@@ -34,7 +34,7 @@ An all-in-one note.
 
 +   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
 
-    > 周下载量 4500+
+    > 周下载量 8000+
 
     [npm](https://www.npmjs.com/package/sync-directory)
 
