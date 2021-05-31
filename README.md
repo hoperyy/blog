@@ -67,7 +67,7 @@ An all-in-one note.
 
 ## 前端工程化
 
-+   [预检测 -- 微店的质量保证探索](https://github.com/hoperyy/blog/issues/153)(2021/05/31)
++   [预检测 -- 微店的前端质量保证探索](https://github.com/hoperyy/blog/issues/153)(2021/05/31)
 +   [commander.js 原理解析](https://github.com/hoperyy/blog/issues/152)(2021/02/22)
 +   [2018 iWeb 峰会《微店前端工程化》分享 PPT](https://github.com/hoperyy/blog/issues/115)(2018/08/12)
 +   [微店前端工程化迭代史](https://github.com/hoperyy/blog/issues/145)(2019/08/09)
