@@ -129,6 +129,7 @@ An all-in-one note.
 
 ## 思考
 
++   [对技术 TL 的思考: what does tech leader do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12-22)
 +   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
 +   [业务 Sense 培养之路](https://github.com/hoperyy/blog/issues/143)(2020/05/06)
 +   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
