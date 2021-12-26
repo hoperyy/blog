@@ -2,9 +2,7 @@
 
 mogonote: https://mogonote.com/
 
-An all-in-one note.
-
-蘑菇笔记，将你的知识体系化
+An all-in-one note: 将你的知识体系化
 
 支持**作图 / markdown / text**等类型的笔记，欢迎使用
 
@@ -64,6 +62,26 @@ An all-in-one note.
     +   [babel 插件开发实践过程](https://github.com/hoperyy/water/issues/5)(2019-05-19)
     +   [babel架构图(2019-12-05)](https://raw.githubusercontent.com/hoperyy/water/master/img/structure.png)
     +   [微信小程序知识图谱](https://raw.githubusercontent.com/hoperyy/water/master/img/miniprogram.png)
+
+## 思考
+
++   [对技术 TL 的思考: what does tech leader do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12-22)
++   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
++   [业务 Sense 培养之路](https://github.com/hoperyy/blog/issues/143)(2020/05/06)
++   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
++   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
++   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
++   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)**
++   [收藏的文章](https://github.com/hoperyy/blog/issues/142)(2019/05)
++   [聊一聊前端业务开发](https://github.com/hoperyy/blog/issues/135)(2019/03/18)
++   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
++   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
++   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
++   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
++   [一次大促活动总结](https://github.com/hoperyy/blog/issues/46)(2016)
++   [工作中的方法论](https://github.com/hoperyy/blog/issues/45)(2015)
++   [何为优秀的前端？](https://github.com/hoperyy/blog/issues/49)(2015)
++   [2014年工作总结](https://github.com/hoperyy/blog/issues/44)(2014)
 
 ## 前端工程化
 
@@ -126,26 +144,6 @@ An all-in-one note.
 +   [css 清除浮动的 3 个方法](https://github.com/hoperyy/blog/issues/17)(2014)
 +   [css3 速查手册](https://github.com/hoperyy/blog/issues/13)(2015)
 +   [css 书写顺序规范](https://github.com/hoperyy/blog/issues/6)(2014)
-
-## 思考
-
-+   [对技术 TL 的思考: what does tech leader do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12-22)
-+   [个人整理的知识体系思维导图](https://github.com/hoperyy/blog/issues/144)(2019/08/01)
-+   [业务 Sense 培养之路](https://github.com/hoperyy/blog/issues/143)(2020/05/06)
-+   [一种实现简单且舒服的前端接口异常处理方案](https://github.com/hoperyy/blog/issues/143)(2019/08/01)
-+   [如何在项目中做到 0 bug？](https://github.com/hoperyy/blog/issues/140)(2019/04/12)
-+   [如何维护并优化一个复杂项目](https://github.com/hoperyy/blog/issues/55)(2017)
-+   [推进业务落地的经验](https://github.com/hoperyy/blog/issues/92)(2017)**
-+   [收藏的文章](https://github.com/hoperyy/blog/issues/142)(2019/05)
-+   [聊一聊前端业务开发](https://github.com/hoperyy/blog/issues/135)(2019/03/18)
-+   [前端工作流](https://github.com/hoperyy/blog/issues/128)(2018)
-+   [一次难得的多团队协作项目](https://github.com/hoperyy/blog/issues/47)(2016)
-+   [优秀的前端要注意的素养](https://github.com/hoperyy/blog/issues/48)(2016)
-+   [前端技能图谱](https://github.com/hoperyy/blog/issues/50)(2016)
-+   [一次大促活动总结](https://github.com/hoperyy/blog/issues/46)(2016)
-+   [工作中的方法论](https://github.com/hoperyy/blog/issues/45)(2015)
-+   [何为优秀的前端？](https://github.com/hoperyy/blog/issues/49)(2015)
-+   [2014年工作总结](https://github.com/hoperyy/blog/issues/44)(2014)
 
 ## 基础知识
 
