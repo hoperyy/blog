@@ -1,10 +1,14 @@
 ## 我的产品
 
-mogonote: https://mogonote.com/
+notely: https://mogonote.com/ (正在迁移到 notely.cc)
 
-An all-in-one note: 将你的知识体系化
+Note Friendly.
 
-支持**作图 / markdown / text**等类型的笔记，欢迎使用
+支持:
+
++   多类型笔记: **作图 / markdown / text**
++   多存储模式: 离线 / Github
++   即开即用: 极速模式，即开即用
 
 ## 我的开源
 
