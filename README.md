@@ -4,8 +4,6 @@ notely: https://mogonote.com (正在迁移到 https://notelyweb.com)
 
 Note Friendly.
 
-支持:
-
 +   无需登录: 即开即用
 +   多类型笔记: **作图 / markdown / text**
 +   多存储模式: 离线 / Github
