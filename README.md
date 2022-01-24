@@ -1,6 +1,6 @@
 ## 我的产品
 
-notely: https://mogonote.com (正在迁移到 https://notelyweb.com)
+notely: https://mogonote.com (正在迁移到 https://notelyer.com)
 
 Note Friendly.
 
