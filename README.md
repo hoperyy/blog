@@ -46,6 +46,8 @@ Note Friendly.
 
 ## 深入理解 Babel
 
++   图书《深入理解 Babel》编写中，[部分草稿](https://hoperyy.github.io/deep-in-babel)
+
 +   [项目地址](https://github.com/hoperyy/water)
 
 +   文章
