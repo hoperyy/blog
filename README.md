@@ -5,8 +5,9 @@ notely: https://mogonote.com (正在迁移到 https://notelyer.com)
 Note Friendly.
 
 +   无需登录: 即开即用
-+   多类型笔记: **作图 / markdown / text**
++   多类型笔记: **Draw / markdown / text**
 +   多存储模式: 离线 / Github
++   无限目录: 多级、无限目录
 
 ## 我的开源
 
