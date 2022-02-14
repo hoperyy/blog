@@ -1,21 +1,57 @@
-## 我的产品
+### About Me
 
-Notely: https://mogonote.com (正在迁移到 https://notelyer.com)
+- 👨  I'm a Front-End Developer.
+- ⚡   I'm now focused on **Tech Product** / **Teach Lead** / **Deep-In-Series**
 
-Note Friendly.
+## Products
 
-+   无需登录: 即开即用
-+   多类型笔记: **Draw / markdown / text**
-+   多存储模式: 离线 / Github
-+   无限目录: 多级、无限目录
+Notely: https://mogonote.com/home (to be replaced with https://notelyer.com)
 
-## 我的开源
+> **Notely**: *Note* Friend*ly*<br>
 
-+   [plugin-anything 插件化改造工具](https://github.com/hoperyy/blog/issues/150)
+Features as below:
 
-    > 批量生产插件化工具的工具
+>   Easy Using: Without Login
 
-+   [个人整理的代码片段集: snippets](https://hoperyy.github.io/snippets/#/)(长期更新)
+>   Type: Draw / Markdown / Text
+
+>   Storage: Offline / Github / ... 
+
+>   Unlimited: Multi Level Directory
+
+## Projects
+
++   [deep-in-babel](https://github.com/hoperyy/deep-in-babel)(2021 ~ now)
+
+    《深入理解 Babel》作者，图书编写中，[部分草稿](https://hoperyy.github.io/deep-in-babel)
+
++   [sync-directory](https://github.com/hoperyy/sync-directory)(2017)
+
+    > A sometimes popular package
+
+    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 9000+ (the top download count)
+
++   [what-does-tech-leader-do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12)
+
+    > 《技术管理者的自我修养》，好的管理，可以最大限度的激发每个人的能力和善意
+
++   [plugin-anything](https://github.com/hoperyy/blog/issues/150)(2020)
+
+    > Make pluginable applications.
+
++   [auto-compute-first-screen-time](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
+
+    > Get first screen loading time automatically
+
++   [fix-colors-out-of-memory](https://www.npmjs.com/package/fix-colors-out-of-memory)(2022)
+
+    > You surely know what happed with [colors](https://github.com/Marak/colors.js/issues/285)
+    
+    > Fix it!
+
+    > [npm](https://www.npmjs.com/package/fix-colors-out-of-memory) was just publish for it!
+
++   [snippets](https://hoperyy.github.io/snippets/#/)(长期更新)
 
     > 日常工作、学习中常用的代码片段收集、复用
 
@@ -28,20 +64,6 @@ Note Friendly.
     > 自动化流程：项目初始化 -- 开发环境启动 -- 打包。
 
     > 插件化。
-
-+   [auto-compute-first-screen-time: 自动计算页面首屏时间](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
-
-    > 一种自动计算首屏时间的算法实现。
-
-+   [sync-directory: 同步文件目录的工具包](https://github.com/hoperyy/sync-directory)(2017)
-
-    > 周下载量 8000+
-
-    [npm](https://www.npmjs.com/package/sync-directory)
-
-+   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
-    
-    > chrome 插件。
 
 +   发起并维护着 [微店技术 blog](https://github.com/weidian-inc/weidian-tech-blog)(2019)
 
