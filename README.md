@@ -5,7 +5,7 @@
 
 ## Products
 
-Notely: https://mogonote.com/home (to be replaced with https://notelyapp.com)
+Notely: https://notelyapp.com
 
 > **Notely**: *Note* Friend*ly*<br>
 
