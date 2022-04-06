@@ -5,7 +5,7 @@
 
 ## Products
 
-Notely: https://notelyapp.com
+Notely: https://mogonote.com
 
 > **Notely**: *Note* Friend*ly*<br>
 
