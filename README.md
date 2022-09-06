@@ -5,7 +5,7 @@
 
 ## Products
 
-Notely: https://inotely.github.io
+Notely: https://notelyio.com/
 
 > **Notely**: *Note* Friend*ly*<br>
 
