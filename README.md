@@ -29,7 +29,7 @@ Features as below:
 
     > A sometimes popular package
 
-    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 10k+ (the top download count)
+    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 12k+ (the top download count)
 
 +   [what-does-tech-leader-do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12)
 
